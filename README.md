@@ -38,7 +38,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [noisepl.c][13] | [Demizdor][14] | Noise Planets example made with raylib. |
 | [RayCollisions.c][15] | [Pikachuxxxx][16] | Function to Detect Collisions Between a Ray and a Rectangle and Dynamic Rectangle and a Rectangle. |
 | [raylib_dpi_hack.c][17] | [mattj1][18] | Function to get window DPI. |
-<!--| [DrawTexturePro3D.c][19] | [Rabios][20] | Draw 2D texture with raylib in 3D space! |-->
 | [raynames.h][21] | [dotxnc][22] | Header that provides lowercase name aliases for types and functions of raylib, raymath, easings, And rnet. |
 | [raylibvectors.c][23] | [AregevDev][24] | raylib example for 2D Vectors. |
 | [maze.c][25] | [EdwardDowling][26] | Maze generation and raycasting example. |
@@ -76,8 +75,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [16]: https://github.com/Pikachuxxxx
 [17]: https://gist.github.com/mattj1/606a94527badb6ffa7d22245c9b745b1
 [18]: https://github.com/mattj1
-<!--[19]: https://gist.github.com/Rabios/ccbb08d7ff4f41af19d53bf02d803815-->
-<!--[20]: https://github.com/Rabios-->
 [21]: https://gist.github.com/dotxnc/403caefa3bd1eae3b8e265e79d6508ad
 [22]: https://github.com/dotxnc
 [23]: https://gist.github.com/AregevDev/737d14ce64be059ed2b6d0d973361985
@@ -126,8 +123,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | Name          | Author           | Description                                   |
 |---------------|------------------|-----------------------------------------------|
 | [rayfork][51] | [SasLuca][52]    | Single header and source, cross-platform, allocator-aware, C99 game libraries. |
-<!--| [rayport][53] | [Rabios][20]     | Awesome C99, Header-Only, rayfork wrapper for raylib! |-->
-| [rayutils][54] | [Rabios][20]    | Single-Header library that extends raylib with some awesome functionality! |
 | [raygui][55] | [raysan5][56]     | Simple and easy-to-use immediate-mode GUI library. |
 | [Physac][57] | [victorfisac][58] | 2D physics header-only library for videogames developed in C using raylib library. |
 | [rpng][59] | [raysan5][56] | Simple and easy-to-use library to manage png chunks. | 
@@ -189,8 +184,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 [51]: https://github.com/SasLuca/rayfork
 [52]: https://github.com/SasLuca
-<!--[53]: https://github.com/Rabios/rayport-->
-<!--[54]: https://github.com/Rabios/rayutils-->
 [55]: https://github.com/raysan5/raygui
 [56]: https://github.com/raysan5
 [57]: https://github.com/victorfisac/Physac
@@ -321,7 +314,6 @@ CHECKPOINT
 | [RayTracer][184] | [MaximeHouis][185] | Ray Tracer in C++ using raylib. |
 | [GeldaEngine][186] | [fedqx][187] | C raylib game engine. |
 | [rengfx][188] | [xdrie][189] | Lightweight, expressive, extensible 2D/3D game engine, Written in [D][190]. |
-<!--| [raytaiko][191] | [Rabios][20] | Simple and moddable Taiko no Tatsujin engine written in [Lua][192] using raylib using [TSnake41][193]'s [LuaJIT bindings][194]. |-->
 | [cbit-raylib][195] | [nurakmaljalil91][196] | C++ Game Engine built on top of raylib. |
 | [PhysicsEngine][197] | [CarterPatterson][198] | Simple physics engine built in raylib for [AIE][199] CS 2019, Written in C++! |
 | [Midday-Commander][200] | [Guevara-chan][201] | •Retrofuturistic file manager•, Written in [Nim][202]. |
@@ -415,7 +407,6 @@ CHECKPOINT
 [188]: https://github.com/xdrie/rengfx
 [189]: https://github.com/xdrie
 [190]: https://dlang.org
-<!--[191]: https://github.com/Rabios/raytaiko-->
 [192]: https://lua.org
 [193]: https://github.com/TSnake41
 [194]: https://github.com/TSnake41/raylib-lua
@@ -640,7 +631,6 @@ CHECKPOINT
 | [rayfork-tests][426] | [SasLuca][52] | Collection of examples written in rayfork that also serve as tests. |
 | [cray-examples][427] | [dtcristo][428] | raylib examples ported to Crystal. |
 | [raylib-games][429] | [raysan5][56] | raysan5's collection of games made with raylib. |
-<!--| [rayfork-games][430] | [Rabios][20] | Full port of raylib sample games to rayfork! |-->
 | [c99-raylib-car-physics][431] | [WEREMSOFT][93] | Car physiscs made with raylib. |
 | [c99-raylib-shadowmap][432] | [WEREMSOFT][93] | Shadowmap implementation in raylib. |
 | [Dlang-Game-Dev][433] | [rillk500][434] | Games created with D programming language. |
@@ -787,7 +777,6 @@ CHECKPOINT
 [427]: https://github.com/dtcristo/cray-examples
 [428]: https://github.com/dtcristo
 [429]: https://github.com/raysan5/raylib-games
-<!-- [430]: https://github.com/Rabios/rayfork-games -->
 [431]: https://github.com/WEREMSOFT/c99-raylib-car-physics
 [432]: https://github.com/WEREMSOFT/c99-raylib-shadowmap
 [433]: https://github.com/rillk500/Dlang-Game-Dev
@@ -1454,10 +1443,8 @@ CHECKPOINT
 
 [![raysan5/raylib](logos/raylib.png)](https://github.com/raysan5/raylib "raysan5/raylib")
 [![SasLuca/rayfork](logos/rayfork.png)](https://github.com/SasLuca/rayfork "SasLuca/rayfork")
-<!--[![Rabios/rayport](logos/rayport.png)](https://github.com/Rabios/rayport "Rabios/rayport")-->
 [![RobLoach/raylib-cpp](logos/raylib-cpp.png)](https://github.com/robloach/raylib-cpp "RobLoach/raylib-cpp")
 [![ChrisDill/Raylib-cs](logos/raylib-cs.png)](https://github.com/ChrisDill/Raylib-cs "ChrisDill/Raylib-cs")
-<!--[![Rabios/raylib-boo](logos/raylib-boo.png)](https://github.com/Rabios/raylib-boo "Rabios/raylib-boo")-->
 [![gen2brain/raylib-go](logos/raylib-go.png)](https://github.com/gen2brain/raylib-go "gen2brain/raylib-go")
 [![Lachee/raylib-goplus](logos/raylib-go-plus.png)](https://github.com/Lachee/raylib-goplus "Lachee/raylib-goplus")
 [![deltaphc/raylib-rs](logos/raylib-rust.png)](https://github.com/deltaphc/raylib-rs "deltaphc/raylib-rs")
@@ -1465,14 +1452,12 @@ CHECKPOINT
 [![RobLoach/raylib-lua-sol](logos/raylib-lua-sol.png)](https://github.com/RobLoach/raylib-lua-sol "RobLoach/raylib-lua-sol")
 [![TSnake41/raylib-lua](logos/tsnake41-raylib-lua.png)](https://github.com/TSnake41/raylib-lua "TSnake41/raylib-lua")
 [![HDPLocust/raylib-luamore](logos/raylib-luamore.png)](https://github.com/HDPLocust/raylib-luamore "HDPLocust/raylib-luamore")
-<!--[![Rabios/raylua](logos/raylua.png)](https://github.com/Rabios/raylua "Rabios/raylua")-->
 [![Andre-LA/raylib-nelua](logos/raylib-nelua.png)](https://github.com/Andre-LA/raylib-nelua "Andre-LA/raylib-nelua")
 [![AregevDev/raylib-cr](logos/raylib-cr.png)](https://github.com/AregevDev/raylib-cr "AregevDev/raylib-cr")
 [![drezgames/raylib-pascal](logos/raylib-pascal.png)](https://github.com/drezgames/raylib-pascal "drezgames/raylib-pascal")
 [![GuvaCode/Ray4Laz](logos/ray4laz.png)](https://github.com/GuvaCode/Ray4Laz "GuvaCode/Ray4Laz")
 [![overdev/raylib-py](logos/raylib-py.png)](https://github.com/overdev/raylib-py "overdev/raylib-py")
 [![RobLoach/node-raylib](logos/node-raylib.png)](https://github.com/RobLoach/node-raylib "RobLoach/node-raylib")
-<!--[![Rabios/raylib-v7](logos/raylib-v7.png)](https://github.com/Rabios/raylib-v7 "Rabios/raylib-v7")-->
 [![RobLoach/raylib-chaiscript](logos/raylib-chaiscript.png)](https://github.com/RobLoach/raylib-chaiscript "RobLoach/raylib-chaiscript")
 [![ArnautDaniel/raylib-factor](logos/raylib-factor.png)](https://github.com/ArnautDaniel/raylib-factor "ArnautDaniel/raylib-factor")
 [![ArnautDaniel/gforth-raylib](logos/gforth-raylib.png)](https://github.com/ArnautDaniel/gforth-raylib "ArnautDaniel/gforth-raylib")
