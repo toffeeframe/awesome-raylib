@@ -4,7 +4,7 @@ As it's seen, The repository is a list of sources (eg. Gists, Repositories, etc.
 
 In order to contribute:
 
-1. Fork the repository.
+1. Fork and clone the repository.
 2. Find the section/category where the new edit(s) fit.
 3. Based on the section:
 
