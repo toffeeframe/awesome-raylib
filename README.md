@@ -292,7 +292,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [624]: https://git.samerion.com/Samerion/Glui
 [625]: https://git.samerion.com/Samerion
 
-CHECKPOINT
+<!-- CHECKPOINT -->
 
 ### Softwares
 
@@ -375,6 +375,7 @@ CHECKPOINT
 | [LunarViewer][322] | [LunaRyuko][323] | Model viewer for Quake 1 and Hexen 2. |
 | [mapviewer][324] | [myuce][325] | Very primitive map viewer for the Quake map format. |
 | [minitile][326] | [catmanl][327] | A mini tilemap editor. |
+| [PadCast][632] | [nantr0nic][633] | A simple gamepad display that shows controller activity, Written in C++ and geared towards streamers. |
 
 [160]: https://github.com/gtrxAC/gxarch
 [161]: https://github.com/gtrxAC
@@ -541,6 +542,8 @@ CHECKPOINT
 [325]: https://github.com/myuce
 [326]: https://github.com/catmanl/minitile
 [327]: https://github.com/catmanl
+[632]: https://github.com/nantr0nic/PadCast
+[633]: https://github.com/nantr0nic
 
 ### Deprecated/Removed/Unknown bindings
 
