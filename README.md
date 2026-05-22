@@ -27,96 +27,103 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Gists
 
-| Name         | Author             | Description                                    |
-|--------------|--------------------|------------------------------------------------|
-| [sort.c][1]  | [ohmree][2]        | C Sorting example that uses raylib.            |
-| [bleed.c][3] | [satinxs][4]       | Bleed bug when drawing rectangles with raylib. |
-| [agui.h][5]  | [masterex1000][6]  | Small UI helper library intended to be used with raylib. |
-| [rpmd.c][7]  | [SamyBencherif][8] | Pixelated 2D lighting with shadows in raylib, software accelerated.  |
-| [client_GUI.c][9] | [Goodguyr][10] | raylib example of networking, Drawing circles for each player.   |
-| [pan.c][11]  | [JeffM2501][12] | raylib example of mouse drag panning for 2D camera. |
-| [noisepl.c][13] | [Demizdor][14] | Noise Planets example made with raylib. |
-| [RayCollisions.c][15] | [Pikachuxxxx][16] | Function to Detect Collisions Between a Ray and a Rectangle and Dynamic Rectangle and a Rectangle. |
-| [raylib_dpi_hack.c][17] | [mattj1][18] | Function to get window DPI. |
-| [raynames.h][21] | [dotxnc][22] | Header that provides lowercase name aliases for types and functions of raylib, raymath, easings, And rnet. |
-| [raylibvectors.c][23] | [AregevDev][24] | raylib example for 2D Vectors. |
-| [maze.c][25] | [EdwardDowling][26] | Maze generation and raycasting example. |
-| [core_2d_camera_c-mera.lisp][27] | [pluckyporcupine][28] | raylib core_2d_camera example ported to [C-Mera][29]! |
-| [core_split_screen.c][30] | [JeffM2501][12] | Simple splitscreen implemntation for raylib. |
-| [models_mesh_generation.c][31] | [JeffM2501][12] | Example shows that Mesh generation of quad with UV repeats in raylib. |
-| [imgui_docking_exmaple.cpp][32] | [JeffM2501][12] | Example of how to do editor style docking in [ImGui][33] for raylib. |
-| [varfps.c][34] | [JeffM2501][12] | raylib test showing how frame based motion can be problematic. |
-| [raylib worldspace panning with rotation][35] | [JeffM2501][12] | raylib example of worldspace panning with rotation. |
-| [raylib worldspace panning][36] | [JeffM2501][12] | raylib example of worldspace panning without rotation. |
-| [Model merge for raylib][37] | [JeffM2501][12] | Example of model merge made with raylib. |
-| [raylib resize fullscreen example][38] | [JeffM2501][12] | raylib resize fullscreen example. |
-| [orbitcamera.cpp][39] | [JeffM2501][12] | Example of orbit camera made for raylib! |
-| [RLAssets.cpp][40] | [JeffM2501][12] | Basic platform independent asset folder management for raylib. |
-| [Basic Shot Animation raylib][41] | [JeffM2501][12] | Basic animation made with raylib. |
-| [Basic entity game][42] | [JeffM2501][12] | Entity example made with raylib. |
-| [DrawTextureProZ][43] | [JeffM2501][12] | Modified version of `DrawTexturePro` that adds Z Dimension/Depth! |
-| [raylib fullscreen toggle example][44] | [JeffM2501][12] | fullscreen toggle example made with raylib. |
+| Name                                                                                   | Author                                    | Description                                    |
+|----------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
+| [sort.c][ohmree-dac78b36b736a71dc9a423d10b9509cc]                                      | [ohmree][ohmree-github]                   | C Sorting example that uses raylib.            |
+| [bleed.c][satinxs-e55461da74ba378a09d813cb6767ffae]                                    | [satinxs][satinxs-github]                 | Bleed bug when drawing rectangles with raylib. |
+| [agui.h][masterex1000-92c861eeef03e761d0addc6edc0b741f]                                | [masterex1000][masterex1000-github]       | Small UI helper library intended to be used with raylib. |
+| [rpmd.c][SamyBencherif-00412fa24b411c07ad57176e64793fb5]                               | [SamyBencherif][SamyBencherif-github]     | Pixelated 2D lighting with shadows in raylib, software accelerated.  |
+| [client_GUI.c][Goodguyr-284a262dc95ab0a35b498115c1cb3d41]                              | [Goodguyr][Goodguyr-github]               | raylib example of networking, Drawing circles for each player.   |
+| [pan.c][JeffM2501-3c7da5c2b7e078e254d673f91489c78f]                                    | [JeffM2501][JeffM2501-github]             | raylib example of mouse drag panning for 2D camera. |
+| [noisepl.c][Demizdor-e916ba765336c389af4ecd2c557a6be6]                                 | [Demizdor][Demizdor-github]               | Noise Planets example made with raylib. |
+| [RayCollisions.c][Pikachuxxxx-0dda4b70bf71b794b08923df34961844]                        | [Pikachuxxxx][Pikachuxxxx-github]         | Function to Detect Collisions Between a Ray and a Rectangle and Dynamic Rectangle and a Rectangle. |
+| [raylib_dpi_hack.c][mattj1-606a94527badb6ffa7d22245c9b745b1]                           | [mattj1][mattj1-github]                   | Function to get window DPI. |
+| [raynames.h][dotxnc-403caefa3bd1eae3b8e265e79d6508ad]                                  | [dotxnc][dotxnc-github]                   | Header that provides lowercase name aliases for types and functions of raylib, raymath, easings, And rnet. |
+| [raylibvectors.c][AregevDev-737d14ce64be059ed2b6d0d973361985]                          | [AregevDev][AregevDev-github]             | raylib example for 2D Vectors. |
+| [maze.c][EdwardDowling-01a872cca79e1404bbc2]                                           | [EdwardDowling][EdwardDowling-github]     | Maze generation and raycasting example. |
+| [core_2d_camera_c-mera.lisp][pluckyporcupine-bbaa93b00e020c53faf27e5bde087374]         | [pluckyporcupine][pluckyporcupine-github] | raylib core_2d_camera example ported to [C-Mera][kiselgra-c-mera]! |
+| [core_split_screen.c][JeffM2501-85e3c3fa4c5296227ab91dd7d2dec471]                      | [JeffM2501][JeffM2501-github]             | Simple splitscreen implemntation for raylib. |
+| [models_mesh_generation.c][JeffM2501-18964218591e5aa302f17f0ae5a45b77]                 | [JeffM2501][JeffM2501-github]             | Example shows that Mesh generation of quad with UV repeats in raylib. |
+| [imgui_docking_exmaple.cpp][JeffM2501-4c3a7e8a85302f743f8bd9dc1aae00ae]                | [JeffM2501][JeffM2501-github]             | Example of how to do editor style docking in [ImGui][ocornut-imgui] for raylib. |
+| [varfps.c][JeffM2501-588d8b632d1bf49c7f010dde0a9dcbee]                                 | [JeffM2501][JeffM2501-github]             | raylib test showing how frame based motion can be problematic. |
+| [raylib worldspace panning with rotation][JeffM2501-703728379eb6e9d51d33201d1a1fe05d]  | [JeffM2501][JeffM2501-github]             | raylib example of worldspace panning with rotation. |
+| [raylib worldspace panning][JeffM2501-edb5b8bbfd5a1744d4f97865ad4be989]                | [JeffM2501][JeffM2501-github]             | raylib example of worldspace panning without rotation. |
+| [Model merge for raylib][JeffM2501-08d20cdd931456ad0e52905401cc34af]                   | [JeffM2501][JeffM2501-github]             | Example of model merge made with raylib. |
+| [raylib resize fullscreen example][JeffM2501-00cf5653f41337d8c9e8db40deb25656]         | [JeffM2501][JeffM2501-github]             | raylib resize fullscreen example. |
+| [orbitcamera.cpp][JeffM2501-000787070aef421a00c02ae4cf799ea1]                          | [JeffM2501][JeffM2501-github]             | Example of orbit camera made for raylib! |
+| [RLAssets.cpp][JeffM2501-bd1092ce0eaedd26fe3ca60e1743ce40]                             | [JeffM2501][JeffM2501-github]             | Basic platform independent asset folder management for raylib. |
+| [Basic Shot Animation raylib][JeffM2501-a6eb14d734f88a065a73adb729eed1f7]              | [JeffM2501][JeffM2501-github]             | Basic animation made with raylib. |
+| [Basic entity game][JeffM2501-a5987d2f4575e871f561197232ba0f60]                        | [JeffM2501][JeffM2501-github]             | Entity example made with raylib. |
+| [DrawTextureProZ][JeffM2501-1c4c9c8048cbb19d11c9807518196b69]                          | [JeffM2501][JeffM2501-github]             | Modified version of `DrawTexturePro` that adds Z Dimension/Depth! |
+| [raylib fullscreen toggle example][JeffM2501-6e4630a0e34c0c7dddf066f7192e342d]         | [JeffM2501][JeffM2501-github]             | fullscreen toggle example made with raylib. |
 
-[1]: https://gist.github.com/ohmree/dac78b36b736a71dc9a423d10b9509cc
-[2]: https://github.com/ohmree
-[3]: https://gist.github.com/satinxs/e55461da74ba378a09d813cb6767ffae
-[4]: https://github.com/satinxs
-[5]: https://gist.github.com/masterex1000/92c861eeef03e761d0addc6edc0b741f
-[6]: https://github.com/masterex1000
-[7]: https://gist.github.com/SamyBencherif/00412fa24b411c07ad57176e64793fb5
-[8]: https://github.com/SamyBencherif
-[9]: https://gist.github.com/Goodguyr/284a262dc95ab0a35b498115c1cb3d41
-[10]: https://github.com/Goodguyr
-[11]: https://gist.github.com/JeffM2501/3c7da5c2b7e078e254d673f91489c78f
-[12]: https://github.com/JeffM2501
-[13]: https://gist.github.com/Demizdor/e916ba765336c389af4ecd2c557a6be6
-[14]: https://github.com/Demizdor
-[15]: https://gist.github.com/Pikachuxxxx/0dda4b70bf71b794b08923df34961844
-[16]: https://github.com/Pikachuxxxx
-[17]: https://gist.github.com/mattj1/606a94527badb6ffa7d22245c9b745b1
-[18]: https://github.com/mattj1
-[21]: https://gist.github.com/dotxnc/403caefa3bd1eae3b8e265e79d6508ad
-[22]: https://github.com/dotxnc
-[23]: https://gist.github.com/AregevDev/737d14ce64be059ed2b6d0d973361985
-[24]: https://github.com/AregevDev
-[25]: https://gist.github.com/EdwardDowling/01a872cca79e1404bbc2
-[26]: https://github.com/EdwardDowling
-[27]: https://gist.github.com/pluckyporcupine/bbaa93b00e020c53faf27e5bde087374
-[28]: https://github.com/pluckyporcupine
-[29]: https://github.com/kiselgra/c-mera
-[30]: https://gist.github.com/JeffM2501/85e3c3fa4c5296227ab91dd7d2dec471
-[31]: https://gist.github.com/JeffM2501/18964218591e5aa302f17f0ae5a45b77
-[32]: https://gist.github.com/JeffM2501/4c3a7e8a85302f743f8bd9dc1aae00ae
-[33]: https://github.com/ocornut/imgui
-[34]: https://gist.github.com/JeffM2501/588d8b632d1bf49c7f010dde0a9dcbee
-[35]: https://gist.github.com/JeffM2501/703728379eb6e9d51d33201d1a1fe05d
-[36]: https://gist.github.com/JeffM2501/edb5b8bbfd5a1744d4f97865ad4be989
-[37]: https://gist.github.com/JeffM2501/08d20cdd931456ad0e52905401cc34af
-[38]: https://gist.github.com/JeffM2501/00cf5653f41337d8c9e8db40deb25656
-[39]: https://gist.github.com/JeffM2501/000787070aef421a00c02ae4cf799ea1
-[40]: https://gist.github.com/JeffM2501/bd1092ce0eaedd26fe3ca60e1743ce40
-[41]: https://gist.github.com/JeffM2501/a6eb14d734f88a065a73adb729eed1f7
-[42]: https://gist.github.com/JeffM2501/a5987d2f4575e871f561197232ba0f60
-[43]: https://gist.github.com/JeffM2501/1c4c9c8048cbb19d11c9807518196b69
-[44]: https://gist.github.com/JeffM2501/6e4630a0e34c0c7dddf066f7192e342d
+[ohmree-github]:                                    https://github.com/ohmree
+[satinxs-github]:                                   https://github.com/satinxs
+[masterex1000-github]:                              https://github.com/masterex1000
+[SamyBencherif-github]:                             https://github.com/SamyBencherif
+[Goodguyr-github]:                                  https://github.com/Goodguyr
+[JeffM2501-github]:                                 https://github.com/JeffM2501
+[Demizdor-github]:                                  https://github.com/Demizdor
+[Pikachuxxxx-github]:                               https://github.com/Pikachuxxxx
+[mattj1-github]:                                    https://github.com/mattj1
+[dotxnc-github]:                                    https://github.com/dotxnc
+[AregevDev-github]:                                 https://github.com/AregevDev
+[EdwardDowling-github]:                             https://github.com/EdwardDowling
+[pluckyporcupine-github]:                           https://github.com/pluckyporcupine
+
+[ohmree-dac78b36b736a71dc9a423d10b9509cc]:          https://gist.github.com/ohmree/dac78b36b736a71dc9a423d10b9509cc
+[satinxs-e55461da74ba378a09d813cb6767ffae]:         https://gist.github.com/satinxs/e55461da74ba378a09d813cb6767ffae
+[masterex1000-92c861eeef03e761d0addc6edc0b741f]:    https://gist.github.com/masterex1000/92c861eeef03e761d0addc6edc0b741f
+[SamyBencherif-00412fa24b411c07ad57176e64793fb5]:   https://gist.github.com/SamyBencherif/00412fa24b411c07ad57176e64793fb5
+[Goodguyr-284a262dc95ab0a35b498115c1cb3d41]:        https://gist.github.com/Goodguyr/284a262dc95ab0a35b498115c1cb3d41
+[JeffM2501-3c7da5c2b7e078e254d673f91489c78f]:       https://gist.github.com/JeffM2501/3c7da5c2b7e078e254d673f91489c78f
+[Demizdor-e916ba765336c389af4ecd2c557a6be6]:        https://gist.github.com/Demizdor/e916ba765336c389af4ecd2c557a6be6
+[Pikachuxxxx-0dda4b70bf71b794b08923df34961844]:     https://gist.github.com/Pikachuxxxx/0dda4b70bf71b794b08923df34961844
+[mattj1-606a94527badb6ffa7d22245c9b745b1]:          https://gist.github.com/mattj1/606a94527badb6ffa7d22245c9b745b1
+[dotxnc-403caefa3bd1eae3b8e265e79d6508ad]:          https://gist.github.com/dotxnc/403caefa3bd1eae3b8e265e79d6508ad
+[AregevDev-737d14ce64be059ed2b6d0d973361985]:       https://gist.github.com/AregevDev/737d14ce64be059ed2b6d0d973361985
+[EdwardDowling-01a872cca79e1404bbc2]:               https://gist.github.com/EdwardDowling/01a872cca79e1404bbc2
+[pluckyporcupine-bbaa93b00e020c53faf27e5bde087374]: https://gist.github.com/pluckyporcupine/bbaa93b00e020c53faf27e5bde087374
+[JeffM2501-85e3c3fa4c5296227ab91dd7d2dec471]:       https://gist.github.com/JeffM2501/85e3c3fa4c5296227ab91dd7d2dec471
+[JeffM2501-18964218591e5aa302f17f0ae5a45b77]:       https://gist.github.com/JeffM2501/18964218591e5aa302f17f0ae5a45b77
+[JeffM2501-4c3a7e8a85302f743f8bd9dc1aae00ae]:       https://gist.github.com/JeffM2501/4c3a7e8a85302f743f8bd9dc1aae00ae
+[JeffM2501-588d8b632d1bf49c7f010dde0a9dcbee]:       https://gist.github.com/JeffM2501/588d8b632d1bf49c7f010dde0a9dcbee
+[JeffM2501-703728379eb6e9d51d33201d1a1fe05d]:       https://gist.github.com/JeffM2501/703728379eb6e9d51d33201d1a1fe05d
+[JeffM2501-edb5b8bbfd5a1744d4f97865ad4be989]:       https://gist.github.com/JeffM2501/edb5b8bbfd5a1744d4f97865ad4be989
+[JeffM2501-08d20cdd931456ad0e52905401cc34af]:       https://gist.github.com/JeffM2501/08d20cdd931456ad0e52905401cc34af
+[JeffM2501-00cf5653f41337d8c9e8db40deb25656]:       https://gist.github.com/JeffM2501/00cf5653f41337d8c9e8db40deb25656
+[JeffM2501-000787070aef421a00c02ae4cf799ea1]:       https://gist.github.com/JeffM2501/000787070aef421a00c02ae4cf799ea1
+[JeffM2501-bd1092ce0eaedd26fe3ca60e1743ce40]:       https://gist.github.com/JeffM2501/bd1092ce0eaedd26fe3ca60e1743ce40
+[JeffM2501-a6eb14d734f88a065a73adb729eed1f7]:       https://gist.github.com/JeffM2501/a6eb14d734f88a065a73adb729eed1f7
+[JeffM2501-a5987d2f4575e871f561197232ba0f60]:       https://gist.github.com/JeffM2501/a5987d2f4575e871f561197232ba0f60
+[JeffM2501-1c4c9c8048cbb19d11c9807518196b69]:       https://gist.github.com/JeffM2501/1c4c9c8048cbb19d11c9807518196b69
+[JeffM2501-6e4630a0e34c0c7dddf066f7192e342d]:       https://gist.github.com/JeffM2501/6e4630a0e34c0c7dddf066f7192e342d
+
+[kiselgra-c-mera]:                                  https://github.com/kiselgra/c-mera
+[ocornut-imgui]:                                    https://github.com/ocornut/imgui
+
+<!-- 1 to 44 resolved -->
 
 ### Homebrew Ports
 
-| Name                    | Author         | Platform              |
-|-------------------------|----------------|-----------------------|
-| [orbisdev-orbisGl2][45] | [orbisdev][46] | Sony PlayStation 4    |
-| [raylib4Vita][47]       | [psp2dev][48]  | Sony PlayStation Vita |
-| [3ds-raylib][49]        | [Gota7][50]    | Nintendo 3DS          |
-| [raylib-nx][626]        | [LucaSkyer][627] | Nintendo Switch     |
+| Name                                   | Author                        | Platform              |
+|----------------------------------------|-------------------------------|-----------------------|
+| [orbisdev-orbisGl2][orbisdev-orbisGL2] | [orbisdev][orbisdev-github]   | Sony PlayStation 4    |
+| [raylib4Vita][psp2dev-raylib4Vita]     | [psp2dev][psp2dev-github]     | Sony PlayStation Vita |
+| [3ds-raylib][Gota7-3ds-raylib]         | [Gota7][Gota7-github]         | Nintendo 3DS          |
+| [raylib-nx][LucaSkyer-raylib-nx]       | [LucaSkyer][LucaSkyer-github] | Nintendo Switch       |
 
-[45]: https://github.com/orbisdev/orbisdev-orbisGl2
-[46]: https://github.com/orbisdev
-[47]: https://github.com/psp2dev/raylib4Vita
-[48]: https://github.com/psp2dev
-[49]: https://github.com/Gota7/3ds-raylib
-[50]: https://github.com/Gota7
-[626]: https://github.com/lucaskyer/raylib-nx
-[627]: https://github.com/lucaskyer
+[orbisdev-github]:      https://github.com/orbisdev
+[psp2dev-github]:       https://github.com/psp2dev
+[Gota7-github]:         https://github.com/Gota7
+[LucaSkyer-github]:     https://github.com/lucaskyer
+
+[orbisdev-orbisGL2]:    https://github.com/orbisdev/orbisdev-orbisGl2
+[psp2dev-raylib4Vita]:  https://github.com/psp2dev/raylib4Vita
+[Gota7-3ds-raylib]:     https://github.com/Gota7/3ds-raylib
+[LucaSkyer-raylib-nx]:  https://github.com/lucaskyer/raylib-nx
+
+<!-- 45 to 50 + 626 627 are done -->
 
 ### Libraries and Frameworks
 
@@ -547,49 +554,52 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Deprecated/Removed/Unknown bindings
 
-| Name                        | Author               | Language             |
-|-----------------------------|----------------------|----------------------|
-| [Raylib-J][328]             | [CreedVI][329]       | Java ([LWJGL3][330]) |
-| [rust_raylib_bindings][331] | [DevJac][332]        | Rust                 |
-| [raylib-rust][333]          | [dtcristo][334]      | Rust                 |
-| [Raylib-for-GLBasic][335]   | [SliverLIVE][336]    | [GLBasic][337]       |
-| [fb-raylib][338]            | [glasyalabolas][339] | [FreeBASIC][340]     |
-| [raylib-haxe][341]          | [haxeui][342]        | [Haxe][343]          |
-| [rayex][344]                | [shiryel][345]       | [Elixir][346]        |
+| Name                                                 | Author                                | Language                          |
+|------------------------------------------------------|---------------------------------------|-----------------------------------|
+| [Raylib-J][CreedVI-Raylib-J]                         | [CreedVI][CreedVI-github]             | Java ([LWJGL3][lwjgl3-java-lang]) |
+| [rust_raylib_bindings][DevJac-rust_raylib_bindings]  | [DevJac][DevJac-github]               | Rust                              |
+| [raylib-rust][dtcristo-raylib-rust]                  | [dtcristo][dtcristo-github]           | Rust                              |
+| [Raylib-for-GLBasic][SliverLIVE-Raylib-for-GLBasic]  | [SliverLIVE][SliverLIVE-github]       | [GLBasic][glbasic-lang]           |
+| [fb-raylib][glasyalabolas-fb-raylib]                 | [glasyalabolas][glasyalabolas-github] | [FreeBASIC][freebasic-lang]       |
+| [raylib-haxe][haxeui-raylib-haxe]                    | [haxeui][haxeui-github]               | [Haxe][haxe-lang]                 |
+| [rayex][shiryel-rayex]                               | [shiryel][shiryel-github]             | [Elixir][elixir-lang]             |
 
-[328]: https://github.com/CreedVI/Raylib-J
-[329]: https://github.com/CreedVI
-[330]: https://www.lwjgl.org
-[331]: https://github.com/DevJac/rust_raylib_bindings
-[332]: https://github.com/DevJac
-[333]: https://github.com/dtcristo/raylib-rust
-[334]: https://github.com/dtcristo
-[335]: https://github.com/SliverLIVE/Raylib-for-GLBasic
-[336]: https://github.com/SliverLIVE
-[337]: https://www.glbasic.com
-[338]: https://github.com/glasyalabolas/fb-raylib
-[339]: https://github.com/glasyalabolas
-[340]: https://www.freebasic.net
-[341]: https://github.com/haxeui/raylib-haxe
-[342]: https://github.com/haxeui
-[343]: https://haxe.org
-[344]: https://github.com/shiryel/rayex
-[345]: https://github.com/shiryel
-[346]: https://elixir-lang.org
+[CreedVI-github]:                 https://github.com/CreedVI
+[DevJac-github]:                  https://github.com/DevJac
+[dtcristo-github]:                https://github.com/dtcristo
+[SliverLIVE-github]:              https://github.com/SliverLIVE
+[glasyalabolas-github]:           https://github.com/glasyalabolas
+[haxeui-github]:                  https://github.com/haxeui
+[shiryel-github]:                 https://github.com/shiryel
+
+[CreedVI-Raylib-J]:               https://github.com/CreedVI/Raylib-J
+[DevJac-rust_raylib_bindings]:    https://github.com/DevJac/rust_raylib_bindings
+[dtcristo-raylib-rust]:           https://github.com/dtcristo/raylib-rust
+[SliverLIVE-Raylib-for-GLBasic]:  https://github.com/SliverLIVE/Raylib-for-GLBasic
+[glasyalabolas-fb-raylib]:        https://github.com/glasyalabolas/fb-raylib
+[haxeui-raylib-haxe]:             https://github.com/haxeui/raylib-haxe
+[shiryel-rayex]:                  https://github.com/shiryel/rayex
+
+[lwjgl3-java-lang]:               https://www.lwjgl.org
+[glbasic-lang]:                   https://www.glbasic.com
+[freebasic-lang]:                 https://www.freebasic.net
+[haxe-lang]:                      https://haxe.org
+[elixir-lang]:                    https://elixir-lang.org
 
 > NOTE: You won't find these bindings in [BINDINGS.md](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)!
 
 ### Libraries bindings/ports
 
-| Name                          | Author          | Description              |
-|-------------------------------|-----------------|--------------------------|
-| [rayfork-rs][347]             | [Dacode45][348] | Port of rayfork to Rust. |
-| [Animator-For-Raylib-CS][349] | [EMoore13][350] | Modified version of AliElSaleh's Animator-For-Raylib that uses raylib-cs! |
+| Name                                                      | Author                      | Description              |
+|-----------------------------------------------------------|-----------------------------|--------------------------|
+| [rayfork-rs][Dacode45-rayfork-rs]                         | [Dacode45][Dacode45-github] | Port of rayfork to Rust. |
+| [Animator-For-Raylib-CS][EMoore13-Animator-For-Raylib-CS] | [EMoore13][EMoore13-github] | Modified version of AliElSaleh's Animator-For-Raylib that uses raylib-cs! |
 
-[347]: https://github.com/Dacode45/rayfork-rs
-[348]: https://github.com/Dacode45
-[349]: https://github.com/EMoore13/Animator-For-Raylib-CS
-[350]: https://github.com/EMoore13
+[Dacode45-github]:                 https://github.com/Dacode45
+[EMoore13-github]:                 https://github.com/EMoore13
+
+[Dacode45-rayfork-rs]:             https://github.com/Dacode45/rayfork-rs
+[EMoore13-Animator-for-Raylib-CS]: https://github.com/EMoore13/Animator-For-Raylib-CS
 
 ### Community Examples
 
@@ -1506,3 +1516,4 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib page on itch.io](https://raysan5.itch.io/raylib)
 
 > Can't find your awesome stuff or you want to improve the list? Make issue or pull request for that!
+
