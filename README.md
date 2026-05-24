@@ -935,121 +935,122 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Templates
 
-<!-- TODO refactor readability -->
+| Name                                                                       | Author                                         | Description                                                                                                                    |
+|--------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [raylib_starter][tducasse-raylib_starter]                                  | [tducasse][tducasse-github]                    | Simple raylib template for Windows and Web targets.                                                                            |
+| [rbpi400raylib][daandruff-rbpi400raylib]                                   | [daandruff][daandruff-github]                  | Simple raylib template for Raspberry Pi 400.                                                                                   |
+| [raylibtest][irskep-raylibtest]                                            | [irskep][irskep-github]                        | raylib Nim bindings test example.                                                                                              |
+| [ray-starter][jamiltron-ray-starter]                                       | [jamiltron][jamiltron-github]                  | Skeleton of a raylib project with CMake.                                                                                       |
+| [raylib-template][benweidig-raylib-template]                               | [benweidig][benweidig-github]                  | Linux template for raylib.                                                                                                     |
+| [raylib-cpp-starter][CapsCollective-raylib-cpp-starter]                    | [CapsCollective][CapsCollective-github]        | Portable and automated template for raylib projects with C++ bindings.                                                         |
+| [simple_raylib_template][inque-simple_raylib_template]                     | [inque][inque-gitlab]                          | This is a simple raylib boilerplate that can be used as a starting point for raylib, It has also utility to build for Web!     |
+| [raylib-imgui-template][oswjk-raylib-imgui-template]                       | [oswjk][oswjk-github]                          | Basic raylib + Dear ImGui template.                                                                                            |
+| [raygame][AIE-Seattle-Prog-raygame]                                        | [AIE-Seattle-Prog][AIE-Seattle-Prog-github]    | Sample C++ project setup with raylib for Visual Studio 2017.                                                                   |
+| [raygamecsharp][AIE-Seattle-Prog-raygamecsharp]                            | [AIE-Seattle-Prog][AIE-Seattle-Prog-github]    | Sample C# project setup with raylib-cs for Visual Studio 2017.                                                                 |
+| [Dnkvw-Raylib-Minimal-Example][DaNiKhan-GbR-Dnkvw-Raylib-Minimal-Example]  | [DaNiKhan-GbR][DaNiKhan-GbR-github]            | Minimal example that demonstrates the usage of Dnkvw with raylib, Can be used as a project template.                           |
+| [RaylibHotReloadTemplate][krzosa-RaylibHotReloadTemplate]                  | [krzosa][krzosa-github]                        | Template for hot reload code in raylib.                                                                                        |
+| [c99-raylib-template][WEREMSOFT-c99-raylib-template]                       | [WEREMSOFT][WEREMSOFT-github]                  | Starting template to work with raylib, Uses make for build.                                                                    |
+| [c99-raylib-cimgui-template][WEREMSOFT-c99-raylib-cimgui-template]         | [WEREMSOFT][WEREMSOFT-github]                  | Simple template to integrate raylib with imgui on C99, Uses [cimgui][cimgui-cimgui] bindings.                                  |
+| [raylib-network-template][WEREMSOFT-raylib-network-template]               | [WEREMSOFT][WEREMSOFT-github]                  | Kinda serverless multiplayer template. It can be used to make a very basic multiplayer game.                                   |
+| [raylib-cmake-template][SasLuca-raylib-cmake-template]                     | [SasLuca][SasLuca-github]                      | Very minimal project template for raylib using CMake that works well in CLion & Visual Studio.                                 |
+| [rayfork-sokol-template][SasLuca-rayfork-sokol-template]                   | [SasLuca][SasLuca-github]                      | Simple rayfork project template with sokol-app and CMake.                                                                      |
+| [go-raylib-template][RaniSputnik-go-raylib-template]                       | [RaniSputnik][RaniSputnik-github]              | Starter template for building games with the raylib Golang bindings.                                                           |
+| [raylib-starter-kit][Hidden-Pixel-raylib-starter-kit]                      | [Hidden-Pixel][Hidden-Pixel-github]            | This repository is to raylib starter kit to help get up and running quickly after installing MSVC, clang or gcc, and emcc.     |
+| [rayskeleton][oswjk-rayskeleton]                                           | [oswjk][oswjk-github]                          | Skeleton project template for raylib. Uses CMake.                                                                              |
+| [RaylibStarterProjectXcode][braedenf]                                      | [braedenf][braedenf-github]                    | Basic window implemented with raylib in XCode.                                                                                 |
+| [raystart][jacmoe-raystart]                                                | [jacmoe][jacmoe-github]                        | Quick CMake based project template for exploratory graphics programming using raylib.                                          |
+| [RaylibVSTemplate][JamieMair-RaylibVSTemplate]                             | [JamieMair][JamieMair-github]                  | Template Visual Studio 2019 C++ project for the raylib library.                                                                |
+| [raylib-boilerplate][Yrds-raylib-boilerplate]                              | [Yrds][Yrds-github]                            | out-of-box environment to develop raylib games.                                                                                |
+| [raylib_graphic_template][Qinbeans-raylib_graphic_template]                | [Qinbeans][Qinbeans-github]                    | Template for future use and has working adjustable resolution.                                                                 |
+| [tempraylib][CodingCor-tempraylib]                                         | [CodingCor][CodingCor-github]                  | Simple C++ template to use raylib in Linux and Windows.                                                                        |
+| [Raylib-Scons-boilerplate][MrOneTwo-Raylib-Scons-boilerplate]              | [MrOneTwo][MrOneTwo-github]                    | Boilerplate for raylib with Scons as build system.                                                                             |
+| [raylib-meson-template][gilzoide-raylib-meson-template]                    | [gilzoide][gilzoide-github]                    | Minimal template project for C/C++ applications using raylib built using Meson.                                                |
+| [raylibMinimumVS][Ushio-raylibMinimumVS]                                   | [Ushio][Ushio-github]                          | Simple C++ template for raylib for use with Visual Studio 2017.                                                                |
+| [raylib_template][janderkkotlarski-raylib_template]                        | [janderkkotlarski][janderkkotlarski-github]    | C++ Simple raylib template that should works when raylib is correctly installed.                                               |
+| [raylib-lsk][Lattay-raylib-lsk]                                            | [Lattay][Lattay-github]                        | [Lattay][Lattay-github]'s Starter Kit for raylib, small boiler plate for raylib projects.                                      |
+| [vscode-raylib-base][charlesmartinreed-vscode-raylib-base]                 | [charlesmartinreed][charlesmartinreed-github]  | Setup used by GamesFromScratch when he made tutorials for raylib.                                                              |
+| [RaylibCSharpStarter][AIESydProgYr12021-RaylibCSharpStarter]               | [AIESydProgYr12021][AIESydProgYr12021-github]  | raylib C# game starter kit.                                                                                                    |
+| [RaylibStarterCPP][LodisAIE-RaylibStarterCPP]                              | [LodisAIE][LodisAIE-github]                    | raylib C++ game starter kit.                                                                                                   |
+| [Raylib-with-Flecs-Template][HeatXD-Raylib-with-Flecs-Template]            | [HeatXD][HeatXD-github]                        | Template for raylib with a custom flecs pipline for raylib.                                                                    |
+| [parsec_raylib_template][underscorenygren-parsec_raylib_template]          | [underscorenygren][underscorenygren-github]    | Starter project for the parsec and raylib integration article series, Use this as a base from which to create your own games.  |
+| [kotlin-native-raylib-starter][LeHaine-kotlin-native-raylib-starter]       | [LeHaine][LeHaine-github]                      | Base projected configured to link, build, and run raylib with Kotlin Native.                                                   |
+| [Raylib-C-starterProj][JustinKatic-Raylib-C-starterProj]                   | [JustinKatic][JustinKatic-github]              | Basic startup setup for raylib with a clear Start and Update function.                                                         |
+| [raylib-scaffold][waruqi-raylib-scaffold]                                  | [waruqi][waruqi-github]                        | Minimal raylib project template that uses XMake.                                                                               |
+| [RayTemplateC][GoldenbergDaniel-RayTemplateC]                              | [GoldenbergDaniel][GoldenbergDaniel-github]    | Template for the raylib library in C.                                                                                          |
+| [Raylib Screensaver][RicoP-raylib-screensaver]                             | [RicoP][RicoP-github]                          | Template for windows 3D screensavers made in raylib.                                                                           |
 
-| Name                  | Author          | Description                                 |
-|-----------------------|-----------------|---------------------------------------------|
-| [raylib_starter][tducasse-raylib_starter] | [tducasse][tducasse-github] | Simple raylib template for Windows and Web targets. |
-| [rbpi400raylib][daandruff-rbpi400raylib] | [daandruff][daandruff-github] | Simple raylib template for Raspberry Pi 400. |
-| [raylibtest][irskep-raylibtest] | [irskep][irskep-github] | raylib Nim bindings test example. |
-| [ray-starter][jamiltron-ray-starter] | [jamiltron][jamiltron-github] | Skeleton of a raylib project with CMake. |
-| [raylib-template][benweidig-raylib-template] | [benweidig][benweidig-github] | Linux template for raylib. |
-| [raylib-cpp-starter][CapsCollective-raylib-cpp-starter] | [CapsCollective][CapsCollective-github] | Portable and automated template for raylib projects with C++ bindings. |
-| [simple_raylib_template][inque-simple_raylib_template] | [inque][inque-gitlab] | This is a simple raylib boilerplate that can be used as a starting point for raylib, It has also utility to build for Web! |
-| [raylib-imgui-template][oswjk-raylib-imgui-template] | [oswjk][oswjk-github] | Basic raylib + Dear ImGui template. |
-| [raygame][AIE-Seattle-Prog-raygame] | [AIE-Seattle-Prog][AIE-Seattle-Prog-github] | Sample C++ project setup with raylib for Visual Studio 2017. |
-| [raygamecsharp][AIE-Seattle-Prog-raygamecsharp] | [AIE-Seattle-Prog][AIE-Seattle-Prog-github] | Sample C# project setup with raylib-cs for Visual Studio 2017. |
-| [Dnkvw-Raylib-Minimal-Example][DaNiKhan-GbR-Dnkvw-Raylib-Minimal-Example] | [DaNiKhan-GbR][DaNiKhan-GbR-github] | Minimal example that demonstrates the usage of Dnkvw with raylib, Can be used as a project template. |
-| [RaylibHotReloadTemplate][krzosa-RaylibHotReloadTemplate] | [krzosa][krzosa-github] | Template for hot reload code in raylib. |
-| [c99-raylib-template][WEREMSOFT-c99-raylib-template] |  [WEREMSOFT][WEREMSOFT-github] | Starting template to work with raylib, Uses make for build. |
-| [c99-raylib-cimgui-template][WEREMSOFT-c99-raylib-cimgui-template] |  [WEREMSOFT][WEREMSOFT-github] | Simple template to integrate raylib with imgui on C99, Uses [cimgui][cimgui-cimgui] bindings. |
-| [raylib-network-template][WEREMSOFT-raylib-network-template] |  [WEREMSOFT][WEREMSOFT-github] | Kinda serverless multiplayer template. It can be used to make a very basic multiplayer game. |
-| [raylib-cmake-template][SasLuca-raylib-cmake-template] | [SasLuca][SasLuca-github] | Very minimal project template for raylib using CMake that works well in CLion & Visual Studio. |
-| [rayfork-sokol-template][SasLuca-rayfork-sokol-template] | [SasLuca][SasLuca-github] | Simple rayfork project template with sokol-app and CMake. |
-| [go-raylib-template][RaniSputnik-go-raylib-template] | [RaniSputnik][RaniSputnik-github] | Starter template for building games with the raylib Golang bindings. |
-| [raylib-starter-kit][Hidden-Pixel-raylib-starter-kit] | [Hidden-Pixel][Hidden-Pixel-github] | This repository is to raylib starter kit to help get up and running quickly after installing MSVC, clang or gcc, and emcc. |
-| [rayskeleton][oswjk-rayskeleton] | [oswjk][oswjk-github] | Skeleton project template for raylib. Uses CMake. |
-| [RaylibStarterProjectXcode][braedenf] | [braedenf][braedenf-github] | Basic window implemented with raylib in XCode. |
-| [raystart][jacmoe-raystart] | [jacmoe][jacmoe-github] | Quick CMake based project template for exploratory graphics programming using raylib. |
-| [RaylibVSTemplate][JamieMair-RaylibVSTemplate] | [JamieMair][JamieMair-github] | Template Visual Studio 2019 C++ project for the raylib library. |
-| [raylib-boilerplate][Yrds-raylib-boilerplate] | [Yrds][Yrds-github] | out-of-box environment to develop raylib games. |
-| [raylib_graphic_template][Qinbeans-raylib_graphic_template] | [Qinbeans][Qinbeans-github] | Template for future use and has working adjustable resolution. |
-| [tempraylib][CodingCor-tempraylib] | [CodingCor][CodingCor-github] | Simple C++ template to use raylib in Linux and Windows. |
-| [Raylib-Scons-boilerplate][MrOneTwo-Raylib-Scons-boilerplate] | [MrOneTwo][MrOneTwo-github] | Boilerplate for raylib with Scons as build system. |
-| [raylib-meson-template][gilzoide-raylib-meson-template] | [gilzoide][gilzoide-github] | Minimal template project for C/C++ applications using raylib built using Meson. |
-| [raylibMinimumVS][Ushio-raylibMinimumVS] | [Ushio][Ushio-github] | Simple C++ template for raylib for use with Visual Studio 2017. |
-| [raylib_template][janderkkotlarski-raylib_template] | [janderkkotlarski][janderkkotlarski-github] | C++ Simple raylib template that should works when raylib is correctly installed. |
-| [raylib-lsk][Lattay-raylib-lsk] | [Lattay][Lattay-github] | [Lattay][Lattay-github]'s Starter Kit for raylib, small boiler plate for raylib projects. |
-| [vscode-raylib-base][charlesmartinreed-vscode-raylib-base] | [charlesmartinreed][charlesmartinreed-github] | Setup used by GamesFromScratch when he made tutorials for raylib. |
-| [RaylibCSharpStarter][AIESydProgYr12021-RaylibCSharpStarter] | [AIESydProgYr12021][AIESydProgYr12021-github] | raylib C# game starter kit. |
-| [RaylibStarterCPP][LodisAIE-RaylibStarterCPP] | [LodisAIE][LodisAIE-github] | raylib C++ game starter kit. |
-| [Raylib-with-Flecs-Template][HeatXD-Raylib-with-Flecs-Template] | [HeatXD][HeatXD-github] | Template for raylib with a custom flecs pipline for raylib. |
-| [parsec_raylib_template][underscorenygren-parsec_raylib_template] | [underscorenygren][underscorenygren-github] | Starter project for the parsec and raylib integration article series, Use this as a base from which to create your own games. |
-| [kotlin-native-raylib-starter][LeHaine-kotlin-native-raylib-starter] | [LeHaine][LeHaine-github] | Base projected configured to link, build, and run raylib with Kotlin Native. |
-| [Raylib-C-starterProj][JustinKatic-Raylib-C-starterProj] | [JustinKatic][JustinKatic-github] | Basic startup setup for raylib with a clear Start and Update function. |
-| [raylib-scaffold][waruqi-raylib-scaffold] | [waruqi][waruqi-github] | Minimal raylib project template that uses XMake. |
-| [RayTemplateC][GoldenbergDaniel-RayTemplateC] | [GoldenbergDaniel][GoldenbergDaniel-github] | Template for the raylib library in C. |
-| [Raylib Screensaver][RicoP-raylib-screensaver] | [RicoP][RicoP-github] | Template for windows 3D screensavers made in raylib. |
 
-[tducasse-raylib_starter]: https://github.com/tducasse/raylib_starter
-[tducasse-github]: https://github.com/tducasse
-[daandruff-rbpi400raylib]: https://github.com/daandruff/rbpi400raylib
-[daandruff-github]: https://github.com/daandruff
-[irskep-raylibtest]: https://github.com/irskep/raylibtest
-[irskep-github]: https://github.com/irskep
-[jamiltron-ray-starter]: https://github.com/jamiltron/ray-starter
-[jamiltron-github]: https://github.com/jamiltron
-[benweidig-raylib-template]: https://github.com/benweidig/raylib-template
-[benweidig-github]: https://github.com/benweidig
-[CapsCollective-raylib-cpp-starter]: https://github.com/CapsCollective/raylib-cpp-starter
-[CapsCollective-github]: https://github.com/CapsCollective
-[inque-simple_raylib_template]: https://gitlab.com/inque/simple_raylib_template
-[inque-gitlab]: https://gitlab.com/inque
-[oswjk-raylib-imgui-template]: https://github.com/oswjk/raylib-imgui-template
-[AIE-Seattle-Prog-raygame]: https://github.com/AIE-Seattle-Prog/raygame
-[AIE-Seattle-Prog-github]: https://github.com/AIE-Seattle-Prog
-[AIE-Seattle-Prog-raygamecsharp]: https://github.com/AIE-Seattle-Prog/raygamecsharp
-[DaNiKhan-GbR-Dnkvw-Raylib-Minimal-Example]: https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example
-[krzosa-RaylibHotReloadTemplate]: https://github.com/krzosa/RaylibHotReloadTemplate
-[krzosa-github]: https://github.com/krzosa
-[WEREMSOFT-c99-raylib-template]: https://github.com/WEREMSOFT/c99-raylib-template
-[WEREMSOFT-c99-raylib-cimgui-template]: https://github.com/WEREMSOFT/c99-raylib-cimgui-template
-[cimgui-cimgui]: https://github.com/cimgui/cimgui
-[WEREMSOFT-raylib-network-template]: https://github.com/WEREMSOFT/raylib-network-template
-[SasLuca-raylib-cmake-template]: https://github.com/SasLuca/raylib-cmake-template
-[SasLuca-rayfork-sokol-template]: https://github.com/SasLuca/rayfork-sokol-template
-[RaniSputnik-go-raylib-template]: https://github.com/RaniSputnik/go-raylib-template
-[RaniSputnik-github]: https://github.com/RaniSputnik
-[Hidden-Pixel-raylib-starter-kit]: https://github.com/Hidden-Pixel/raylib-starter-kit
-[Hidden-Pixel-github]: https://github.com/Hidden-Pixel
-[oswjk-rayskeleton-github]: https://github.com/oswjk/rayskeleton
-[braedenf-RaylibStarterProjectXcode]: https://github.com/braedenf/RaylibStarterProjectXcode
-[braedenf-github]: https://github.com/braedenf
-[jacmoe-raystart]: https://github.com/jacmoe/raystart
-[JamieMair-RaylibVSTemplate]: https://github.com/JamieMair/RaylibVSTemplate
-[JamieMair-github]: https://github.com/JamieMair
-[Yrds-raylib-boilerplate]: https://github.com/Yrds/raylib-boilerplate
-[Yrds-github]: https://github.com/Yrds
-[Qinbeans-raylib_graphic_template]: https://github.com/Qinbeans/raylib_graphic_template
-[Qinbeans-github]: https://github.com/Qinbeans
-[CodingCor-tempraylib]: https://github.com/CodingCor/tempraylib
-[CodingCor-github]: https://github.com/CodingCor
-[MrOneTwo-Raylib-Scons-boilerplate]: https://github.com/MrOneTwo/Raylib-Scons-boilerplate
-[gilzoide-raylib-meson-template]: https://github.com/gilzoide/raylib-meson-template
-[Ushio-raylibMinimumVS]: https://github.com/Ushio/raylibMinimumVS
-[janderkkotlarski-raylib_template]: https://github.com/janderkkotlarski/raylib_template
-[janderkkotlarski-github]: https://github.com/janderkkotlarski
-[Lattay-raylib-lsk]: https://github.com/Lattay/raylib-lsk
-[Lattay-github]: https://github.com/Lattay
-[charlesmartinreed-vscode-raylib-base]: https://github.com/charlesmartinreed/vscode-raylib-base
-[charlesmartinreed-github]: https://github.com/charlesmartinreed
-[AIESydProgYr12021-RaylibCSharpStarter]: https://github.com/AIESydProgYr12021/RaylibCSharpStarter
-[AIESydProgYr12021-github]: https://github.com/AIESydProgYr12021
-[LodisAIE-RaylibStarterCPP]: https://github.com/LodisAIE/RaylibStarterCPP
-[LodisAIE-github]: https://github.com/LodisAIE
-[HeatXD-Raylib-with-Flecs-Template]: https://github.com/HeatXD/Raylib-with-Flecs-Template
-[HeatXD-github]: https://github.com/HeatXD
-[underscorenygren-parsec_raylib_template]: https://github.com/underscorenygren/parsec_raylib_template
-[underscorenygren-github]: https://github.com/underscorenygren
-[LeHaine-kotlin-native-raylib-starter]: https://github.com/LeHaine/kotlin-native-raylib-starter
-[LeHaine-github]: https://github.com/LeHaine
-[JustinKatic-Raylib-C-starterProj]: https://github.com/JustinKatic/Raylib-C-starterProj
-[JustinKatic-github]: https://github.com/JustinKatic
-[waruqi-raylib-scaffold]: https://github.com/waruqi/raylib-scaffold
-[waruqi-github]: https://github.com/waruqi
-[GoldenbergDaniel-RayTemplateC]: https://github.com/GoldenbergDaniel/RayTemplateC
-[GoldenbergDaniel-github]: https://github.com/GoldenbergDaniel
-[RicoP-raylib-screensaver]: https://github.com/RicoP/raylib-screensaver
+[tducasse-github]:           https://github.com/tducasse
+[daandruff-github]:          https://github.com/daandruff
+[irskep-github]:             https://github.com/irskep
+[jamiltron-github]:          https://github.com/jamiltron
+[benweidig-github]:          https://github.com/benweidig
+[CapsCollective-github]:     https://github.com/CapsCollective
+[inque-gitlab]:              https://gitlab.com/inque
+[AIE-Seattle-Prog-github]:   https://github.com/AIE-Seattle-Prog
+[krzosa-github]:             https://github.com/krzosa
+[RaniSputnik-github]:        https://github.com/RaniSputnik
+[braedenf-github]:           https://github.com/braedenf
+[JamieMair-github]:          https://github.com/JamieMair
+[Yrds-github]:               https://github.com/Yrds
+[Qinbeans-github]:           https://github.com/Qinbeans
+[CodingCor-github]:          https://github.com/CodingCor
+[Lattay-github]:             https://github.com/Lattay
+[charlesmartinreed-github]:  https://github.com/charlesmartinreed
+[janderkkotlarski-github]:   https://github.com/janderkkotlarski
+[AIESydProgYr12021-github]:  https://github.com/AIESydProgYr12021
+[LodisAIE-github]:           https://github.com/LodisAIE
+[HeatXD-github]:             https://github.com/HeatXD
+[underscorenygren-github]:   https://github.com/underscorenygren
+[LeHaine-github]:            https://github.com/LeHaine
+[JustinKatic-github]:        https://github.com/JustinKatic
+[waruqi-github]:             https://github.com/waruqi
+[GoldenbergDaniel-github]:   https://github.com/GoldenbergDaniel
+
+[tducasse-raylib_starter]:                    https://github.com/tducasse/raylib_starter
+[daandruff-rbpi400raylib]:                    https://github.com/daandruff/rbpi400raylib
+[irskep-raylibtest]:                          https://github.com/irskep/raylibtest
+[jamiltron-ray-starter]:                      https://github.com/jamiltron/ray-starter
+[benweidig-raylib-template]:                  https://github.com/benweidig/raylib-template
+[CapsCollective-raylib-cpp-starter]:          https://github.com/CapsCollective/raylib-cpp-starter
+[inque-simple_raylib_template]:               https://gitlab.com/inque/simple_raylib_template
+[oswjk-raylib-imgui-template]:                https://github.com/oswjk/raylib-imgui-template
+[AIE-Seattle-Prog-raygame]:                   https://github.com/AIE-Seattle-Prog/raygame
+[AIE-Seattle-Prog-raygamecsharp]:             https://github.com/AIE-Seattle-Prog/raygamecsharp
+[DaNiKhan-GbR-Dnkvw-Raylib-Minimal-Example]:  https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example
+[krzosa-RaylibHotReloadTemplate]:             https://github.com/krzosa/RaylibHotReloadTemplate
+[WEREMSOFT-c99-raylib-template]:              https://github.com/WEREMSOFT/c99-raylib-template
+[WEREMSOFT-c99-raylib-cimgui-template]:       https://github.com/WEREMSOFT/c99-raylib-cimgui-template
+[cimgui-cimgui]:                              https://github.com/cimgui/cimgui
+[WEREMSOFT-raylib-network-template]:          https://github.com/WEREMSOFT/raylib-network-template
+[SasLuca-raylib-cmake-template]:              https://github.com/SasLuca/raylib-cmake-template
+[SasLuca-rayfork-sokol-template]:             https://github.com/SasLuca/rayfork-sokol-template
+[RaniSputnik-go-raylib-template]:             https://github.com/RaniSputnik/go-raylib-template
+[Hidden-Pixel-raylib-starter-kit]:            https://github.com/Hidden-Pixel/raylib-starter-kit
+[Hidden-Pixel-github]:                        https://github.com/Hidden-Pixel
+[oswjk-rayskeleton-github]:                   https://github.com/oswjk/rayskeleton
+[braedenf-RaylibStarterProjectXcode]:         https://github.com/braedenf/RaylibStarterProjectXcode
+[jacmoe-raystart]:                            https://github.com/jacmoe/raystart
+[JamieMair-RaylibVSTemplate]:                 https://github.com/JamieMair/RaylibVSTemplate
+[Yrds-raylib-boilerplate]:                    https://github.com/Yrds/raylib-boilerplate
+[Qinbeans-raylib_graphic_template]:           https://github.com/Qinbeans/raylib_graphic_template
+[CodingCor-tempraylib]:                       https://github.com/CodingCor/tempraylib
+[MrOneTwo-Raylib-Scons-boilerplate]:          https://github.com/MrOneTwo/Raylib-Scons-boilerplate
+[gilzoide-raylib-meson-template]:             https://github.com/gilzoide/raylib-meson-template
+[Ushio-raylibMinimumVS]:                      https://github.com/Ushio/raylibMinimumVS
+[janderkkotlarski-raylib_template]:           https://github.com/janderkkotlarski/raylib_template
+[Lattay-raylib-lsk]:                          https://github.com/Lattay/raylib-lsk
+[charlesmartinreed-vscode-raylib-base]:       https://github.com/charlesmartinreed/vscode-raylib-base
+[AIESydProgYr12021-RaylibCSharpStarter]:      https://github.com/AIESydProgYr12021/RaylibCSharpStarter
+[LodisAIE-RaylibStarterCPP]:                  https://github.com/LodisAIE/RaylibStarterCPP
+[HeatXD-Raylib-with-Flecs-Template]:          https://github.com/HeatXD/Raylib-with-Flecs-Template
+[underscorenygren-parsec_raylib_template]:    https://github.com/underscorenygren/parsec_raylib_template
+[LeHaine-kotlin-native-raylib-starter]:       https://github.com/LeHaine/kotlin-native-raylib-starter
+[JustinKatic-Raylib-C-starterProj]:           https://github.com/JustinKatic/Raylib-C-starterProj
+[waruqi-raylib-scaffold]:                     https://github.com/waruqi/raylib-scaffold
+[GoldenbergDaniel-RayTemplateC]:              https://github.com/GoldenbergDaniel/RayTemplateC
+[RicoP-raylib-screensaver]:                   https://github.com/RicoP/raylib-screensaver
+
 
 ### Articles
 
@@ -1101,7 +1102,12 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Tutorials
 
+- [C Programming with Raylib – Match3 Game Tutorial](https://www.youtube.com/watch?v=P7PMA3X1tf8)
+- [The ultimate introduction to Raylib [ 2D & 3D game dev ]](https://www.youtube.com/watch?v=UoAsDlUwjy0)
+- [iqm animation raylib 4.0 example - Tutorial](https://www.youtube.com/watch?v=_EurjoraotA)
 - [Learn X in Y minutes, Where X=raylib](https://learnxinyminutes.com/docs/raylib)
+- [Odin + Raylib tutorials by Karl Zylinski](https://www.youtube.com/playlist?list=PLxE7SoPYTef1jYHJ6NxNgocVjQKkq7eEa)
+- [List of raylib tutorials by Programming With Nick](https://youtube.com/playlist?list=PLwR6ZGPvjVOSRywn9VCQ3yrRVruxzzuo9)
 - [Raylib 2.0 Tutorial Series by SkyVaultGames](https://www.youtube.com/playlist?list=PL5gRzHmN4Dg3ubcneVFkHPm0mTGYTUHDn)
 - [List of raylib tutorials by HE360](https://www.youtube.com/playlist?list=PLZBVMzyySalVhcWEJcnG-HK8OXQli_tcV)
 - [How to create a game with 'raylib' in C](https://www.youtube.com/watch?v=kBky9_X8j3Y)
@@ -1121,7 +1127,23 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Videos
 
-- [iqm animation raylib 4.0 example - Tutorial](https://www.youtube.com/watch?v=_EurjoraotA)
+- [raylib: a 12-year adventure as a solo-maintainer](https://www.youtube.com/watch?v=4Wqwnfu2Y0A)
+- [raylib projects showcase 2025](https://www.youtube.com/watch?v=i7isROcHwWE)
+- [raylib NEXT gamejam showcase](https://www.youtube.com/watch?v=hRDLyGx6aN0)
+- [raylib 5.5 in one minute](https://www.youtube.com/watch?v=r6w0-HrnmNw)
+- [raylib 5.0 presentation](https://www.youtube.com/watch?v=nFVBil3EJEQ)
+- [raylib projects showcase 2024](https://www.youtube.com/watch?v=GdlGE-eDlzg)
+- [raygui - JsGame Dev Summit 2023 presentation](https://www.youtube.com/watch?v=v3NZZZK8PWc)
+- [raylib timeline, 10 years of fun](https://www.youtube.com/watch?v=kMhM17tPXs8)
+- [raylib project showcase June 2023](https://www.youtube.com/watch?v=-RROryQQq-s)
+- [rTexPacker 2.6 features showcase](https://www.youtube.com/watch?v=N9xZbh-eHdU)
+- [rTexViewer 3.0 features showcase](https://www.youtube.com/watch?v=To96Pb3chvk)
+- [rInstallFriendly 1.0 usage showcase](https://www.youtube.com/watch?v=7jUC2U8jl3s)
+- [rTexViewer v3.0-beta features demo](https://www.youtube.com/watch?v=kkQZiaT1nCM)
+- [raylib 4.0 feature: events automation system](https://www.youtube.com/watch?v=3dZenkpmRzM)
+- [raylib game: RETRO MAZE 3D - running on GPi CASE (RPI Zero)](https://www.youtube.com/watch?v=M9FXXMHPSfw)
+- [raylib 2.5 - public presentation (June 2019)](https://www.youtube.com/watch?v=78aa2wuiGmI)
+- [raylib 1.6 - 3rd anniversary overview](https://www.youtube.com/watch?v=o8T9oNfsCOs)
 - [RayLib Review / Open source free game library / Game Engine / Delphi, Pascal, Lazarus, C, C++, C#](https://www.youtube.com/watch?v=Z6Eg9UfC_6U&t=616s)
 - [RayLib / Обзор игровой библиотеки / Pascal, Delphi, Lazarus, C++, C#, Java, JavaScript, Python, Perl(Russian)](https://www.youtube.com/watch?v=GUDzyXlmpVk&t=74s)
 - [Making a Game With Trash](https://www.youtube.com/watch?v=sKlcCplUODw)
@@ -1165,6 +1187,17 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Digital Crafters #2 - Ramon Santamaria](https://www.youtube.com/watch?v=wnbJpdjAHg8)
 - [Interview with @imakefoss curator and Ramon Santamaria about raylib](https://www.youtube.com/watch?v=NM1gMvHwDwA)
 - [Official raylib 2.5 presentation](https://www.youtube.com/watch?v=78aa2wuiGmI)
+- [Raylib's Awesome New Superpower!](https://www.youtube.com/watch?v=yCcONzVXpmo)
+- [Raylib x Unreal Engine = AWESOME!](https://www.youtube.com/watch?v=O97miv4iukk)
+- [Raylib -- Easiest C/C++ Game Framework -- Now Even Better For Beginners!](https://www.youtube.com/watch?v=TgCwzMemb_M)
+- [Raylib Game Development Tools -- Work With Any Game Engine!](https://www.youtube.com/watch?v=kPWShsel6vo)
+- [Scrap - New Visual Programming Language - Powered By Raylib](https://www.youtube.com/watch?v=weCzARV_Cpk)
+- [Shape Engine - 2D C# Vector Game Engine - Free & Open Source and RayLib Powered!](https://www.youtube.com/watch?v=u-a5SzILw9I)
+- [RayLib 6 Released - The Easiest C/C++ Game Library Just Got Even Better!](https://www.youtube.com/watch?v=R4NxhHKQQlQ)
+- [RayLib 5.5 Released - The Easiest C/C++ Game Library Just Got Even Easier](https://www.youtube.com/watch?v=JXL2bYmTLE4)
+- [RayLib 5 Released - The Easiest C/C++ Game Library Just Got Even Better](https://www.youtube.com/watch?v=hr5fYMgjNiE)
+- [raylib 4.5 Released -- The Easiest C/C++ Game Library Gets Better](https://www.youtube.com/watch?v=RPjaUf_sdQw)
+- [RayLib 4.2 Released -- Easiest C/C++ Game Framework Gets An Upgrade](https://www.youtube.com/watch?v=OvnSEq6_DQA)
 - [raylib 4.0 Released -- The Easiest C/C++ Game Library Just Got Even Better](https://www.youtube.com/watch?v=H_Oe82SqQ8Y)
 - [raylib 3.7 Released](https://www.youtube.com/watch?v=c8hUF75f0kk)
 - [RayLib 3.5 Released -- C/C++ GameDev Easy Mode](https://www.youtube.com/watch?v=RZJ-Z--6uxY)
@@ -1208,6 +1241,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Raylib - adventure in shaders - ep00](https://www.youtube.com/watch?v=siosc2B1bA4)
 - [Raylib - adventure in shaders - ep01](https://www.youtube.com/watch?v=8205iyicv5k)
 - [Raylib - Fixing the "Skipping Incompatible ../src\libraylib.a When Searching For -lraylib" Error](https://www.youtube.com/watch?v=rgV9AoVdFlA)
+- [Minecraft in C++ from Scratch |Raylib|](https://www.youtube.com/watch?v=dEtsw2Cfqhg)
 
 ### Promo Images
 
