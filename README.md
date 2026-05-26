@@ -1248,7 +1248,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [![toffeeframe/raylib-v7](logos/raylib-v7.png)][toffeeframe-raylib-v7]
 [![RobLoach/raylib-chaiscript](logos/raylib-chaiscript.png)][RobLoach-raylib-chaiscript]
 [![ArnautDaniel/raylib-factor](logos/raylib-factor.png)][ArnautDaniel-raylib-factor]
-[![ArnautDaniel/gforth-raylib](logos/gforth-raylib.png)][gforth-raylib]
+[![ArnautDaniel/gforth-raylib](logos/gforth-raylib.png)][ArnautDaniel-gforth-raylib]
 [![TSnake41/raylib-wren](logos/raylib-wren.png)][TSnake41-raylib-wren]
 [![Not-Nik/raylib-zig](logos/raylib-zig.png)][Not-Nik-raylib-zig]
 [![bmx-ng/ray.mod](logos/raylib-blitzmax.png)][bmx-ng-raylib-blitzmax]
