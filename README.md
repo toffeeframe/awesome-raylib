@@ -28,7 +28,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 ### Gists
 
 | Name                                                                                   | Author                                    | Description                                                                                                |
-|----------------------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | [sort.c][ohmree-dac78b36b736a71dc9a423d10b9509cc]                                      | [ohmree][ohmree-github]                   | C Sorting example that uses raylib.                                                                        |
 | [bleed.c][satinxs-e55461da74ba378a09d813cb6767ffae]                                    | [satinxs][satinxs-github]                 | Bleed bug when drawing rectangles with raylib.                                                             |
 | [agui.h][masterex1000-92c861eeef03e761d0addc6edc0b741f]                                | [masterex1000][masterex1000-github]       | Small UI helper library intended to be used with raylib.                                                   |
@@ -56,20 +56,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [Basic entity game][JeffM2501-a5987d2f4575e871f561197232ba0f60]                        | [JeffM2501][JeffM2501-github]             | Entity example made with raylib.                                                                           |
 | [DrawTextureProZ][JeffM2501-1c4c9c8048cbb19d11c9807518196b69]                          | [JeffM2501][JeffM2501-github]             | Modified version of `DrawTexturePro` that adds Z Dimension/Depth!                                          |
 | [raylib fullscreen toggle example][JeffM2501-6e4630a0e34c0c7dddf066f7192e342d]         | [JeffM2501][JeffM2501-github]             | fullscreen toggle example made with raylib.                                                                |
-
-[ohmree-github]:                                    https://github.com/ohmree
-[satinxs-github]:                                   https://github.com/satinxs
-[masterex1000-github]:                              https://github.com/masterex1000
-[SamyBencherif-github]:                             https://github.com/SamyBencherif
-[Goodguyr-github]:                                  https://github.com/Goodguyr
-[JeffM2501-github]:                                 https://github.com/JeffM2501
-[Demizdor-github]:                                  https://github.com/Demizdor
-[Pikachuxxxx-github]:                               https://github.com/Pikachuxxxx
-[mattj1-github]:                                    https://github.com/mattj1
-[dotxnc-github]:                                    https://github.com/dotxnc
-[AregevDev-github]:                                 https://github.com/AregevDev
-[EdwardDowling-github]:                             https://github.com/EdwardDowling
-[pluckyporcupine-github]:                           https://github.com/pluckyporcupine
 
 [ohmree-dac78b36b736a71dc9a423d10b9509cc]:          https://gist.github.com/ohmree/dac78b36b736a71dc9a423d10b9509cc
 [satinxs-e55461da74ba378a09d813cb6767ffae]:         https://gist.github.com/satinxs/e55461da74ba378a09d813cb6767ffae
@@ -99,22 +85,14 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [JeffM2501-1c4c9c8048cbb19d11c9807518196b69]:       https://gist.github.com/JeffM2501/1c4c9c8048cbb19d11c9807518196b69
 [JeffM2501-6e4630a0e34c0c7dddf066f7192e342d]:       https://gist.github.com/JeffM2501/6e4630a0e34c0c7dddf066f7192e342d
 
-[kiselgra-c-mera]:                                  https://github.com/kiselgra/c-mera
-[ocornut-imgui]:                                    https://github.com/ocornut/imgui
-
 ### Homebrew Ports
 
 | Name                                   | Author                        | Platform              |
-|----------------------------------------|-------------------------------|-----------------------|
+|---------------------------------------|------------------------------|----------------------|
 | [orbisdev-orbisGl2][orbisdev-orbisGL2] | [orbisdev][orbisdev-github]   | Sony PlayStation 4    |
 | [raylib4Vita][psp2dev-raylib4Vita]     | [psp2dev][psp2dev-github]     | Sony PlayStation Vita |
 | [3ds-raylib][Gota7-3ds-raylib]         | [Gota7][Gota7-github]         | Nintendo 3DS          |
 | [raylib-nx][LucaSkyer-raylib-nx]       | [LucaSkyer][LucaSkyer-github] | Nintendo Switch       |
-
-[orbisdev-github]:      https://github.com/orbisdev
-[psp2dev-github]:       https://github.com/psp2dev
-[Gota7-github]:         https://github.com/Gota7
-[LucaSkyer-github]:     https://github.com/lucaskyer
 
 [orbisdev-orbisGL2]:    https://github.com/orbisdev/orbisdev-orbisGl2
 [psp2dev-raylib4Vita]:  https://github.com/psp2dev/raylib4Vita
@@ -124,7 +102,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 ### Libraries and Frameworks
 
 | Name                                                     | Author                                      | Description                                                                                                                     |
-|----------------------------------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | [rayfork][SasLuca-rayfork]                               | [SasLuca][SasLuca-github]                   | Single header and source, cross-platform, allocator-aware, C99 game libraries.                                                  |
 | [raygui][raysan5-raygui]                                 | [raysan5][raysan5-github]                   | Simple and easy-to-use immediate-mode GUI library.                                                                              |
 | [Physac][victorfisac-Physac]                             | [victorfisac][victorfisac-github]           | 2D physics header-only library for videogames developed in C using raylib library.                                              |
@@ -185,51 +163,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [dk_console][dkvilo-dk_console]                          | [dkvilo][dkvilo-github]                     | Drop in dev console for your raylib game/engine                                                                                 |
 | [raylib-video][RicoP-raylib-video]                       | [RicoP][RicoP-github]                       | A multi-threaded realtime single header library to stream MPEG1 videos to textures                                              |
 
-[raysan5-github]:                   https://github.com/raysan5
-[SasLuca-github]:                   https://github.com/SasLuca
-[victorfisac-github]:               https://github.com/victorfisac
-[firststef-github]:                 https://github.com/firststef
-[osom8979-github]:                  https://github.com/osom8979
-[oswjk-github]:                     https://github.com/oswjk
-[haydenhigg-github]:                https://github.com/haydenhigg
-[nezvers-github]:                   https://github.com/nezvers
-[RobLoach-github]:                  https://github.com/RobLoach
-[zworld-apps-github]:               https://github.com/zworld-apps
-[Slixe-github]:                     https://github.com/Slixe
-[basp1-github]:                     https://github.com/basp1
-[smthnspcl-github]:                 https://github.com/smthnspcl
-[dbriemann-github]:                 https://github.com/dbriemann
-[WEREMSOFT-github]:                 https://github.com/WEREMSOFT
-[TheLumaio-github]:                 https://github.com/TheLumaio
-[tofuengine-github]:                https://github.com/tofuengine
-[Ferrohound-github]:                https://github.com/Ferrohound
-[JusticeShultz-github]:             https://github.com/JusticeShultz
-[LilySweetCat-github]:              https://github.com/LilySweetCat
-[jackcarey-github]:                 https://github.com/jackcarey
-[nbdy-github]:                      https://github.com/nbdy
-[coolcoy12-github]:                 https://github.com/coolcoy12
-[moonsteal-github]:                 https://github.com/moonsteal
-[Doy-lee-github]:                   https://github.com/Doy-lee
-[8bitPandaPlugins-github]:          https://github.com/8bitPandaPlugins
-[zzador-github]:                    https://github.com/zzador
-[jozanza-github]:                   https://github.com/jozanza
-[Ushio-github]:                     https://github.com/Ushio
-[nicholasimon-github]:              https://github.com/nicholasimon
-[JacobLondon-github]:               https://github.com/JacobLondon
-[thyliverman-github]:               https://github.com/thyliverman
-[hbiblia-github]:                   https://github.com/hbiblia
-[impzero-github]:                   https://github.com/impzero
-[AliElSaleh-github]:                https://github.com/AliElSaleh
-[c-krit-github]:                    https://github.com/c-krit
-[ProfJski-github]:                  https://github.com/ProfJski
-[electronstudio-github]:            https://github.com/electronstudio
-[haxeui-github]:                    https://github.com/haxeui
-[Not-Nik-github]:                   https://github.com/Not-Nik
-[raylib-extras-github]:             https://github.com/raylib-extras
-[Samerion-git]:                     https://git.samerion.com/Samerion
-[dkvilo-github]:                    https://github.com/dkvilo
-[RicoP-github]:                     https://github.com/RicoP
-
 [SasLuca-rayfork]:                  https://github.com/SasLuca/rayfork
 [raysan5-raygui]:                   https://github.com/raysan5/raygui
 [victorfisac-Physac]:               https://github.com/victorfisac/Physac
@@ -244,11 +177,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [nezvers-GameSystemsInC]:           https://github.com/nezvers/GameSystemsInC
 [RobLoach-raylib-aseprite]:         https://github.com/RobLoach/raylib-aseprite
 [RobLoach-raylib-nuklear]:          https://github.com/RobLoach/raylib-nuklear
-[Immediate-Mode-UI-Nuklear]:        https://github.com/Immediate-Mode-UI/Nuklear
 [zworld-apps-zgui]:                 https://github.com/zworld-apps/zgui
 [Slixe-visual-go]:                  https://github.com/Slixe/visual-go
 [basp1-rlyeh]:                      https://github.com/basp1/rlyeh
-[gen2brain-raylib-go]:              https://github.com/gen2brain/raylib-go
 [smthnspcl-raycons]:                https://github.com/smthnspcl/raycons
 [smthnspcl-raygauge]:               https://github.com/smthnspcl/raygauge
 [dbriemann-libpartikel]:            https://github.com/dbriemann/libpartikel
@@ -260,7 +191,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [JusticeShultz-MathX]:              https://github.com/JusticeShultz/MathX
 [LilySweetCat-RaylibCs-UI]:         https://github.com/LilySweetCat/RaylibCs-UI
 [RobLoach-raylib-tmx]:              https://github.com/RobLoach/raylib-tmx
-[baylej-tmx]:                       https://github.com/baylej/tmx
 [nbdy-ruicf]:                       https://github.com/nbdy/ruicf
 [JeffM2501-RLGameGui]:              https://github.com/JeffM2501/RLGameGui
 [jackcarey-raylib-extensions]:      https://github.com/jackcarey/raylib-extensions
@@ -268,7 +198,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [moonsteal-raylib-barebones]:       https://github.com/moonsteal/raylib-barebones
 [Doy-lee-RaylibSIMD]:               https://github.com/Doy-lee/RaylibSIMD
 [8bitPandaPlugins-RTAudioGameLib]:  https://github.com/8bitPandaPlugins/RTAudioGameLib
-[thestk-rtaudio]:                   https://github.com/thestk/rtaudio
 [zzador-RayLib-Utilities]:          https://github.com/zzador/RayLib-Utilities
 [jozanza-libraygun]:                https://github.com/jozanza/libraygun
 [JeffM2501-raylibExtras]:           https://github.com/JeffM2501/raylibExtras
@@ -276,7 +205,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [nicholasimon-displayfx_raylib]:    https://github.com/nicholasimon/displayfx_raylib
 [JacobLondon-rlgutils]:             https://github.com/JacobLondon/rlgutils
 [thyliverman-PaperSDL]:             https://github.com/thyliverman/PaperSDL
-[ChrisDill-Raylib-cs]:              https://github.com/ChrisDill/Raylib-cs
 [hbiblia-gtk-raylib]:               https://github.com/hbiblia/gtk-raylib
 [impzero-gastar]:                   https://github.com/impzero/gastar
 [RobLoach-raylib-physfs]:           https://github.com/RobLoach/raylib-physfs
@@ -295,24 +223,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [dkvilo-dk_console]:                https://github.com/dkvilo/dk_console
 [RicoP-raylib-video]:               https://github.com/RicoP/raylib-video
 
-[mattiasgustavsson-assetsys-h]:     https://github.com/mattiasgustavsson/libs/blob/main/assetsys.h
-[lordmauve-pgzero]:                 https://github.com/lordmauve/pgzero
-<!--[pygame-zero-site]:             https://pygame-zero.readthedocs.io-->
-  
-[crystal-lang]:                     https://crystal-lang.org
-[aseprite-site]:                    https://www.aseprite.org
-[go-lang]:                          https://go.dev
-[glfw-site]:                        https://www.glfw.org
-[physfs-site]:                      https://www.icculus.org/physfs
-[mapeditor-site]:                   https://www.mapeditor.org
-[gtk-site]:                         https://www.gtk.org
-[haxeui-site]:                      https://haxeui.org
-[miniaudio-site]:                   https://miniaud.io
-
 ### Softwares
 
 | Name                                                                       | Author                                                      | Description                                                                                                                                       |
-|----------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | [gxarch][gtrxAC-gxarch]                                                    | [gtrxAC][gtrxAC-github]                                     | Simple fantasy computer architecture that uses raylib!                                                                                            |
 | [gxSE][gtrxAC-gxSE]                                                        | [gtrxAC][gtrxAC-github]                                     | Command-based sprite/image editor.                                                                                                                |
 | [3d-audio-producer][adct-the-experimenter-3d-audio-producer]               | [adct-the-experimenter][adct-the-experimenter-github]       | Fork of the [adct-the-experimenter/binaural-audio-editor][adct-the-experimenter-binaural-audio-editor] that uses replaced with raygui and raylib. |
@@ -392,73 +306,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [PadCast][nantr0nic-PadCast]                                               | [nantr0nic][nantr0nic-github]                               | A simple gamepad display that shows controller activity, Written in C++ and geared towards streamers.                                             |
 <!-- | [Ungine][The-Italian-Coders-Group-Ungine]                                  | [The-Italian-Coders-Group][The-Italian-Coders-Group-github] | [Source][source-engine-site]-like raylib-based game engine for C++.                                                                           | -->
 
-[gtrxAC-github]:                                 https://github.com/gtrxAC
-[adct-the-experimenter-github]:                  https://github.com/adct-the-experimenter
-[Lockna-github]:                                 https://github.com/Lockna
-[skylersaleh-github]:                            https://github.com/skylersaleh
-[sparkskapil-github]:                            https://github.com/sparkskapil
-[sorykkk-github]:                                https://github.com/sorykkk
-[MarcMDE-github]:                                https://github.com/MarcMDE
-[Mudzii-github]:                                 https://github.com/Mudzii
-[MaximeHouis-github]:                            https://github.com/MaximeHouis
-[fedqx-github]:                                  https://github.com/fedqx
-[xdrie-github]:                                  https://github.com/xdrie
-[TSnake41-github]:                               https://github.com/TSnake41
-[nurakmaljalil91-github]:                        https://github.com/nurakmaljalil91
-[CarterPatterson-github]:                        https://github.com/CarterPatterson
-[Guevara-chan-github]:                           https://github.com/Guevara-chan
-[hfabre-github]:                                 https://github.com/hfabre
-[rfaile313-github]:                              https://github.com/rfaile313
-[redsled84-github]:                              https://github.com/redsled84
-[ArnautDaniel-github]:                           https://github.com/ArnautDaniel
-[pkeckler-github]:                               https://github.com/pkeckler
-[ComLarsic-github]:                              https://github.com/ComLarsic
-[LesFarrell-github]:                             https://github.com/LesFarrell
-[ralsina-github]:                                https://github.com/ralsina
-[athreef-github]:                                https://github.com/athreef
-[SolarLune-itchio]:                              https://solarlune.itch.io
-[powerc9000-itchio]:                             https://powerc9000.itch.io
-[TonyButDead-itchio]:                            https://tonybutdead.itch.io
-[SeijiEmery-itchio]:                             https://seijiemery.itch.io
-[raylibtech-itchio]:                             https://raylibtech.itch.io
-[obaodelana-github]:                             https://github.com/obaodelana
-[MadeleinNyblom-github]:                         https://github.com/MadeleinNyblom
-[kenhyokun-github]:                              https://github.com/kenhyokun
-[HurricaneInteractive-github]:                   https://github.com/HurricaneInteractive
-[reidevries-github]:                             https://github.com/reidevries
-[pery77-github]:                                 https://github.com/pery77
-<!-- [The-Italian-Coders-Group-github]:               https://github.com/The-Italian-Coders-Group -->
-[senior-sigan-github]:                           https://github.com/senior-sigan
-[bayganik-github]:                               https://github.com/bayganik
-[xero1-github]:                                  https://github.com/xero1
-[practicing01-github]:                           https://github.com/practicing01
-[parmaja-github]:                                https://github.com/parmaja
-[Fakaaa-github]:                                 https://github.com/Fakaaa
-[Elkantor-github]:                               https://github.com/Elkantor
-[RafaelOliveira-github]:                         https://github.com/RafaelOliveira
-[jmorel33-github]:                               https://github.com/jmorel33
-[kugo12-github]:                                 https://github.com/kugo12
-[trikko-github]:                                 https://github.com/trikko
-[Andre-LA-github]:                               https://github.com/Andre-LA
-[gergondet-github]:                              https://github.com/gergondet
-[KonPet-github]:                                 https://github.com/KonPet
-[JonSnowbd-github]:                              https://github.com/JonSnowbd
-[gilzoide-github]:                               https://github.com/gilzoide
-[randevlper-github]:                             https://github.com/randevlper
-[notsnail-github]:                               https://github.com/notsnail
-[erikerlandson-github]:                          https://github.com/erikerlandson
-[HellRok-github]:                                https://github.com/HellRok
-[MallocStudio-github]:                           https://github.com/MallocStudio
-[TheDarkBug-github]:                             https://github.com/TheDarkBug
-[LunaRyuko-github]:                              https://github.com/LunaRyuko
-[myuce-github]:                                  https://github.com/myuce
-[catmanl-github]:                                https://github.com/catmanl
-[nantr0nic-github]:                              https://github.com/nantr0nic
-
 [gtrxAC-gxarch]:                                 https://github.com/gtrxAC/gxarch
 [gtrxAC-gxSE]:                                   https://github.com/gtrxAC/gxSE
 [adct-the-experimenter-3d-audio-producer]:       https://github.com/adct-the-experimenter/3d-audio-producer
-[adct-the-experimenter-binaural-audio-editor]:   https://github.com/adct-the-experimenter/binaural-audio-editor
 [Lockna-chip8]:                                  https://github.com/Lockna/chip8
 [skylersaleh-SkyBoy]:                            https://github.com/skylersaleh/SkyBoy
 [sparkskapil-2D-CAD-Raylib]:                     https://github.com/sparkskapil/2D-CAD-Raylib
@@ -484,7 +334,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [ArnautDaniel-riley-duper]:                      https://github.com/ArnautDaniel/riley-duper
 [WEREMSOFT-c99-raylib-vide-player]:              https://github.com/WEREMSOFT/c99-raylib-vide-player
 [TheLumaio-baslike-editor]:                      https://github.com/TheLumaio/baslike-editor
-[TheLumaio-baslike]:                             https://github.com/TheLumaio/baslike
 [pkeckler-PACKER]:                               https://github.com/pkeckler/PACKER
 [ComLarsic-Chip8-raylib]:                        https://github.com/ComLarsic/Chip8-raylib
 [LesFarrell-Chip8]:                              https://github.com/LesFarrell/Chip8
@@ -505,33 +354,25 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [MadeleinNyblom-LevelEditor-MayaPlugin]:         https://github.com/MadeleinNyblom/LevelEditor-MayaPlugin
 [kenhyokun-khkFramework-raylib]:                 https://github.com/kenhyokun/khkFramework-raylib
 [HurricaneInteractive-abyss_engine]:             https://github.com/HurricaneInteractive/abyss_engine
-[deltaphc-raylib-rs]:                            https://github.com/deltaphc/raylib-rs
 [reidevries-CopyCat]:                            https://github.com/reidevries/CopyCat
-[skypjack-entt]:                                 https://github.com/skypjack/entt
 [pery77-peryEngine]:                             https://github.com/pery77/peryEngine
 <!-- [The-Italian-Coders-Group-Ungine]:               https://github.com/The-Italian-Coders-Group/Ungine -->
 [senior-sigan-chat_from_scratch]:                https://github.com/senior-sigan/chat_from_scratch
 [bayganik-mmGame-Engine-Raylib-ECS]:             https://github.com/bayganik/mmGame-Engine-Raylib-ECS
-[rocwood-Entitas-Lite]:                          https://github.com/rocwood/Entitas-Lite
 [xero1-ray-quake]:                               https://github.com/xero1/ray-quake
 [practicing01-raylibeditor]:                     https://github.com/practicing01/raylibeditor
 [parmaja-tyro]:                                  https://github.com/parmaja/tyro
 [Fakaaa-Raylibculator]:                          https://github.com/Fakaaa/Raylibculator
 [Elkantor-raylib_package]:                       https://github.com/Elkantor/raylib_package
-[Elkantor-bscxx]:                                https://github.com/Elkantor/bscxx
 [RafaelOliveira-clay]:                           https://github.com/RafaelOliveira/clay
 [sparkskapil-Quill]:                             https://github.com/sparkskapil/Quill
 [jmorel33-RayLib-Keyboard-keycode-tester]:       https://github.com/jmorel33/RayLib-Keyboard-keycode-tester
 [kugo12-sponGB]:                                 https://github.com/kugo12/sponGB
 [trikko-BlobEditor]:                             https://github.com/trikko/BlobEditor
 [Andre-LA-nprof]:                                https://github.com/Andre-LA/nprof
-[Andre-LA-raylib-nelua]:                         https://github.com/Andre-LA/raylib-nelua
 [gergondet-mc_rtc-raylib]:                       https://github.com/gergondet/mc_rtc-raylib
-[jrl-umi3218-mc_rtc]:                            https://github.com/jrl-umi3218/mc_rtc
 [KonPet-Red-Shell]:                              https://github.com/KonPet/Red-Shell
 [JonSnowbd-XPROEngine]:                          https://github.com/JonSnowbd/XPROEngine
-[SanderMertens-flecs]:                           https://github.com/SanderMertens/flecs
-[liteserver-binn]:                               https://github.com/liteserver/binn
 [gilzoide-gargula]:                              https://github.com/gilzoide/gargula
 [randevlper-rayoflight]:                         https://github.com/randevlper/rayoflight
 [notsnail-v2]:                                   https://github.com/notsnail/v2
@@ -546,26 +387,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [catmanl-minitile]:                              https://github.com/catmanl/minitile
 [nantr0nic-PadCast]:                             https://github.com/nantr0nic/PadCast
 
-[chip8-wikipedia]:                               https://en.wikipedia.org/wiki/CHIP-8
-[libretro-site]:                                 https://www.libretro.com
-[dlang-lang]:                                    https://dlang.org
-[lua-lang]:                                      https://lua.org
-[aie-au-site]:                                   https://aieinstitute.edu.au
-[nim-lang]:                                      https://nim-lang.org
-[python-lang]:                                   https://python.org
-[autodesk-maya-site]:                            https://www.autodesk.com/products/maya/overview
-[rust-lang]:                                     https://www.rust-lang.org
-[source-engine-site]:                            https://developer.valvesoftware.com/wiki/Source
-[dotnet-site]:                                   https://dotnet.microsoft.com
-[nelua-lang]:                                    https://nelua.io
-[box2d-site]:                                    https://box2d.org
-[rhel-ubi-site]:                                 https://developers.redhat.com/products/rhel/ubi
-[mruby-site]:                                    https://mruby.org
-
 ### Deprecated/Removed/Unknown bindings
 
 | Name                                                 | Author                                | Language                          |
-|------------------------------------------------------|---------------------------------------|-----------------------------------|
+|----------------------------------------------------|--------------------------------------|----------------------------------|
 | [Raylib-J][CreedVI-Raylib-J]                         | [CreedVI][CreedVI-github]             | Java ([LWJGL3][lwjgl3-java-lang]) |
 | [rust_raylib_bindings][DevJac-rust_raylib_bindings]  | [DevJac][DevJac-github]               | Rust                              |
 | [raylib-rust][dtcristo-raylib-rust]                  | [dtcristo][dtcristo-github]           | Rust                              |
@@ -573,13 +398,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [fb-raylib][glasyalabolas-fb-raylib]                 | [glasyalabolas][glasyalabolas-github] | [FreeBASIC][freebasic-lang]       |
 | [raylib-haxe][haxeui-raylib-haxe]                    | [haxeui][haxeui-github]               | [Haxe][haxe-lang]                 |
 | [rayex][shiryel-rayex]                               | [shiryel][shiryel-github]             | [Elixir][elixir-lang]             |
-
-[CreedVI-github]:                 https://github.com/CreedVI
-[DevJac-github]:                  https://github.com/DevJac
-[dtcristo-github]:                https://github.com/dtcristo
-[SliverLIVE-github]:              https://github.com/SliverLIVE
-[glasyalabolas-github]:           https://github.com/glasyalabolas
-[shiryel-github]:                 https://github.com/shiryel
 
 [CreedVI-Raylib-J]:               https://github.com/CreedVI/Raylib-J
 [DevJac-rust_raylib_bindings]:    https://github.com/DevJac/rust_raylib_bindings
@@ -589,23 +407,14 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [haxeui-raylib-haxe]:             https://github.com/haxeui/raylib-haxe
 [shiryel-rayex]:                  https://github.com/shiryel/rayex
 
-[lwjgl3-java-lang]:               https://www.lwjgl.org
-[glbasic-lang]:                   https://www.glbasic.com
-[freebasic-lang]:                 https://www.freebasic.net
-[haxe-lang]:                      https://haxe.org
-[elixir-lang]:                    https://elixir-lang.org
-
 > NOTE: You won't find these bindings in [BINDINGS.md](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)!
 
 ### Libraries bindings/ports
 
-| Name                                                      | Author                      | Description              |
-|-----------------------------------------------------------|-----------------------------|--------------------------|
-| [rayfork-rs][Dacode45-rayfork-rs]                         | [Dacode45][Dacode45-github] | Port of rayfork to Rust. |
-| [Animator-For-Raylib-CS][EMoore13-Animator-For-Raylib-CS] | [EMoore13][EMoore13-github] | Modified version of AliElSaleh's Animator-For-Raylib that uses raylib-cs! |
-
-[Dacode45-github]:                 https://github.com/Dacode45
-[EMoore13-github]:                 https://github.com/EMoore13
+| Name                                                      | Author                      | Description                                                                |
+|---------------------------------------------------------|----------------------------|--------------------------------------------------------------------------|
+| [rayfork-rs][Dacode45-rayfork-rs]                         | [Dacode45][Dacode45-github] | Port of rayfork to Rust.                                                   |
+| [Animator-For-Raylib-CS][EMoore13-Animator-For-Raylib-CS] | [EMoore13][EMoore13-github] | Modified version of AliElSaleh's Animator-For-Raylib that uses raylib-cs!  |
 
 [Dacode45-rayfork-rs]:             https://github.com/Dacode45/rayfork-rs
 [EMoore13-Animator-for-Raylib-CS]: https://github.com/EMoore13/Animator-For-Raylib-CS
@@ -613,7 +422,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 ### Community Examples
 
 | Name                                                                                 | Author                                                                         | Description                                                                                                                               |
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | [WaveEquationDemo][ProfJski-WaveEquationDemo]                                        | [ProfJski][ProfJski-github]                                                    | intuitive approach to introducing the [Schrodinger][Schrodinger-wikipedia] wave equation using a classical particle.                      |
 | [IndieStudio][antwxne-IndieStudio]                                                   | [antwxne][antwxne-github]                                                      | [Epitech][Epitech-site] 2nd year end year 3D graphical project in C++.                                                                    |
 | [raylib-instancing][ChrisDill-raylib-instancing]                                     | [ChrisDill][ChrisDill-github]                                                  | Instanced rendering examples using raylib.                                                                                                |
@@ -631,7 +440,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [EmscriptenHelloRaylib][aaronrcox-EmscriptenHelloRaylib]                             | [aaronrcox][aaronrcox-github]                                                  | Emscripten (Web) Starter repo for raylib projects. Web builds are automaticly triggered via Github actions and Deployed to Github Pages.  |
 | [raylib-3rdPersonCameraWallDetection][chbdev-raylib-3rdPersonCameraWallDetection]    | [chbdev][chbdev-github]                                                        | Third person camera wall detection example.                                                                                               |
 | [ThreadLab][gabriellm1-ThreadLab]                                                    | [gabriellm1][gabriellm1-github]                                                | Multi-thread copy and paste program with graphic interface for raylib.                                                                    |
-| [permadi-port][jacmoe-permadi-port]                                                  | [jacmoe][jacmoe-github]                                                        | [Permadi][permadi-ray-casting-tutorial]'s Raycaster code ported to C++ and raylib.                                                        |
+| [permadi-port][jacmoe-permadi-port]                                                  | [jacmoe][jacmoe-github]                                                        | [Permadi][ray-casting-tutorial-permadi-site]'s Raycaster code ported to C++ and raylib.                                                   |
 | [BinaryTree][MitchellRB-BinaryTree]                                                  | [MitchellRB][MitchellRB-github]                                                | Visual representation of a binary tree in raylib.                                                                                         |
 | [Clock][xav1t0-Clock]                                                                | [xav1t0][xav1t0-github]                                                        | Clock Made With raylib in C.                                                                                                              |
 | [rMandelbrotset][JRAM0012-rMandelbrotset]                                            | [JRAM0012][JRAM0012-github]                                                    | Mandelbrot set visualizer made in raylib.                                                                                                 |
@@ -720,94 +529,11 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [raylib_ffi_bug][jestarray-raylib_ffi_bug]                                           | [jestarray][jestarray-github]                                                  | Incorrect FFI call which turning bool to a random number, Written in Rust.                                                                |
 | [raylib-bubbles][magnetrwn-raylib-bubbles]                                           | [magnetrwn][magnetrwn-github]                                                  | C++11 Raylib bubble shooter example, with thorough documentation.                                                                         |
 
-
-[antwxne-github]:           https://github.com/antwxne
-[Armapillow-github]:        https://github.com/Armapillow
-[ChrisDill-github]:         https://github.com/ChrisDill
-[GoldenThumbs-github]:      https://github.com/GoldenThumbs
-[Lightnet-github]:          https://github.com/Lightnet
-[jpike-github]:             https://github.com/jpike
-[Skaruts-github]:           https://github.com/Skaruts
-[I3uckwheat-github]:        https://github.com/I3uckwheat
-[machinbrol-github]:        https://github.com/machinbrol
-[Ryan1729-github]:          https://github.com/Ryan1729
-[kebbbnnn-github]:          https://github.com/kebbbnnn
-[aaronrcox-github]:         https://github.com/aaronrcox
-[chbdev-github]:            https://github.com/chbdev
-[gabriellm1-github]:        https://github.com/gabriellm1
-[jacmoe-github]:            https://github.com/jacmoe
-[MitchellRB-github]:        https://github.com/MitchellRB
-[JRAM0012-github]:          https://github.com/JRAM0012
-[xav1t0-github]:            https://github.com/xav1t0
-[Lisoph-github]:            https://github.com/Lisoph
-[ianpan870102-github]:      https://github.com/ianpan870102
-[zmontross-github]:         https://github.com/zmontross
-[albertnadal-github]:       https://github.com/albertnadal
-[kawa-yoiko-github]:        https://github.com/kawa-yoiko
-[EdSwordsmith-github]:      https://github.com/EdSwordsmith
-[nikki93-github]:           https://github.com/nikki93
-[rurush47-github]:          https://github.com/rurush47
-[Delvix000-github]:         https://github.com/Delvix000
-[Pakz001-github]:           https://github.com/Pakz001
-[dtcristo-github]:          https://github.com/dtcristo
-[rillk500-github]:          https://github.com/rillk500
-[BitPuffin-github]:         https://github.com/BitPuffin
-[DaNiKhan-GbR-github]:      https://github.com/DaNiKhan-GbR
-[fr3fou-github]:            https://github.com/fr3fou
-[petuzk-github]:            https://github.com/petuzk
-[ThePituLegend-github]:     https://github.com/ThePituLegend
-[riadafridishibly-github]:  https://github.com/riadafridishibly
-[GheorgheMorari-github]:    https://github.com/GheorgheMorari
-[Sepheus-github]:           https://github.com/Sepheus
-[DavinderMaverick-github]:  https://github.com/DavinderMaverick
-[apahl-github]:             https://github.com/apahl
-[baylej-github]:            https://github.com/baylej
-[OnACoffeeBreak-github]:    https://github.com/OnACoffeeBreak
-[MrOneTwo-github]:          https://github.com/MrOneTwo
-[anatagawa-github]:         https://github.com/anatagawa
-[nathhB-github]:            https://github.com/nathhB
-[edomin-github]:            https://github.com/edomin
-[badlydrawnrod-github]:     https://github.com/badlydrawnrod
-[TheCatOverlord-github]:    https://github.com/TheCatOverlord
-[tomxmm0-github]:           https://github.com/tomxmm0
-[Razikus-github]:           https://github.com/Razikus
-[zvoskars-github]:          https://github.com/zvoskars
-[NevilleJS-github]:         https://github.com/NevilleJS
-[someone-existing-github]:  https://github.com/someone-existing
-[Rledrin-github]:           https://github.com/Rledrin
-[justinac0-github]:         https://github.com/justinac0
-[RafaelOliveira-github]:    https://github.com/RafaelOliveira
-[henriquel1997-github]:     https://github.com/henriquel1997
-[yaram-github]:             https://github.com/yaram
-[neonmoe-github]:           https://github.com/neonmoe
-[afreytes-github]:          https://github.com/afreytes
-[Adobe-Android-github]:     https://github.com/Adobe-Android
-[PHILLIPGATLIN-github]:     https://github.com/PHILLIPGATLIN
-[gihadmecha-github]:        https://github.com/gihadmecha
-[danimartin82-github]:      https://github.com/danimartin82
-[JusticeShultz-github]:     https://github.com/JusticeShultz
-[pintertamas-github]:       https://github.com/pintertamas
-[bruhmoment3124-github]:    https://github.com/bruhmoment3124
-[feihong-github]:           https://github.com/feihong
-[creikey-github]:           https://github.com/creikey
-[t0rre-github]:             https://github.com/t0rre
-[JohnLins-github]:          https://github.com/JohnLins
-[DoctorAkula-github]:       https://github.com/DoctorAkula
-[fullnitrous-github]:       https://github.com/fullnitrous
-[jessp-github]:             https://github.com/jessp
-[Nachasic-github]:          https://github.com/Nachasic
-[buribalazs-github]:        https://github.com/buribalazs
-[teh-cmc-github]:           https://github.com/teh-cmc
-[jestarray-github]:         https://github.com/jestarray
-[magnetrwn-github]:         https://github.com/magnetrwn
-
-
 [ProfJski-WaveEquationDemo]:                          https://github.com/ProfJski/WaveEquationDemo
 [antwxne-IndieStudio]:                                https://github.com/antwxne/IndieStudio
 [Armapillow-bezier]:                                  https://github.com/Armapillow/bezier
 [ChrisDill-raylib-instancing]:                        https://github.com/ChrisDill/raylib-instancing
 [AcademyOfInteractiveEntertainment-AIEYear1Samples]:  https://github.com/AcademyOfInteractiveEntertainment/AIEYear1Samples
-[AcademyOfInteractiveEntertainment-github]:           https://github.com/AcademyOfInteractiveEntertainment
 [GoldenThumbs-raylibShadowmap]:                       https://github.com/GoldenThumbs/raylibShadowmap
 [Lightnet-raylibvscodeexample]:                       https://github.com/Lightnet/raylibvscodeexample
 [jpike-RayWorld3D]:                                   https://github.com/jpike/RayWorld3D
@@ -816,7 +542,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [I3uckwheat-CHUCK]:                                   https://github.com/I3uckwheat/CHUCK
 [machinbrol-2d-physics-engine-test]:                  https://github.com/machinbrol/2d-physics-engine-test
 [Ryan1729-nim-raylib-forever-raylib-audio-bug]:       https://github.com/Ryan1729/nim-raylib-forever-raylib-audio-bug
-[Guevara-chan-Raylib-Forever]:                        https://github.com/Guevara-chan/Raylib-Forever
 [kebbbnnn-ray-lib-example]:                           https://github.com/kebbbnnn/ray-lib-example
 [Dacode45-raylib-physics-example]:                    https://github.com/Dacode45/raylib-physics-example
 [aaronrcox-EmscriptenHelloRaylib]:                    https://github.com/aaronrcox/EmscriptenHelloRaylib
@@ -834,7 +559,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [Elkantor-simulation]:                                https://github.com/Elkantor/simulation
 [albertnadal-Wolf3DClone]:                            https://github.com/albertnadal/Wolf3DClone
 [kawa-yoiko-ccleste-raylib]:                          https://github.com/kawa-yoiko/ccleste-raylib
-[lemon32767-ccleste]:                                 https://github.com/lemon32767/ccleste
 [EdSwordsmith-LearningRaylib]:                        https://github.com/EdSwordsmith/LearningRaylib
 [nikki93-raylib-bench-go]:                            https://github.com/nikki93/raylib-bench-go
 [rurush47-ca-particle-system]:                        https://github.com/rurush47/ca-particle-system
@@ -870,22 +594,17 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [anatagawa-Demo-Interpole]:                           https://github.com/anatagawa/Demo-Interpole
 [anatagawa-Demo-Awesome]:                             https://github.com/anatagawa/Demo-Awesome
 [nathhB-raylib-nbnet-examples]:                       https://github.com/nathhB/nbnet/tree/master/examples/raylib
-[nathhB-nbnet]:                                       https://github.com/nathhB/nbnet
 [edomin-Raygui_Helloworld]:                           https://github.com/edomin/Raygui_Helloworld
-[erkkah-tigr]:                                        https://github.com/erkkah/tigr
 [badlydrawnrod-evaluate-raylib]:                      https://github.com/badlydrawnrod/evaluate-raylib
 [jmorel33-RayLib-Video-Modes]:                        https://github.com/jmorel33/RayLib-Video-Modes
 [TheCatOverlord-Raylib-Joystick]:                     https://github.com/TheCatOverlord/Raylib-Joystick
 [tomxmm0-dvd_screensaver]:                            https://github.com/tomxmm0/dvd_screensaver
 [Razikus-raylib-qrcode]:                              https://github.com/Razikus/raylib-qrcode
-[nayuki-QR-Code-generator]:                           https://github.com/nayuki/QR-Code-generator
 [zvoskars-keyListener]:                               https://github.com/zvoskars/keyListener
 [senior-sigan-simple_games]:                          https://github.com/senior-sigan/simple_games
 [ValiantInteractive-FPS-engine-raylib]:               https://github.com/ValiantInteractive/FPS-engine-raylib
-[ValiantInteractive-github]:                          https://github.com/ValiantInteractive
 [PixelPhobicGames-Chrome-Dino-game-ripoff-]:          https://github.com/PixelPhobicGames/Chrome-Dino-game-ripoff-
 [nas-programmer-raylib_projects]:                     https://github.com/nas-programmer/raylib_projects
-[nas-programmer-github]:                              https://github.com/nas-programmer
 [NevilleJS-spirograph]:                               https://github.com/NevilleJS/spirograph
 [someone-existing-Worley-noise-raylib]:               https://github.com/someone-existing/Worley-noise-raylib
 [Rledrin-PathFinding]:                                https://github.com/Rledrin/PathFinding
@@ -898,7 +617,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [erikerlandson-ray-odh-demo]:                         https://github.com/erikerlandson/ray-odh-demo
 [neonmoe-metro]:                                      https://github.com/neonmoe/metro
 [afreytes-RLSolarSystem]:                             https://github.com/afreytes/RLSolarSystem
-[arinal-WpfSolarSystem]:                              https://github.com/arinal/WpfSolarSystem
 [Adobe-Android-raylib-demo]:                          https://github.com/Adobe-Android/raylib-demo
 [PHILLIPGATLIN-Caption]:                              https://github.com/PHILLIPGATLIN/Caption
 [PixelPhobicGames-github]:                            https://github.com/PixelPhobicGames
@@ -919,19 +637,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [teh-cmc-rts]:                                        https://github.com/teh-cmc/rts
 [jestarray-raylib_ffi_bug]:                           https://github.com/jestarray/raylib_ffi_bug
 [magnetrwn-raylib-bubbles]:                           https://github.com/magnetrwn/raylib-bubbles
-
-
-[Schrodinger-wikipedia]:              https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
-[epitech-site]:                       https://www.epitech.eu/en
-[vscode-site]:                        https://code.visualstudio.com
-[ray-casting-tutorial-permadi-site]:  https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents
-[opencv-site]:                        https://opencv.org
-[zig-lang]:                           https://ziglang.org
-[swift-lang]:                         https://swift.org
-[grpc-site]:                          https://grpc.io
-[Worley_noise-wikipedia]:             https://en.wikipedia.org/wiki/Worley_noise
-[trackmania-site]:                    https://www.trackmania.com
-
 
 ### Templates
 
@@ -979,34 +684,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [RayTemplateC][GoldenbergDaniel-RayTemplateC]                              | [GoldenbergDaniel][GoldenbergDaniel-github]    | Template for the raylib library in C.                                                                                          |
 | [Raylib Screensaver][RicoP-raylib-screensaver]                             | [RicoP][RicoP-github]                          | Template for windows 3D screensavers made in raylib.                                                                           |
 
-[tducasse-github]:           https://github.com/tducasse
-[daandruff-github]:          https://github.com/daandruff
-[irskep-github]:             https://github.com/irskep
-[jamiltron-github]:          https://github.com/jamiltron
-[benweidig-github]:          https://github.com/benweidig
-[CapsCollective-github]:     https://github.com/CapsCollective
-[inque-gitlab]:              https://gitlab.com/inque
-[AIE-Seattle-Prog-github]:   https://github.com/AIE-Seattle-Prog
-[krzosa-github]:             https://github.com/krzosa
-[RaniSputnik-github]:        https://github.com/RaniSputnik
-[Hidden-Pixel-github]:       https://github.com/Hidden-Pixel
-[braedenf-github]:           https://github.com/braedenf
-[JamieMair-github]:          https://github.com/JamieMair
-[Yrds-github]:               https://github.com/Yrds
-[Qinbeans-github]:           https://github.com/Qinbeans
-[CodingCor-github]:          https://github.com/CodingCor
-[Lattay-github]:             https://github.com/Lattay
-[charlesmartinreed-github]:  https://github.com/charlesmartinreed
-[janderkkotlarski-github]:   https://github.com/janderkkotlarski
-[AIESydProgYr12021-github]:  https://github.com/AIESydProgYr12021
-[LodisAIE-github]:           https://github.com/LodisAIE
-[HeatXD-github]:             https://github.com/HeatXD
-[underscorenygren-github]:   https://github.com/underscorenygren
-[LeHaine-github]:            https://github.com/LeHaine
-[JustinKatic-github]:        https://github.com/JustinKatic
-[waruqi-github]:             https://github.com/waruqi
-[GoldenbergDaniel-github]:   https://github.com/GoldenbergDaniel
-
 [tducasse-raylib_starter]:                    https://github.com/tducasse/raylib_starter
 [daandruff-rbpi400raylib]:                    https://github.com/daandruff/rbpi400raylib
 [irskep-raylibtest]:                          https://github.com/irskep/raylibtest
@@ -1021,7 +698,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [krzosa-RaylibHotReloadTemplate]:             https://github.com/krzosa/RaylibHotReloadTemplate
 [WEREMSOFT-c99-raylib-template]:              https://github.com/WEREMSOFT/c99-raylib-template
 [WEREMSOFT-c99-raylib-cimgui-template]:       https://github.com/WEREMSOFT/c99-raylib-cimgui-template
-[cimgui-cimgui]:                              https://github.com/cimgui/cimgui
 [WEREMSOFT-raylib-network-template]:          https://github.com/WEREMSOFT/raylib-network-template
 [SasLuca-raylib-cmake-template]:              https://github.com/SasLuca/raylib-cmake-template
 [SasLuca-rayfork-sokol-template]:             https://github.com/SasLuca/rayfork-sokol-template
@@ -1050,59 +726,69 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [GoldenbergDaniel-RayTemplateC]:              https://github.com/GoldenbergDaniel/RayTemplateC
 [RicoP-raylib-screensaver]:                   https://github.com/RicoP/raylib-screensaver
 
-
 ### Articles
 
-- [Game Porting Adventures (by raysan5)](https://gist.github.com/raysan5/fdefbe1b8184e0fa80676156bb86964f)
+* By [raysan5][raysan5-github]:
+    - [Game Porting Adventures (by raysan5)](https://gist.github.com/raysan5/fdefbe1b8184e0fa80676156bb86964f)
+    - [raylib: 6 years of fun](https://gist.github.com/raysan5/04a2daf02aa2a6e79010331f77bf983f)
+    - [rGuiIcons Making Of Diary](https://gist.github.com/raysan5/fe769f77b43b6c612600166498ce3640)
 - [Joint Limits with raylib (by Daniel Holden)](https://theorangeduck.com/page/joint-limits)
 - [How to add hot reload when using raylib?](https://www.developing-stuff.com/how-to-add-hot-reload-when-using-raylib)
 - [How to add hot reload to your raylib project (in C) ?](https://medium.com/@TheElkantor/how-to-add-hot-reload-to-your-raylib-proj-in-c-698caa33eb74)
 - [raylib Game Tutorial : Space Invaders using VSCode](https://monsterbraininc.com/2018/12/raylib-game-tutorial-space-invaders-using-vscode)
 - [Easy Blitzmax Streaming realtime audio with raylib](https://www.syntaxbomb.com/index.php?topic=5807.0)
-- [Advanced Matrix transforms with raylib](https://bedroomcoders.co.uk/advanced-matrix-transforms-with-raylib)
-- [Drawing textured 2D polygons with rlgl (raylib)](https://bedroomcoders.co.uk/drawing-textured-2d-polygons-with-rlgl-raylib)
+* By [Bedroom Coders][bedroom-coders-site]:
+    - [Advanced Matrix transforms with raylib](https://bedroomcoders.co.uk/advanced-matrix-transforms-with-raylib)
+    - [Drawing textured 2D polygons with rlgl (raylib)](https://bedroomcoders.co.uk/drawing-textured-2d-polygons-with-rlgl-raylib)
+    - [raylib game coding library for C](http://bedroomcoders.co.uk/raylib-game-coding-library-for-c)
+    - [raylib novices guide for creating a simple game](http://bedroomcoders.co.uk/raylib-a-novices-guide-for-creating-a-simple-game)
+    - [Creating a simple game (part 2)](http://bedroomcoders.co.uk/creating-a-simple-game-part-2)
+    - [Creating a simple game (part 3)](http://bedroomcoders.co.uk/creating-a-simple-game-part-3)
+    - [Creating a simple game (part 4)](http://bedroomcoders.co.uk/creating-a-simple-game-part-4)
+    - [Creating a simple game (part 5) finishing up](http://bedroomcoders.co.uk/creating-a-simple-game-part-5-finishing-up)
+    - [Complete Template for Raylib](http://bedroomcoders.co.uk/complete-template-for-raylib)
+    - [3d Physics with raylib and ODE](http://bedroomcoders.co.uk/3d-physics-with-libray-and-ode)
+    - [raylib adding a static terrain (ODE)](http://bedroomcoders.co.uk/raylib-adding-a-static-terrain-ode)
+    - [Looking again at compiling a Windows raylib app](http://bedroomcoders.co.uk/looking-again-at-compiling-a-windows-raylib-app)
+    - [Creating a 64 bit executable with raylib on windows](http://bedroomcoders.co.uk/creating-a-64-bit-executable-with-raylib-on-windows)
+    - [Aiming at moving targets…](http://bedroomcoders.co.uk/aiming-at-moving-targets)
+    - [Aiming at 3d moving targets](http://bedroomcoders.co.uk/aiming-at-3d-moving-targets)
+    - [Painting on a 3d Mesh with raylib](http://bedroomcoders.co.uk/painting-on-a-3d-mesh-with-raylib)
+    - [Raylib, projecting 3D onto 2D handy for debugging](http://bedroomcoders.co.uk/raylib-projecting-3d-onto-2d-handy-for-debugging)
+    - [Raylib and Chipmunk2d](http://bedroomcoders.co.uk/raylib-and-chipmunk2d)
+    - [PhysFS and raylib](http://bedroomcoders.co.uk/physfs-and-raylib)
+    - [Using libmpeg2 with raylib](http://bedroomcoders.co.uk/using-libmpeg2-with-raylib)
+    - [Aligning a model with a terrain (raylib)](http://bedroomcoders.co.uk/aligning-a-model-with-a-terrain-raylib)
+    - [A simple maze creation algorithm (C99 and raylib)](http://bedroomcoders.co.uk/a-simple-maze-creation-algorithm-c99-and-raylib)
+    - [Using RayLib with an ECS](http://bedroomcoders.co.uk/using-raylib-with-an-ecs)
+    - [Animating sky with raylib](http://bedroomcoders.co.uk/animating-sky-with-raylib)
+    - [raylib Fog](http://bedroomcoders.co.uk/raylib-fog)
+    - [Sprite Sheets with rayLib](http://bedroomcoders.co.uk/sprite-sheets-with-raylib)
+    - [Shaders with raylib](http://bedroomcoders.co.uk/shaders-with-raylib)
+    - [Lighting with raylib](http://bedroomcoders.co.uk/lighting-with-raylib)
+    - [2D Spotlight shader with rayLib](http://bedroomcoders.co.uk/2d-spotlight-shader-with-raylib)
+    - [Implementing a 3d GUI with raylib](http://bedroomcoders.co.uk/implementing-a-3d-gui-with-raylib)
 - [What About Making Games Without Engines?](https://medium.com/@thelukaswils/what-about-making-games-without-engines-188c65f16672)
 - [deepsource.io - Spotlight: Ramon Santamaria](https://deepsource.io/spotlight/ramon-santamaria)
 - [Simple PHP Game in PHP using raylib: Snake (with source code)](https://thephp.website/en/issue/games-with-php)
 - [Compiling raylib programs with SCons](http://ciesie.com/post/building_raylib_with_scons)
-- [raylib game coding library for C](http://bedroomcoders.co.uk/raylib-game-coding-library-for-c)
-- [raylib novices guide for creating a simple game](http://bedroomcoders.co.uk/raylib-a-novices-guide-for-creating-a-simple-game)
-- [Creating a simple game (part 2)](http://bedroomcoders.co.uk/creating-a-simple-game-part-2)
-- [Creating a simple game (part 3)](http://bedroomcoders.co.uk/creating-a-simple-game-part-3)
-- [Creating a simple game (part 4)](http://bedroomcoders.co.uk/creating-a-simple-game-part-4)
-- [Creating a simple game (part 5) finishing up](http://bedroomcoders.co.uk/creating-a-simple-game-part-5-finishing-up)
-- [Complete Template for Raylib](http://bedroomcoders.co.uk/complete-template-for-raylib)
-- [3d Physics with raylib and ODE](http://bedroomcoders.co.uk/3d-physics-with-libray-and-ode)
-- [raylib adding a static terrain (ODE)](http://bedroomcoders.co.uk/raylib-adding-a-static-terrain-ode)
-- [Looking again at compiling a Windows raylib app](http://bedroomcoders.co.uk/looking-again-at-compiling-a-windows-raylib-app)
-- [Creating a 64 bit executable with raylib on windows](http://bedroomcoders.co.uk/creating-a-64-bit-executable-with-raylib-on-windows)
-- [Aiming at moving targets…](http://bedroomcoders.co.uk/aiming-at-moving-targets)
-- [Aiming at 3d moving targets](http://bedroomcoders.co.uk/aiming-at-3d-moving-targets)
-- [Painting on a 3d Mesh with raylib](http://bedroomcoders.co.uk/painting-on-a-3d-mesh-with-raylib)
-- [Raylib, projecting 3D onto 2D handy for debugging](http://bedroomcoders.co.uk/raylib-projecting-3d-onto-2d-handy-for-debugging)
-- [Raylib and Chipmunk2d](http://bedroomcoders.co.uk/raylib-and-chipmunk2d)
-- [PhysFS and raylib](http://bedroomcoders.co.uk/physfs-and-raylib)
-- [Using libmpeg2 with raylib](http://bedroomcoders.co.uk/using-libmpeg2-with-raylib)
-- [Aligning a model with a terrain (raylib)](http://bedroomcoders.co.uk/aligning-a-model-with-a-terrain-raylib)
-- [A simple maze creation algorithm (C99 and raylib)](http://bedroomcoders.co.uk/a-simple-maze-creation-algorithm-c99-and-raylib)
-- [Using RayLib with an ECS](http://bedroomcoders.co.uk/using-raylib-with-an-ecs)
-- [Animating sky with raylib](http://bedroomcoders.co.uk/animating-sky-with-raylib)
-- [raylib Fog](http://bedroomcoders.co.uk/raylib-fog)
-- [Sprite Sheets with rayLib](http://bedroomcoders.co.uk/sprite-sheets-with-raylib)
-- [Shaders with raylib](http://bedroomcoders.co.uk/shaders-with-raylib)
-- [Lighting with raylib](http://bedroomcoders.co.uk/lighting-with-raylib)
-- [2D Spotlight shader with rayLib](http://bedroomcoders.co.uk/2d-spotlight-shader-with-raylib)
-- [Implementing a 3d GUI with raylib](http://bedroomcoders.co.uk/implementing-a-3d-gui-with-raylib)
-- [Creating Raspberry Pi applications with raylib and Ruby (Part 1)](https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-fba3d35b2877)
-- [Creating Raspberry Pi applications with raylib and Ruby (Part 2)](https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-part-ii-edc47680157b)
-- [Ubuntu 18.04 için raylib kurulumu (Turkish)](https://medium.com/@msoygen/ubuntu-18-04-raylib-kurulumu-8ff9c4274b91)
-- [raylib: 6 years of fun](https://gist.github.com/raysan5/04a2daf02aa2a6e79010331f77bf983f)
-- [rGuiIcons Making Of Diary](https://gist.github.com/raysan5/fe769f77b43b6c612600166498ce3640)
+*  By [avik.das (Medium)][avik-das-medium]:
+    - [Creating Raspberry Pi applications with raylib and Ruby (Part 1)](https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-fba3d35b2877)
+    - [Creating Raspberry Pi applications with raylib and Ruby (Part 2)](https://medium.com/@avik.das/creating-raspberry-pi-applications-with-raylib-and-ruby-part-ii-edc47680157b)
+- [Ubuntu 18.04 için raylib kurulumu](https://medium.com/@msoygen/ubuntu-18-04-raylib-kurulumu-8ff9c4274b91) (Türkçe)
 
 ### Tutorials
 
 - [C Programming with Raylib – Match3 Game Tutorial](https://www.youtube.com/watch?v=P7PMA3X1tf8)
+- [Raylib 2D Challenge by Kea Sigma Delta](https://www.youtube.com/playlist?list=PLORJX3OiHbbMs9AFM5bzpNUychJm1raub)
+- [Making a game with Raylib in Go by Avery](https://www.youtube.com/playlist?list=PLVotA8ycjnCsy30WQCwVU5RrZkt4lLgY5)
 - [The ultimate introduction to Raylib [ 2D & 3D game dev ]](https://www.youtube.com/watch?v=UoAsDlUwjy0)
+* By [Andrew Hamel Codes][andrew-hamel-codes-youtube]:
+    - [raylib Demos](https://www.youtube.com/playlist?list=PLfL77ni3kqKa6a6R5DWqUERh-VLiOLdy7)
+    - [Other aylib Tutorials](https://www.youtube.com/playlist?list=PLfL77ni3kqKb4l83lUpWL_xQlhuDeuj_M)
+    - [raylib ASTEROIDS Tutorial](https://www.youtube.com/playlist?list=PLfL77ni3kqKYFcTLx8OXneGWQuKjJ6Qce)
+    - [Workflow guiding tutorials](https://www.youtube.com/playlist?list=PLfL77ni3kqKYMtVAJ9jZ5g6M7cSBlE5D6)
+    - [General Coding Tutorials](https://www.youtube.com/playlist?list=PLfL77ni3kqKYT8RDAjBmRFHMw13ygzfe5)
 - [iqm animation raylib 4.0 example - Tutorial](https://www.youtube.com/watch?v=_EurjoraotA)
 - [Learn X in Y minutes, Where X=raylib](https://learnxinyminutes.com/docs/raylib)
 - [Odin + Raylib tutorials by Karl Zylinski](https://www.youtube.com/playlist?list=PLxE7SoPYTef1jYHJ6NxNgocVjQKkq7eEa)
@@ -1118,38 +804,38 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib -- A C++ Game Library That's Perfect For Beginners](https://www.youtube.com/watch?v=xGPF3Gn-yhA)
 - [How to build & set up raylib for Visual studio](https://www.youtube.com/watch?v=mfj0JG2LdVM)
 - [Create Videos Games in PHP (With RayLib)](https://www.youtube.com/watch?v=q1X_6TYd030)
-- [Compiler Raylib sur Windows (French)](https://www.youtube.com/watch?v=XEpmMBM01Zg)
+- [Compiler Raylib sur Windows](https://www.youtube.com/watch?v=XEpmMBM01Zg) (Français)
 - [Raylib setup on Codeblocks](https://www.youtube.com/watch?v=a2IUxJFr8sg)
-- [Tile maps en Raylib con Tileson (Spanish)](https://www.youtube.com/watch?v=Gq9sTaeHtj4)
-- [윈도우 10에서 Visual Studio Code로 raylib 개발 환경 구축하기 (Korean)](https://jdeokkim.github.io/setting-up-raylib-with-vscode-on-windows)
-- [raylib에서 한글 글꼴 사용하기 (Korean)](https://jdeokkim.github.io/using-korean-fonts-with-raylib)
+- [Tile maps en Raylib con Tileson](https://www.youtube.com/watch?v=Gq9sTaeHtj4) (Español)
+* By [jdeokkim][jdeokkim-github]:
+    - [윈도우 10에서 Visual Studio Code로 raylib 개발 환경 구축하기](https://jdeokkim.github.io/setting-up-raylib-with-vscode-on-windows) (한국어)
+    - [raylib에서 한글 글꼴 사용하기](https://jdeokkim.github.io/using-korean-fonts-with-raylib) (한국어)
 
 ### Videos
 
-- [raylib: a 12-year adventure as a solo-maintainer](https://www.youtube.com/watch?v=4Wqwnfu2Y0A)
-- [raylib projects showcase 2025](https://www.youtube.com/watch?v=i7isROcHwWE)
-- [raylib NEXT gamejam showcase](https://www.youtube.com/watch?v=hRDLyGx6aN0)
-- [raylib 5.5 in one minute](https://www.youtube.com/watch?v=r6w0-HrnmNw)
-- [raylib 5.0 presentation](https://www.youtube.com/watch?v=nFVBil3EJEQ)
-- [raylib projects showcase 2024](https://www.youtube.com/watch?v=GdlGE-eDlzg)
-- [raygui - JsGame Dev Summit 2023 presentation](https://www.youtube.com/watch?v=v3NZZZK8PWc)
-- [raylib timeline, 10 years of fun](https://www.youtube.com/watch?v=kMhM17tPXs8)
-- [raylib project showcase June 2023](https://www.youtube.com/watch?v=-RROryQQq-s)
-- [rTexPacker 2.6 features showcase](https://www.youtube.com/watch?v=N9xZbh-eHdU)
-- [rTexViewer 3.0 features showcase](https://www.youtube.com/watch?v=To96Pb3chvk)
-- [rInstallFriendly 1.0 usage showcase](https://www.youtube.com/watch?v=7jUC2U8jl3s)
-- [rTexViewer v3.0-beta features demo](https://www.youtube.com/watch?v=kkQZiaT1nCM)
-- [raylib 4.0 feature: events automation system](https://www.youtube.com/watch?v=3dZenkpmRzM)
-- [raylib game: RETRO MAZE 3D - running on GPi CASE (RPI Zero)](https://www.youtube.com/watch?v=M9FXXMHPSfw)
-- [raylib 2.5 - public presentation (June 2019)](https://www.youtube.com/watch?v=78aa2wuiGmI)
-- [raylib 1.6 - 3rd anniversary overview](https://www.youtube.com/watch?v=o8T9oNfsCOs)
-- [RayLib Review / Open source free game library / Game Engine / Delphi, Pascal, Lazarus, C, C++, C#](https://www.youtube.com/watch?v=Z6Eg9UfC_6U&t=616s)
-- [RayLib / Обзор игровой библиотеки / Pascal, Delphi, Lazarus, C++, C#, Java, JavaScript, Python, Perl(Russian)](https://www.youtube.com/watch?v=GUDzyXlmpVk&t=74s)
+* By [raylib (Official Channel)][raylib-youtube]:
+    - [raylib: a 12-year adventure as a solo-maintainer](https://www.youtube.com/watch?v=4Wqwnfu2Y0A)
+    - [raylib projects showcase 2025](https://www.youtube.com/watch?v=i7isROcHwWE)
+    - [raylib NEXT gamejam showcase](https://www.youtube.com/watch?v=hRDLyGx6aN0)
+    - [raylib 5.5 in one minute](https://www.youtube.com/watch?v=r6w0-HrnmNw)
+    - [raylib 5.0 presentation](https://www.youtube.com/watch?v=nFVBil3EJEQ)
+    - [raylib projects showcase 2024](https://www.youtube.com/watch?v=GdlGE-eDlzg)
+    - [raygui - JsGame Dev Summit 2023 presentation](https://www.youtube.com/watch?v=v3NZZZK8PWc)
+    - [raylib timeline, 10 years of fun](https://www.youtube.com/watch?v=kMhM17tPXs8)
+    - [raylib project showcase June 2023](https://www.youtube.com/watch?v=-RROryQQq-s)
+    - [rTexPacker 2.6 features showcase](https://www.youtube.com/watch?v=N9xZbh-eHdU)
+    - [rTexViewer 3.0 features showcase](https://www.youtube.com/watch?v=To96Pb3chvk)
+    - [rInstallFriendly 1.0 usage showcase](https://www.youtube.com/watch?v=7jUC2U8jl3s)
+    - [rTexViewer v3.0-beta features demo](https://www.youtube.com/watch?v=kkQZiaT1nCM)
+    - [raylib 4.0 feature: events automation system](https://www.youtube.com/watch?v=3dZenkpmRzM)
+    - [raylib game: RETRO MAZE 3D - running on GPi CASE (RPI Zero)](https://www.youtube.com/watch?v=M9FXXMHPSfw)
+    - [raylib 2.5 - public presentation (June 2019)](https://www.youtube.com/watch?v=78aa2wuiGmI)
+    - [raylib 1.6 - 3rd anniversary overview](https://www.youtube.com/watch?v=o8T9oNfsCOs)
+- [raylib author on library internals and C programming language!](https://www.youtube.com/watch?v=8F3jJdK4abw)
+- [RayLib Review / Open source free game library / Game Engine / Delphi, Pascal, Lazarus, C, C++, C#](https://www.youtube.com/watch?v=Z6Eg9UfC_6U)
+- [RayLib / Обзор игровой библиотеки / Pascal, Delphi, Lazarus, C++, C#, Java, JavaScript, Python, Perl](https://www.youtube.com/watch?v=GUDzyXlmpVk) (Русский)
 - [Making a Game With Trash](https://www.youtube.com/watch?v=sKlcCplUODw)
 - [Best C++ Game Wins $1000 - Game Making Challenge](https://www.youtube.com/watch?v=_yyKYl1LAHM)
-- [9ª QIDV (8/11) : Ramón Santamaría presenta su RayLib (Spanish)](https://www.youtube.com/watch?v=LKdqM8Wv6qk)
-- [QIDV 12 (03) - Ramón Santamaría nos presenta la nueva versión de su Raylib (Spanish)](https://www.youtube.com/watch?v=tKq9mpEBQFg)
-- [raylib events automation](https://www.youtube.com/watch?v=3dZenkpmRzM)
 - [path following raylib and ODE vehicles](https://www.youtube.com/watch?v=p7kU5SmBZ3M)
 - [ODE Vehicle Raylib](https://www.youtube.com/watch?v=LjsKEO105Dw)
 - [Raylib 3.7 - raylib4Vita](https://www.youtube.com/watch?v=ISPID_2XBDs)
@@ -1163,50 +849,70 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Raylib SpriteEngine](https://www.youtube.com/watch?v=mMPtnHUiZbM)
 - [C++ Sorting Algorithms Visualized (Raylib Library)](https://www.youtube.com/watch?v=E2Brnev0Olc)
 - [Test of synchronize video and audio with OpenGL (powered by raylib)](https://www.youtube.com/watch?v=KGcC-d19-lg)
-- [Traduzindo e estudando exemplos do Raylib](https://www.youtube.com/watch?v=3KKLh3W0III) (Portuguese)
+- [Traduzindo e estudando exemplos do Raylib](https://www.youtube.com/watch?v=3KKLh3W0III) (Português)
 - [Rayblade 2d Game Devlog using Raylib-C](https://www.youtube.com/watch?v=AmWc9qoD4UA)
-- [2D Raylib Experiments Livestream (Part 1) - Making the Player Bleed](https://www.youtube.com/watch?v=N2ytx3Awt8c)
-- [2D Raylib Experiments Livestream (Part 2) - Slime Time](https://www.youtube.com/watch?v=-oup057X4xw)
+* By [dandymcgee][dandymcgee-youtube]:
+    - [2D Raylib Experiments Livestream (Part 1) - Making the Player Bleed](https://www.youtube.com/watch?v=N2ytx3Awt8c)
+    - [2D Raylib Experiments Livestream (Part 2) - Slime Time](https://www.youtube.com/watch?v=-oup057X4xw)
 - [Raylib Raspberry Pi Sound Demo](https://www.youtube.com/watch?v=_vQ7PDqziO0)
 - [Odin-Raylib Game Programming #000: Windows Environment Setup](https://www.youtube.com/watch?v=CDlYQtxyhPs)
 - [Raylib works with Neatbeans and mac os x](https://www.youtube.com/watch?v=GFFgt1zxeck)
 - [EPIC raylib c++ rpg game dev](https://www.youtube.com/watch?v=VqQDkz0t7lE)
 - [Quick sort in raylib. Oh yeah.](https://www.youtube.com/watch?v=psede2nHvRE)
 - [Randomness RNG vs Perlin Noise with Raylib 3.0](https://www.youtube.com/watch?v=6NLolZ-aiVA)
-- [raylib - 3rd anniversary](https://www.youtube.com/watch?v=o8T9oNfsCOs)
 - [Raylib oLd SkOoL 2](https://www.youtube.com/watch?v=M2WYWYQNjYg)
 - [Pangea Demo - Editing Heightmaps With Raylib](https://www.youtube.com/watch?v=fWWUG9VMoQw)
 - [raylib on Mobian PinePhone](https://www.youtube.com/watch?v=Vi4TXnrnExo)
-- [Coding a Synthesizer in C (episode #1)](https://www.youtube.com/watch?v=p1VQuMziTek)
-- [Coding a Synthesizer in C (episode #2)](https://www.youtube.com/watch?v=jZSnH33Vkh4)
-- [Coding a Synthesizer in C (episode #3)](https://www.youtube.com/watch?v=WXoyF5jYujE)
-- [Coding a Synthesizer in C (episode #4)](https://www.youtube.com/watch?v=SmKYWmQQmsk)
-- [Coding a Synthesizer in C (episode #5)](https://www.youtube.com/watch?v=fqUbYIhLTqw)
+* By [locogame/ljdp][ljdp-youtube]:
+    - [Coding a Synthesizer in C (episode #1)](https://www.youtube.com/watch?v=p1VQuMziTek)
+    - [Coding a Synthesizer in C (episode #2)](https://www.youtube.com/watch?v=jZSnH33Vkh4)
+    - [Coding a Synthesizer in C (episode #3)](https://www.youtube.com/watch?v=WXoyF5jYujE)
+    - [Coding a Synthesizer in C (episode #4)](https://www.youtube.com/watch?v=SmKYWmQQmsk)
+    - [Coding a Synthesizer in C (episode #5)](https://www.youtube.com/watch?v=fqUbYIhLTqw)
 - [How To Use Raylib With C++ And VSCode](https://www.youtube.com/watch?v=u6LXRF-iMg8)
 - [Digital Crafters #2 - Ramon Santamaria](https://www.youtube.com/watch?v=wnbJpdjAHg8)
 - [Interview with @imakefoss curator and Ramon Santamaria about raylib](https://www.youtube.com/watch?v=NM1gMvHwDwA)
-- [Official raylib 2.5 presentation](https://www.youtube.com/watch?v=78aa2wuiGmI)
-- [Raylib's Awesome New Superpower!](https://www.youtube.com/watch?v=yCcONzVXpmo)
-- [Raylib x Unreal Engine = AWESOME!](https://www.youtube.com/watch?v=O97miv4iukk)
-- [Raylib -- Easiest C/C++ Game Framework -- Now Even Better For Beginners!](https://www.youtube.com/watch?v=TgCwzMemb_M)
-- [Raylib Game Development Tools -- Work With Any Game Engine!](https://www.youtube.com/watch?v=kPWShsel6vo)
-- [Scrap - New Visual Programming Language - Powered By Raylib](https://www.youtube.com/watch?v=weCzARV_Cpk)
-- [Shape Engine - 2D C# Vector Game Engine - Free & Open Source and RayLib Powered!](https://www.youtube.com/watch?v=u-a5SzILw9I)
-- [RayLib 6 Released - The Easiest C/C++ Game Library Just Got Even Better!](https://www.youtube.com/watch?v=R4NxhHKQQlQ)
-- [RayLib 5.5 Released - The Easiest C/C++ Game Library Just Got Even Easier](https://www.youtube.com/watch?v=JXL2bYmTLE4)
-- [RayLib 5 Released - The Easiest C/C++ Game Library Just Got Even Better](https://www.youtube.com/watch?v=hr5fYMgjNiE)
-- [raylib 4.5 Released -- The Easiest C/C++ Game Library Gets Better](https://www.youtube.com/watch?v=RPjaUf_sdQw)
-- [RayLib 4.2 Released -- Easiest C/C++ Game Framework Gets An Upgrade](https://www.youtube.com/watch?v=OvnSEq6_DQA)
-- [raylib 4.0 Released -- The Easiest C/C++ Game Library Just Got Even Better](https://www.youtube.com/watch?v=H_Oe82SqQ8Y)
-- [raylib 3.7 Released](https://www.youtube.com/watch?v=c8hUF75f0kk)
-- [RayLib 3.5 Released -- C/C++ GameDev Easy Mode](https://www.youtube.com/watch?v=RZJ-Z--6uxY)
-- [Raylib 3.0 Released -- The Best Way to Learn C or C++ Game Development*](https://www.youtube.com/watch?v=xx9ntuvA1t0)
-- [Raylib 2.0 Released -- C/C++ Game Framework Perfect For Beginners](https://www.youtube.com/watch?v=QwLHHasIO6k)
-- [Raylib 1.8 Released -- Easiest C Game Framework I've Ever Found](https://www.youtube.com/watch?v=FDbIQZBar7g)
-- [RayLib Receives An Epic MegaGrant!](https://www.youtube.com/watch?v=jZWwisQn76A)
+* By [GameFromScratch][gamefromscratch-youtube]:
+    - [Raylib's Awesome New Superpower!](https://www.youtube.com/watch?v=yCcONzVXpmo)
+    - [Raylib x Unreal Engine = AWESOME!](https://www.youtube.com/watch?v=O97miv4iukk)
+    - [Raylib -- Easiest C/C++ Game Framework -- Now Even Better For Beginners!](https://www.youtube.com/watch?v=TgCwzMemb_M)
+    - [Raylib Game Development Tools -- Work With Any Game Engine!](https://www.youtube.com/watch?v=kPWShsel6vo)
+    - [Scrap - New Visual Programming Language - Powered By Raylib](https://www.youtube.com/watch?v=weCzARV_Cpk)
+    - [Shape Engine - 2D C# Vector Game Engine - Free & Open Source and RayLib Powered!](https://www.youtube.com/watch?v=u-a5SzILw9I)
+    - [RayLib 6 Released - The Easiest C/C++ Game Library Just Got Even Better!](https://www.youtube.com/watch?v=R4NxhHKQQlQ)
+    - [RayLib 5.5 Released - The Easiest C/C++ Game Library Just Got Even Easier](https://www.youtube.com/watch?v=JXL2bYmTLE4)
+    - [RayLib 5 Released - The Easiest C/C++ Game Library Just Got Even Better](https://www.youtube.com/watch?v=hr5fYMgjNiE)
+    - [raylib 4.5 Released -- The Easiest C/C++ Game Library Gets Better](https://www.youtube.com/watch?v=RPjaUf_sdQw)
+    - [RayLib 4.2 Released -- Easiest C/C++ Game Framework Gets An Upgrade](https://www.youtube.com/watch?v=OvnSEq6_DQA)
+    - [raylib 4.0 Released -- The Easiest C/C++ Game Library Just Got Even Better](https://www.youtube.com/watch?v=H_Oe82SqQ8Y)
+    - [raylib 3.7 Released](https://www.youtube.com/watch?v=c8hUF75f0kk)
+    - [RayLib 3.5 Released -- C/C++ GameDev Easy Mode](https://www.youtube.com/watch?v=RZJ-Z--6uxY)
+    - [Raylib 3.0 Released -- The Best Way to Learn C or C++ Game Development*](https://www.youtube.com/watch?v=xx9ntuvA1t0)
+    - [Raylib 2.0 Released -- C/C++ Game Framework Perfect For Beginners](https://www.youtube.com/watch?v=QwLHHasIO6k)
+    - [Raylib 1.8 Released -- Easiest C Game Framework I've Ever Found](https://www.youtube.com/watch?v=FDbIQZBar7g)
+    - [RayLib Receives An Epic MegaGrant!](https://www.youtube.com/watch?v=jZWwisQn76A)
+* By [Tsoding Daily][tsoding-daily-youtube]:
+    - [Music Visualizer (Series)](https://www.youtube.com/playlist?list=PLpM-Dvs8t0Vak1rrE2NJn8XYEJ5M7-BqT)
+    - [You should read Open Source code](https://www.youtube.com/watch?v=tBApLbmAZ6Y)
+    - [Raylib from Jai](https://www.youtube.com/watch?v=RtXQ5kHOpMo)
+    - [This Release is Crazy!!](https://www.youtube.com/watch?v=7ZJ9pJJnxfI)
+    - [You can just render React with Raylib](https://www.youtube.com/watch?v=sk0VFcOeTAw)
+    - [Easy Web Games in C](https://www.youtube.com/watch?v=H_cnrhVYsK0)
+    - [This Tiny UI Library in C is INSANE](https://www.youtube.com/watch?v=-AFAY2IV4bk)
+    - [Rewriting Raylib in JavaScript](https://www.youtube.com/watch?v=i4Tam03E-Oc)
+    - [Bindings Generator](https://www.youtube.com/watch?v=1wkUyzUPo6Q)
+    - [I liked Raylib better than SDL (ML in C Ep.05)](https://www.youtube.com/watch?v=Sz-lXj0Ha6E)
+    - [GameDev in Assembly?!](https://www.youtube.com/watch?v=p60L-TOecik)
+    - [Will Ada Replace C/C++?](https://www.youtube.com/watch?v=MUISz2qA640)
+    - [Checking out Raylib — Part 2 — 3D Game Development](https://www.youtube.com/watch?v=QqravLVpoI8)
+    - [Checking out raylib](https://www.youtube.com/watch?v=fHojJ9Nxb0E)
+* By [Coding with Sphere][coding-with-sphere-youtube]:
+    - [Raylib videos playlist](https://www.youtube.com/playlist?list=PLvN4CrYN-8i6_Uz6DawsT9sRwJBK9hyUF)
+    - [I'm making a game in Go... My Experience](https://www.youtube.com/watch?v=KbAV96nX4kk)
+    - [Gamedev in Zig is actually pretty good...](https://www.youtube.com/watch?v=-xIFpg7sBVs)
+    - [Making a Desktop App with a Game Library](https://www.youtube.com/watch?v=KSKzaeZJlqk)
+    - [Which game framework should you use?](https://www.youtube.com/watch?v=vmvw5SODdiM)
 - [Raylib Terrain Erosion Demo](https://www.youtube.com/watch?v=jYCSkodrg6w)
-- [Checking out raylib](https://www.youtube.com/watch?v=fHojJ9Nxb0E)
-- [Checking out Raylib — Part 2 — 3D Game Development](https://www.youtube.com/watch?v=QqravLVpoI8)
 - [raylib -- A C++ Game Library That's Perfect For Beginners](https://www.youtube.com/watch?v=xGPF3Gn-yhA)
 - [C++ | Implementing Boid: 0 Visualization | Raylib 3.0](https://www.youtube.com/watch?v=GM3TM5Hi16w)
 - [How to compile Raylib from scratch and set up your first projects (Windows / C ) in 15 minutes](https://www.youtube.com/watch?v=HPDLTQ4J_zQ)
@@ -1216,7 +922,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Particle System using RayLib | C++ GameDev | C++ Particle System](https://www.youtube.com/watch?v=j5dVx0LTtAs)
 - [CRT scan line retro shader with RayLib](https://www.youtube.com/watch?v=Custpsdpgj4)
 - [Using RayLib on a 32x32 "screen"](https://www.youtube.com/watch?v=DxbikNW6zN4)
-- [LIVE : Raylib, une lib C / C++ idéale pour débuter ?](https://www.youtube.com/watch?v=PZi-Z9XyJo8) (French)
+- [LIVE : Raylib, une lib C / C++ idéale pour débuter ?](https://www.youtube.com/watch?v=PZi-Z9XyJo8) (Français)
 - [C++ | BubbleSort with RayLib 2.6 Speed Coding](https://www.youtube.com/watch?v=T-pNv6BewC8)
 - [FPS game written in C](https://www.youtube.com/watch?v=xE1MG1-Yh6s)
 - [Raylib Voronoi Map Generation](https://www.youtube.com/watch?v=HTZFXYpu-G0)
@@ -1225,22 +931,32 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib on 32x32 LED](https://www.youtube.com/watch?v=u1BzNAJORN8)
 - [Procedural Island Gen and A* Pathfinding Demo](https://www.youtube.com/watch?v=vpzFoRA6Y3Q)
 - [Install RayLib in LazarusIDE](https://www.youtube.com/watch?v=lAFWOgDahtk)
-- [Raylib c'est bien !](https://www.youtube.com/watch?v=aaIBSuymo0Y) (French)
-- [QIDV12 (03) - Ramón Santamaría nos presenta la nueva versión de su Raylib](https://www.youtube.com/watch?v=tKq9mpEBQFg) (Spanish)
-- [Borak Buat Game - Belajar Raylib](https://www.youtube.com/watch?v=tMPBdjP0dp8) (Malay)
-- [Belajar Raylib Part 2 - 3D Camera dan Simple Collision](https://www.youtube.com/watch?v=rMNVXFpAkg8) (Malay)
+- [Raylib c'est bien !](https://www.youtube.com/watch?v=aaIBSuymo0Y) (Français)
+- [4x Code Performance with SIMD](https://www.youtube.com/watch?v=Imj4ROIiMw0)
+- [Borak Buat Game - Belajar Raylib](https://www.youtube.com/watch?v=tMPBdjP0dp8) (Bahasa Melayu)
+- [Belajar Raylib Part 2 - 3D Camera dan Simple Collision](https://www.youtube.com/watch?v=rMNVXFpAkg8) (Bahasa Melayu)
 - [How to install raylib on a chromebook (OpenGl 2.1)](https://www.youtube.com/watch?v=R0jsXG4xahM)
-- [Compiler Raylib sur Windows](https://www.youtube.com/watch?v=XEpmMBM01Zg) (French)
+- [Compiler Raylib sur Windows](https://www.youtube.com/watch?v=XEpmMBM01Zg) (Français)
 - [RayLib-PHP DevLog Fonts & Tiled Support](https://www.youtube.com/watch?v=JYGtt0sfbzw)
 - [C | Implementing Epicycloid with Raylib 3.0 Speed Coding](https://www.youtube.com/watch?v=wZDEkIwkyFk)
 - [C | Implementing Fractal Tree with Raylib 3.0 Speed Coding](https://www.youtube.com/watch?v=WdPnUAJW3YM)
 - [Coding a Breakout Arcade clone in C with Raylib](https://www.youtube.com/watch?v=UKecFbu61Oc)
 - [A brief introduction to Raylib](https://www.youtube.com/watch?v=J4eLE9YYQp0)
 - [How to get started with Raylib 3.0 in C# - Tutorial](https://www.youtube.com/watch?v=SoXD5y24WQw)
-- [Raylib - adventure in shaders - ep00](https://www.youtube.com/watch?v=siosc2B1bA4)
-- [Raylib - adventure in shaders - ep01](https://www.youtube.com/watch?v=8205iyicv5k)
+* By [mronetwo/khatakeddb][mronetwo-youtube]:
+    - [Raylib - adventure in shaders - ep00](https://www.youtube.com/watch?v=siosc2B1bA4)
+    - [Raylib - adventure in shaders - ep01](https://www.youtube.com/watch?v=8205iyicv5k)
 - [Raylib - Fixing the "Skipping Incompatible ../src\libraylib.a When Searching For -lraylib" Error](https://www.youtube.com/watch?v=rgV9AoVdFlA)
 - [Minecraft in C++ from Scratch |Raylib|](https://www.youtube.com/watch?v=dEtsw2Cfqhg)
+- [raylib Game Development by darkmage of evildojo (Playlist)](https://www.youtube.com/playlist?list=PLyfye74zuK3PJxD4c2JvOY326Zft5Li2K)
+<!-- QIDV videos became unaccessible?! -->
+<!--* By [QIDV][]:
+    - [9ª QIDV (8/11) : Ramón Santamaría presenta su RayLib](https://www.youtube.com/watch?v=LKdqM8Wv6qk) (Español)
+    - [QIDV 12 (03) - Ramón Santamaría nos presenta la nueva versión de su Raylib](https://www.youtube.com/watch?v=tKq9mpEBQFg) (Español)
+    - [QIDV12 (03) - Ramón Santamaría nos presenta la nueva versión de su Raylib](https://www.youtube.com/watch?v=tKq9mpEBQFg) (Español)
+-->
+
+> Note that in case a video listed below the playlist link from the same channel, Then it means simply that the playlist for some reason did not include the video.
 
 ### Promo Images
 
@@ -1502,70 +1218,70 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Logos
 
-[![raysan5/raylib](logos/raylib.png)]([raysan5-raylib] "raysan5/raylib")
-[![SasLuca/rayfork](logos/rayfork.png)]([SasLuca-rayfork] "SasLuca/rayfork")
-[![RobLoach/raylib-cpp](logos/raylib-cpp.png)]([RobLoach-raylib-cpp] "RobLoach/raylib-cpp")
-[![ChrisDill/Raylib-cs](logos/raylib-cs.png)]([ChrisDill-Raylib-cs] "ChrisDill/Raylib-cs")
-[![gen2brain/raylib-go](logos/raylib-go.png)]([gen2brain-raylib-go] "gen2brain/raylib-go")
-[![Lachee/raylib-goplus](logos/raylib-go-plus.png)]([Lachee-raylib-goplus] "Lachee/raylib-goplus")
-[![deltaphc/raylib-rs](logos/raylib-rust.png)]([deltaphc-raylib-rs] "deltaphc/raylib-rs")
-[![raysan5/raylib-lua](logos/raylib-lua.png)]([raysan5-raylib-lua] "raysan5/raylib-lua")
-[![RobLoach/raylib-lua-sol](logos/raylib-lua-sol.png)]([RobLoach-raylib-lua-sol] "RobLoach/raylib-lua-sol")
-[![TSnake41/raylib-lua](logos/tsnake41-raylib-lua.png)]([TSnake41-raylib-lua] "TSnake41/raylib-lua")
-[![HDPLocust/raylib-luamore](logos/raylib-luamore.png)]([HDPLocust-raylib-luamore] "HDPLocust/raylib-luamore")
-[![Andre-LA/raylib-nelua](logos/raylib-nelua.png)]([Andre-LA-raylib-nelua] "Andre-LA/raylib-nelua")
-[![AregevDev/raylib-cr](logos/raylib-cr.png)]([AregevDev-raylib-cr] "AregevDev/raylib-cr")
-[![drezgames/raylib-pascal](logos/raylib-pascal.png)]([drezgames-raylib-pascal] "drezgames/raylib-pascal")
-[![GuvaCode/Ray4Laz](logos/ray4laz.png)]([GuvaCode-Ray4Laz] "GuvaCode/Ray4Laz")
-[![overdev/raylib-py](logos/raylib-py.png)]([overdev-raylib-py] "overdev/raylib-py")
-[![RobLoach/node-raylib](logos/node-raylib.png)]([RobLoach-node-raylib] "RobLoach/node-raylib")
-[![RobLoach/raylib-chaiscript](logos/raylib-chaiscript.png)]([RobLoach-raylib-chaiscript] "RobLoach/raylib-chaiscript")
-[![ArnautDaniel/raylib-factor](logos/raylib-factor.png)]([ArnautDaniel-raylib-factor] "ArnautDaniel/raylib-factor")
-[![ArnautDaniel/gforth-raylib](logos/gforth-raylib.png)]([gforth-raylib] "ArnautDaniel/gforth-raylib")
-[![TSnake41/raylib-wren](logos/raylib-wren.png)]([TSnake41-raylib-wren] "TSnake41/raylib-wren")
-[![Not-Nik/raylib-zig](logos/raylib-zig.png)]([Not-Nik-raylib-zig] "Not-Nik/raylib-zig")
-[![bmx-ng/ray.mod](logos/raylib-blitzmax.png)]([bmx-ng-raylib-blitzmax] "bmx-ng/ray.mod")
-[![tjammer/raylib-ocaml](logos/raylib-ocaml.png)]([tjammer-raylib-ocaml] "tjammer/raylib-ocaml")
-[![D-a-n-i-l-o/raylib-purebasic](logos/raylib-purebasic.png)]([D-a-n-i-l-o-raylib-purebasic] "D-a-n-i-l-o/raylib-purebasic")
-[![M0n7y5/raylib-beef](logos/raylib-beef.png)]([M0n7y5-raylib-beef] "M0n7y5/raylib-beef")
-[![RedCubeDev-ByteSpace/Relib](logos/relib.png)]([RedCubeDev-ByteSpace-Relib] "RedCubeDev-ByteSpace/Relib")
-[![CreedVI/Raylib-J](logos/raylib-j.png)]([CreedVI-Raylib-J] "CreedVI/Raylib-J")
-[![victorfisac/Physac](logos/physac.png)]([victorfisac-Physac] "victorfisac/Physac")
-[![raysan5/raygui](logos/raygui.png)]([raysan5-raygui] "raysan5/raygui")
-[![raysan5/rpng](logos/rpng.png)]([raysan5-rpng] "raysan5/rpng")
-[![raysan5/rres](logos/rres.png)]([raysan5-rres] "raysan5/rres")
-[![raysan5/rfxgen](logos/rfxgen.png)]([raysan5-rfxgen] "raysan5/rfxgen")
-[![victorfisac/FNode](logos/fnode.png)]([victorfisac-FNode] "victorfisac/FNode")
-[![SliverLIVE/Raylib-for-GLBasic](logos/raylib-glbasic.png)]([SliverLIVE-Raylib-for-GLBasic] "SliverLIVE/Raylib-for-GLBasic")
-[![ForeignSasquatch/hxRaylib](logos/hxraylib.png)]([ForeignSasquatch-hxRaylib] "ForeignSasquatch/hxRaylib")
+[![raysan5/raylib](logos/raylib.png)][raysan5-raylib]
+[![SasLuca/rayfork](logos/rayfork.png)][SasLuca-rayfork]
+[![RobLoach/raylib-cpp](logos/raylib-cpp.png)][RobLoach-raylib-cpp]
+[![ChrisDill/Raylib-cs](logos/raylib-cs.png)][ChrisDill-Raylib-cs]
+[![gen2brain/raylib-go](logos/raylib-go.png)][gen2brain-raylib-go]
+[![Lachee/raylib-goplus](logos/raylib-go-plus.png)][Lachee-raylib-goplus]
+[![deltaphc/raylib-rs](logos/raylib-rust.png)][deltaphc-raylib-rs]
+[![raysan5/raylib-lua](logos/raylib-lua.png)][raysan5-raylib-lua]
+[![RobLoach/raylib-lua-sol](logos/raylib-lua-sol.png)][RobLoach-raylib-lua-sol]
+[![TSnake41/raylib-lua](logos/tsnake41-raylib-lua.png)][TSnake41-raylib-lua]
+[![HDPLocust/raylib-luamore](logos/raylib-luamore.png)][HDPLocust-raylib-luamore]
+[![Andre-LA/raylib-nelua](logos/raylib-nelua.png)][Andre-LA-raylib-nelua]
+[![AregevDev/raylib-cr](logos/raylib-cr.png)][AregevDev-raylib-cr]
+[![drezgames/raylib-pascal](logos/raylib-pascal.png)][drezgames-raylib-pascal]
+[![GuvaCode/Ray4Laz](logos/ray4laz.png)][GuvaCode-Ray4Laz]
+[![overdev/raylib-py](logos/raylib-py.png)][overdev-raylib-py]
+[![RobLoach/node-raylib](logos/node-raylib.png)][RobLoach-node-raylib]
+[![RobLoach/raylib-chaiscript](logos/raylib-chaiscript.png)][RobLoach-raylib-chaiscript]
+[![ArnautDaniel/raylib-factor](logos/raylib-factor.png)][ArnautDaniel-raylib-factor]
+[![ArnautDaniel/gforth-raylib](logos/gforth-raylib.png)][gforth-raylib]
+[![TSnake41/raylib-wren](logos/raylib-wren.png)][TSnake41-raylib-wren]
+[![Not-Nik/raylib-zig](logos/raylib-zig.png)][Not-Nik-raylib-zig]
+[![bmx-ng/ray.mod](logos/raylib-blitzmax.png)][bmx-ng-raylib-blitzmax]
+[![tjammer/raylib-ocaml](logos/raylib-ocaml.png)][tjammer-raylib-ocaml]
+[![D-a-n-i-l-o/raylib-purebasic](logos/raylib-purebasic.png)][D-a-n-i-l-o-raylib-purebasic]
+[![M0n7y5/raylib-beef](logos/raylib-beef.png)][M0n7y5-raylib-beef]
+[![RedCubeDev-ByteSpace/Relib](logos/relib.png)][RedCubeDev-ByteSpace-Relib]
+[![CreedVI/Raylib-J](logos/raylib-j.png)][CreedVI-Raylib-J]
+[![victorfisac/Physac](logos/physac.png)][victorfisac-Physac]
+[![raysan5/raygui](logos/raygui.png)][raysan5-raygui]
+[![raysan5/rpng](logos/rpng.png)][raysan5-rpng]
+[![raysan5/rres](logos/rres.png)][raysan5-rres]
+[![raysan5/rfxgen](logos/rfxgen.png)][raysan5-rfxgen]
+[![victorfisac/FNode](logos/fnode.png)][victorfisac-FNode]
+[![SliverLIVE/Raylib-for-GLBasic](logos/raylib-glbasic.png)][SliverLIVE-Raylib-for-GLBasic]
+[![ForeignSasquatch/hxRaylib](logos/hxraylib.png)][ForeignSasquatch-hxRaylib]
 
-[raysan5-raylib]: https://github.com/raysan5-raylib
-[SasLuca-rayfork]: https://github.com/SasLuca/rayfork
-[RobLoach-raylib-cpp]: https://github.com/RobLoach/raylib-cpp
-[ChrisDill-Raylib-cs]: https://github.com/ChrisDill/Raylib-cs
-[gen2brain-raylib-go]: https://github.com/gen2brain/raylib-go
-[Lachee-raylib-goplus]: https://github.com/Lachee/raylib-goplus
-[deltaphc-raylib-rs]: https://github.com/deltaphc/raylib-rs
-[raysan5-raylib-lua]: https://github.com/raysan5/raylib-lua
-[RobLoach-raylib-lua-sol]: https://github.com/RobLoach/raylib-lua-sol
-[TSnake41-raylib-lua]: https://github.com/TSnake41/raylib-lua
-[HDPLocust-raylib-luamore]: https://github.com/HDPLocust/raylib-luamore
-[AregevDev-raylib-cr]: https://github.com/AregevDev/raylib-cr
-[drezgames-raylib-pascal]: https://github.com/drezgames/raylib-pascal
-[GuvaCode-Ray4Laz]: https://github.com/GuvaCode/Ray4Laz
-[overdev-raylib-py]: https://github.com/overdev/raylib-py
-[RobLoach-node-raylib]: https://github.com/RobLoach/node-raylib
-[RobLoach-raylib-chaiscript]: https://github.com/RobLoach/raylib-chaiscript
-[ArnautDaniel-raylib-factor]: https://github.com/ArnautDaniel/raylib-factor
-[ArnautDaniel-gforth-raylib]: https://github.com/ArnautDaniel/gforth-raylib
-[TSnake41-raylib-wren]: https://github.com/TSnake41/raylib-wren
-[Not-Nik-raylib-zig]: https://github.com/Not-Nik/raylib-zig
-[bmx-ng-raylib-blitzmax]: https://github.com/bmx-ng/ray.mod
-[tjammer-raylib-ocaml]: https://github.com/tjammer/raylib-ocaml
-[D-a-n-i-l-o-raylib-purebasic]: https://github.com/D-a-n-i-l-o/raylib-purebasic
-[M0n7y5-raylib-beef]: https://github.com/M0n7y5/raylib-beef
-[RedCubeDev-ByteSpace-Relib]: https://github.com/RedCubeDev-ByteSpace/Relib
-[ForeignSasquatch-hxRaylib]: https://github.com/ForeignSasquatch/hxRaylib
+[raysan5-raylib]:                https://github.com/raysan5-raylib "raysan5/raylib"
+[SasLuca-rayfork]:               https://github.com/SasLuca/rayfork "SasLuca/rayfork"
+[RobLoach-raylib-cpp]:           https://github.com/RobLoach/raylib-cpp "RobLoach/raylib-cpp"
+[ChrisDill-Raylib-cs]:           https://github.com/ChrisDill/Raylib-cs "ChrisDill/Raylib-cs"
+[gen2brain-raylib-go]:           https://github.com/gen2brain/raylib-go "gen2brain/raylib-go"
+[Lachee-raylib-goplus]:          https://github.com/Lachee/raylib-goplus "Lachee/raylib-goplus"
+[deltaphc-raylib-rs]:            https://github.com/deltaphc/raylib-rs "deltaphc/raylib-rs"
+[raysan5-raylib-lua]:            https://github.com/raysan5/raylib-lua "raysan5/raylib-lua"
+[RobLoach-raylib-lua-sol]:       https://github.com/RobLoach/raylib-lua-sol "RobLoach/raylib-lua-sol"
+[TSnake41-raylib-lua]:           https://github.com/TSnake41/raylib-lua "TSnake41/raylib-lua"
+[HDPLocust-raylib-luamore]:      https://github.com/HDPLocust/raylib-luamore "HDPLocust/raylib-luamore"
+[AregevDev-raylib-cr]:           https://github.com/AregevDev/raylib-cr "AregevDev/raylib-cr"
+[drezgames-raylib-pascal]:       https://github.com/drezgames/raylib-pascal "drezgames/raylib-pascal"
+[GuvaCode-Ray4Laz]:              https://github.com/GuvaCode/Ray4Laz "GuvaCode/Ray4Laz"
+[overdev-raylib-py]:             https://github.com/overdev/raylib-py "overdev/raylib-py"
+[RobLoach-node-raylib]:          https://github.com/RobLoach/node-raylib "RobLoach/node-raylib"
+[RobLoach-raylib-chaiscript]:    https://github.com/RobLoach/raylib-chaiscript "RobLoach/raylib-chaiscript"
+[ArnautDaniel-raylib-factor]:    https://github.com/ArnautDaniel/raylib-factor "ArnautDaniel/raylib-factor"
+[ArnautDaniel-gforth-raylib]:    https://github.com/ArnautDaniel/gforth-raylib "ArnautDaniel/gforth-raylib"
+[TSnake41-raylib-wren]:          https://github.com/TSnake41/raylib-wren "TSnake41/raylib-wren"
+[Not-Nik-raylib-zig]:            https://github.com/Not-Nik/raylib-zig "Not-Nik/raylib-zig"
+[bmx-ng-raylib-blitzmax]:        https://github.com/bmx-ng/ray.mod "bmx-ng/ray.mod"
+[tjammer-raylib-ocaml]:          https://github.com/tjammer/raylib-ocaml "tjammer/raylib-ocaml"
+[D-a-n-i-l-o-raylib-purebasic]:  https://github.com/D-a-n-i-l-o/raylib-purebasic "D-a-n-i-l-o/raylib-purebasic"
+[M0n7y5-raylib-beef]:            https://github.com/M0n7y5/raylib-beef "M0n7y5/raylib-beef"
+[RedCubeDev-ByteSpace-Relib]:    https://github.com/RedCubeDev-ByteSpace/Relib "RedCubeDev-ByteSpace/Relib"
+[ForeignSasquatch-hxRaylib]:     https://github.com/ForeignSasquatch/hxRaylib "ForeignSasquatch/hxRaylib"
 
 ### Stickers
 
@@ -1585,11 +1301,341 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib Official Wiki](https://github.com/raysan5/raylib/wiki)
 - [raylib on Wikipedia](https://en.wikipedia.org/wiki/Raylib)
 - [raylib website](https://raylib.com)
-- [raylib YouTube channel](https://www.youtube.com/channel/UC8WIBkhYb5sBNqXO1mZ7WSQ)
+- [raylib YouTube channel][raylib-youtube]
 - [raylib Discord channel](https://discord.gg/VkzNHUE)
 - [raylib on Reddit](https://www.reddit.com/r/raylib)
 - [raylib on Handmade](https://raylib.handmade.network)
 - [raylib page on itch.io](https://raysan5.itch.io/raylib)
 
-> Can't find your awesome stuff or you want to improve the list? Make issue or pull request for that!
+### Improvements/Suggestions
+
+Developers can open an issue or pull request for a feature and/or improvement, Even for those who want to do an improvement or add their stuff to the list there is a [contribution guide](CONTRIBUTING.md) that should be followed when doing so.
+
+<!-- Developers Accounts -->
+
+[ohmree-github]:                             https://github.com/ohmree
+[satinxs-github]:                            https://github.com/satinxs
+[masterex1000-github]:                       https://github.com/masterex1000
+[SamyBencherif-github]:                      https://github.com/SamyBencherif
+[Goodguyr-github]:                           https://github.com/Goodguyr
+[JeffM2501-github]:                          https://github.com/JeffM2501
+[Demizdor-github]:                           https://github.com/Demizdor
+[Pikachuxxxx-github]:                        https://github.com/Pikachuxxxx
+[mattj1-github]:                             https://github.com/mattj1
+[dotxnc-github]:                             https://github.com/dotxnc
+[AregevDev-github]:                          https://github.com/AregevDev
+[EdwardDowling-github]:                      https://github.com/EdwardDowling
+[pluckyporcupine-github]:                    https://github.com/pluckyporcupine
+[orbisdev-github]:                           https://github.com/orbisdev
+[psp2dev-github]:                            https://github.com/psp2dev
+[Gota7-github]:                              https://github.com/Gota7
+[LucaSkyer-github]:                          https://github.com/lucaskyer
+[raysan5-github]:                            https://github.com/raysan5
+[SasLuca-github]:                            https://github.com/SasLuca
+[victorfisac-github]:                        https://github.com/victorfisac
+[firststef-github]:                          https://github.com/firststef
+[osom8979-github]:                           https://github.com/osom8979
+[oswjk-github]:                              https://github.com/oswjk
+[haydenhigg-github]:                         https://github.com/haydenhigg
+[nezvers-github]:                            https://github.com/nezvers
+[RobLoach-github]:                           https://github.com/RobLoach
+[zworld-apps-github]:                        https://github.com/zworld-apps
+[Slixe-github]:                              https://github.com/Slixe
+[basp1-github]:                              https://github.com/basp1
+[smthnspcl-github]:                          https://github.com/smthnspcl
+[dbriemann-github]:                          https://github.com/dbriemann
+[WEREMSOFT-github]:                          https://github.com/WEREMSOFT
+[TheLumaio-github]:                          https://github.com/TheLumaio
+[tofuengine-github]:                         https://github.com/tofuengine
+[Ferrohound-github]:                         https://github.com/Ferrohound
+[JusticeShultz-github]:                      https://github.com/JusticeShultz
+[LilySweetCat-github]:                       https://github.com/LilySweetCat
+[jackcarey-github]:                          https://github.com/jackcarey
+[nbdy-github]:                               https://github.com/nbdy
+[coolcoy12-github]:                          https://github.com/coolcoy12
+[moonsteal-github]:                          https://github.com/moonsteal
+[Doy-lee-github]:                            https://github.com/Doy-lee
+[8bitPandaPlugins-github]:                   https://github.com/8bitPandaPlugins
+[zzador-github]:                             https://github.com/zzador
+[jozanza-github]:                            https://github.com/jozanza
+[Ushio-github]:                              https://github.com/Ushio
+[nicholasimon-github]:                       https://github.com/nicholasimon
+[JacobLondon-github]:                        https://github.com/JacobLondon
+[thyliverman-github]:                        https://github.com/thyliverman
+[hbiblia-github]:                            https://github.com/hbiblia
+[impzero-github]:                            https://github.com/impzero
+[AliElSaleh-github]:                         https://github.com/AliElSaleh
+[c-krit-github]:                             https://github.com/c-krit
+[ProfJski-github]:                           https://github.com/ProfJski
+[electronstudio-github]:                     https://github.com/electronstudio
+[haxeui-github]:                             https://github.com/haxeui
+[Not-Nik-github]:                            https://github.com/Not-Nik
+[raylib-extras-github]:                      https://github.com/raylib-extras
+[Samerion-git]:                              https://git.samerion.com/Samerion
+[dkvilo-github]:                             https://github.com/dkvilo
+[RicoP-github]:                              https://github.com/RicoP
+[gtrxAC-github]:                             https://github.com/gtrxAC
+[adct-the-experimenter-github]:              https://github.com/adct-the-experimenter
+[Lockna-github]:                             https://github.com/Lockna
+[skylersaleh-github]:                        https://github.com/skylersaleh
+[sparkskapil-github]:                        https://github.com/sparkskapil
+[sorykkk-github]:                            https://github.com/sorykkk
+[MarcMDE-github]:                            https://github.com/MarcMDE
+[Mudzii-github]:                             https://github.com/Mudzii
+[MaximeHouis-github]:                        https://github.com/MaximeHouis
+[fedqx-github]:                              https://github.com/fedqx
+[xdrie-github]:                              https://github.com/xdrie
+[TSnake41-github]:                           https://github.com/TSnake41
+[nurakmaljalil91-github]:                    https://github.com/nurakmaljalil91
+[CarterPatterson-github]:                    https://github.com/CarterPatterson
+[Guevara-chan-github]:                       https://github.com/Guevara-chan
+[hfabre-github]:                             https://github.com/hfabre
+[rfaile313-github]:                          https://github.com/rfaile313
+[redsled84-github]:                          https://github.com/redsled84
+[ArnautDaniel-github]:                       https://github.com/ArnautDaniel
+[pkeckler-github]:                           https://github.com/pkeckler
+[ComLarsic-github]:                          https://github.com/ComLarsic
+[LesFarrell-github]:                         https://github.com/LesFarrell
+[ralsina-github]:                            https://github.com/ralsina
+[athreef-github]:                            https://github.com/athreef
+[SolarLune-itchio]:                          https://solarlune.itch.io
+[powerc9000-itchio]:                         https://powerc9000.itch.io
+[TonyButDead-itchio]:                        https://tonybutdead.itch.io
+[SeijiEmery-itchio]:                         https://seijiemery.itch.io
+[raylibtech-itchio]:                         https://raylibtech.itch.io
+[obaodelana-github]:                         https://github.com/obaodelana
+[MadeleinNyblom-github]:                     https://github.com/MadeleinNyblom
+[kenhyokun-github]:                          https://github.com/kenhyokun
+[HurricaneInteractive-github]:               https://github.com/HurricaneInteractive
+[reidevries-github]:                         https://github.com/reidevries
+[pery77-github]:                             https://github.com/pery77
+<!-- [The-Italian-Coders-Group-github]:      https://github.com/The-Italian-Coders-Group -->
+[senior-sigan-github]:                       https://github.com/senior-sigan
+[bayganik-github]:                           https://github.com/bayganik
+[xero1-github]:                              https://github.com/xero1
+[practicing01-github]:                       https://github.com/practicing01
+[parmaja-github]:                            https://github.com/parmaja
+[Fakaaa-github]:                             https://github.com/Fakaaa
+[Elkantor-github]:                           https://github.com/Elkantor
+[RafaelOliveira-github]:                     https://github.com/RafaelOliveira
+[jmorel33-github]:                           https://github.com/jmorel33
+[kugo12-github]:                             https://github.com/kugo12
+[trikko-github]:                             https://github.com/trikko
+[Andre-LA-github]:                           https://github.com/Andre-LA
+[gergondet-github]:                          https://github.com/gergondet
+[KonPet-github]:                             https://github.com/KonPet
+[JonSnowbd-github]:                          https://github.com/JonSnowbd
+[gilzoide-github]:                           https://github.com/gilzoide
+[randevlper-github]:                         https://github.com/randevlper
+[notsnail-github]:                           https://github.com/notsnail
+[erikerlandson-github]:                      https://github.com/erikerlandson
+[HellRok-github]:                            https://github.com/HellRok
+[MallocStudio-github]:                       https://github.com/MallocStudio
+[TheDarkBug-github]:                         https://github.com/TheDarkBug
+[LunaRyuko-github]:                          https://github.com/LunaRyuko
+[myuce-github]:                              https://github.com/myuce
+[catmanl-github]:                            https://github.com/catmanl
+[nantr0nic-github]:                          https://github.com/nantr0nic
+[CreedVI-github]:                            https://github.com/CreedVI
+[DevJac-github]:                             https://github.com/DevJac
+[dtcristo-github]:                           https://github.com/dtcristo
+[SliverLIVE-github]:                         https://github.com/SliverLIVE
+[glasyalabolas-github]:                      https://github.com/glasyalabolas
+[shiryel-github]:                            https://github.com/shiryel
+[Dacode45-github]:                           https://github.com/Dacode45
+[EMoore13-github]:                           https://github.com/EMoore13
+[antwxne-github]:                            https://github.com/antwxne
+[Armapillow-github]:                         https://github.com/Armapillow
+[ChrisDill-github]:                          https://github.com/ChrisDill
+[GoldenThumbs-github]:                       https://github.com/GoldenThumbs
+[Lightnet-github]:                           https://github.com/Lightnet
+[jpike-github]:                              https://github.com/jpike
+[Skaruts-github]:                            https://github.com/Skaruts
+[I3uckwheat-github]:                         https://github.com/I3uckwheat
+[machinbrol-github]:                         https://github.com/machinbrol
+[Ryan1729-github]:                           https://github.com/Ryan1729
+[kebbbnnn-github]:                           https://github.com/kebbbnnn
+[aaronrcox-github]:                          https://github.com/aaronrcox
+[chbdev-github]:                             https://github.com/chbdev
+[gabriellm1-github]:                         https://github.com/gabriellm1
+[jacmoe-github]:                             https://github.com/jacmoe
+[MitchellRB-github]:                         https://github.com/MitchellRB
+[JRAM0012-github]:                           https://github.com/JRAM0012
+[xav1t0-github]:                             https://github.com/xav1t0
+[Lisoph-github]:                             https://github.com/Lisoph
+[ianpan870102-github]:                       https://github.com/ianpan870102
+[zmontross-github]:                          https://github.com/zmontross
+[albertnadal-github]:                        https://github.com/albertnadal
+[kawa-yoiko-github]:                         https://github.com/kawa-yoiko
+[EdSwordsmith-github]:                       https://github.com/EdSwordsmith
+[nikki93-github]:                            https://github.com/nikki93
+[rurush47-github]:                           https://github.com/rurush47
+[Delvix000-github]:                          https://github.com/Delvix000
+[Pakz001-github]:                            https://github.com/Pakz001
+[rillk500-github]:                           https://github.com/rillk500
+[BitPuffin-github]:                          https://github.com/BitPuffin
+[DaNiKhan-GbR-github]:                       https://github.com/DaNiKhan-GbR
+[fr3fou-github]:                             https://github.com/fr3fou
+[petuzk-github]:                             https://github.com/petuzk
+[ThePituLegend-github]:                      https://github.com/ThePituLegend
+[riadafridishibly-github]:                   https://github.com/riadafridishibly
+[GheorgheMorari-github]:                     https://github.com/GheorgheMorari
+[Sepheus-github]:                            https://github.com/Sepheus
+[DavinderMaverick-github]:                   https://github.com/DavinderMaverick
+[apahl-github]:                              https://github.com/apahl
+[baylej-github]:                             https://github.com/baylej
+[OnACoffeeBreak-github]:                     https://github.com/OnACoffeeBreak
+[MrOneTwo-github]:                           https://github.com/MrOneTwo
+[anatagawa-github]:                          https://github.com/anatagawa
+[nathhB-github]:                             https://github.com/nathhB
+[edomin-github]:                             https://github.com/edomin
+[badlydrawnrod-github]:                      https://github.com/badlydrawnrod
+[TheCatOverlord-github]:                     https://github.com/TheCatOverlord
+[tomxmm0-github]:                            https://github.com/tomxmm0
+[Razikus-github]:                            https://github.com/Razikus
+[zvoskars-github]:                           https://github.com/zvoskars
+[NevilleJS-github]:                          https://github.com/NevilleJS
+[someone-existing-github]:                   https://github.com/someone-existing
+[Rledrin-github]:                            https://github.com/Rledrin
+[justinac0-github]:                          https://github.com/justinac0
+[RafaelOliveira-github]:                     https://github.com/RafaelOliveira
+[henriquel1997-github]:                      https://github.com/henriquel1997
+[yaram-github]:                              https://github.com/yaram
+[neonmoe-github]:                            https://github.com/neonmoe
+[AcademyOfInteractiveEntertainment-github]:  https://github.com/AcademyOfInteractiveEntertainment
+[ValiantInteractive-github]:                 https://github.com/ValiantInteractive
+[nas-programmer-github]:                     https://github.com/nas-programmer
+[afreytes-github]:                           https://github.com/afreytes
+[Adobe-Android-github]:                      https://github.com/Adobe-Android
+[PHILLIPGATLIN-github]:                      https://github.com/PHILLIPGATLIN
+[gihadmecha-github]:                         https://github.com/gihadmecha
+[danimartin82-github]:                       https://github.com/danimartin82
+[pintertamas-github]:                        https://github.com/pintertamas
+[bruhmoment3124-github]:                     https://github.com/bruhmoment3124
+[feihong-github]:                            https://github.com/feihong
+[creikey-github]:                            https://github.com/creikey
+[t0rre-github]:                              https://github.com/t0rre
+[JohnLins-github]:                           https://github.com/JohnLins
+[DoctorAkula-github]:                        https://github.com/DoctorAkula
+[fullnitrous-github]:                        https://github.com/fullnitrous
+[jessp-github]:                              https://github.com/jessp
+[Nachasic-github]:                           https://github.com/Nachasic
+[buribalazs-github]:                         https://github.com/buribalazs
+[teh-cmc-github]:                            https://github.com/teh-cmc
+[jestarray-github]:                          https://github.com/jestarray
+[magnetrwn-github]:                          https://github.com/magnetrwn
+[tducasse-github]:                           https://github.com/tducasse
+[daandruff-github]:                          https://github.com/daandruff
+[irskep-github]:                             https://github.com/irskep
+[jamiltron-github]:                          https://github.com/jamiltron
+[benweidig-github]:                          https://github.com/benweidig
+[CapsCollective-github]:                     https://github.com/CapsCollective
+[inque-gitlab]:                              https://gitlab.com/inque
+[AIE-Seattle-Prog-github]:                   https://github.com/AIE-Seattle-Prog
+[krzosa-github]:                             https://github.com/krzosa
+[RaniSputnik-github]:                        https://github.com/RaniSputnik
+[Hidden-Pixel-github]:                       https://github.com/Hidden-Pixel
+[braedenf-github]:                           https://github.com/braedenf
+[JamieMair-github]:                          https://github.com/JamieMair
+[Yrds-github]:                               https://github.com/Yrds
+[Qinbeans-github]:                           https://github.com/Qinbeans
+[CodingCor-github]:                          https://github.com/CodingCor
+[Lattay-github]:                             https://github.com/Lattay
+[charlesmartinreed-github]:                  https://github.com/charlesmartinreed
+[janderkkotlarski-github]:                   https://github.com/janderkkotlarski
+[AIESydProgYr12021-github]:                  https://github.com/AIESydProgYr12021
+[LodisAIE-github]:                           https://github.com/LodisAIE
+[HeatXD-github]:                             https://github.com/HeatXD
+[underscorenygren-github]:                   https://github.com/underscorenygren
+[LeHaine-github]:                            https://github.com/LeHaine
+[JustinKatic-github]:                        https://github.com/JustinKatic
+[waruqi-github]:                             https://github.com/waruqi
+[GoldenbergDaniel-github]:                   https://github.com/GoldenbergDaniel
+[jdeokkim-github]:                           https://github.com/jdeokkim
+
+<!-- Referenced Repositories -->
+
+[kiselgra-c-mera]:                              https://github.com/kiselgra/c-mera
+[ocornut-imgui]:                                https://github.com/ocornut/imgui
+[mattiasgustavsson-assetsys-h]:                 https://github.com/mattiasgustavsson/libs/blob/main/assetsys.h
+[lordmauve-pgzero]:                             https://github.com/lordmauve/pgzero
+<!--[pygame-zero-site]:                         https://pygame-zero.readthedocs.io-->
+[Immediate-Mode-UI-Nuklear]:                    https://github.com/Immediate-Mode-UI/Nuklear
+[baylej-tmx]:                                   https://github.com/baylej/tmx
+[thestk-rtaudio]:                               https://github.com/thestk/rtaudio
+[adct-the-experimenter-binaural-audio-editor]:  https://github.com/adct-the-experimenter/binaural-audio-editor
+[TheLumaio-baslike]:                            https://github.com/TheLumaio/baslike
+[deltaphc-raylib-rs]:                           https://github.com/deltaphc/raylib-rs
+[skypjack-entt]:                                https://github.com/skypjack/entt
+[rocwood-Entitas-Lite]:                         https://github.com/rocwood/Entitas-Lite
+[Elkantor-bscxx]:                               https://github.com/Elkantor/bscxx
+[Andre-LA-raylib-nelua]:                        https://github.com/Andre-LA/raylib-nelua
+[jrl-umi3218-mc_rtc]:                           https://github.com/jrl-umi3218/mc_rtc
+[SanderMertens-flecs]:                          https://github.com/SanderMertens/flecs
+[liteserver-binn]:                              https://github.com/liteserver/binn
+[Guevara-chan-Raylib-Forever]:                  https://github.com/Guevara-chan/Raylib-Forever
+[lemon32767-ccleste]:                           https://github.com/lemon32767/ccleste
+[nathhB-nbnet]:                                 https://github.com/nathhB/nbnet
+[erkkah-tigr]:                                  https://github.com/erkkah/tigr
+[nayuki-QR-Code-generator]:                     https://github.com/nayuki/QR-Code-generator
+[arinal-WpfSolarSystem]:                        https://github.com/arinal/WpfSolarSystem
+[cimgui-cimgui]:                                https://github.com/cimgui/cimgui
+
+<!-- Referenced Sites (of Libraries, Languages, Articles, etc...) -->
+
+[crystal-lang]:                       https://crystal-lang.org
+[aseprite-site]:                      https://www.aseprite.org
+[go-lang]:                            https://go.dev
+[glfw-site]:                          https://www.glfw.org
+[physfs-site]:                        https://www.icculus.org/physfs
+[mapeditor-site]:                     https://www.mapeditor.org
+[gtk-site]:                           https://www.gtk.org
+[haxeui-site]:                        https://haxeui.org
+[miniaudio-site]:                     https://miniaud.io
+[chip8-wikipedia]:                    https://en.wikipedia.org/wiki/CHIP-8
+[libretro-site]:                      https://www.libretro.com
+[dlang-lang]:                         https://dlang.org
+[lua-lang]:                           https://lua.org
+[aie-au-site]:                        https://aieinstitute.edu.au
+[nim-lang]:                           https://nim-lang.org
+[python-lang]:                        https://python.org
+[autodesk-maya-site]:                 https://www.autodesk.com/products/maya/overview
+[rust-lang]:                          https://www.rust-lang.org
+[source-engine-site]:                 https://developer.valvesoftware.com/wiki/Source
+[dotnet-site]:                        https://dotnet.microsoft.com
+[nelua-lang]:                         https://nelua.io
+[box2d-site]:                         https://box2d.org
+[rhel-ubi-site]:                      https://developers.redhat.com/products/rhel/ubi
+[mruby-site]:                         https://mruby.org
+[lwjgl3-java-lang]:                   https://www.lwjgl.org
+[glbasic-lang]:                       https://www.glbasic.com
+[freebasic-lang]:                     https://www.freebasic.net
+[haxe-lang]:                          https://haxe.org
+[elixir-lang]:                        https://elixir-lang.org
+[Schrodinger-wikipedia]:              https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
+[epitech-site]:                       https://www.epitech.eu/en
+[vscode-site]:                        https://code.visualstudio.com
+[ray-casting-tutorial-permadi-site]:  https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents
+[opencv-site]:                        https://opencv.org
+[zig-lang]:                           https://ziglang.org
+[swift-lang]:                         https://swift.org
+[grpc-site]:                          https://grpc.io
+[Worley_noise-wikipedia]:             https://en.wikipedia.org/wiki/Worley_noise
+[trackmania-site]:                    https://www.trackmania.com
+
+<!-- Articles Authors -->
+
+[avik-das-medium]:      https://medium.com/@avik.das
+[bedroom-coders-site]:  https://bedroomcoders.co.uk
+
+<!-- Videos Channels (For tutorial and non-tutorial videos) -->
+
+[raylib-youtube]:              https://www.youtube.com/channel/UC8WIBkhYb5sBNqXO1mZ7WSQ
+[gamefromscratch-youtube]:     https://www.youtube.com/gamefromscratch
+[tsoding-daily-youtube]:       https://www.youtube.com/@TsodingDaily
+[coding-with-sphere-youtube]:  https://www.youtube.com/@codingwithsphere
+[andrew-hamel-codes-youtube]:  https://www.youtube.com/@andrewhamelcodes
+[ljdp-youtube]:                https://www.youtube.com/@ljdp
+[mronetwo-youtube]:            https://www.youtube.com/@khatakeddb
+[dandymcgee-youtube]:          https://www.youtube.com/@dandymcgee
 
