@@ -14,10 +14,10 @@ This is the gallery section of awesome-raylib list, Divided into various section
 - [Development-Related (TODO)](dev/README.md) <!-- TODO -->
 - [Events (WIP)](events/README.md) <!-- TODO when done remove "(WIP)" here -->
 - [Examples](examples/README.md)
-- [Features (WIP)](features/README.md) <!-- TODO when done remove "(WIP)" here -->
+- [Features](features/README.md)
 - [Games](games/README.md)
 - [Official Logos](logos/README.md) <!-- should this even exist?? -->
 - [Memes](memes/README.md)
 - [Merchandise](merch/README.md)
 - [Versions/Releases](versions/README.md)
-- [Other (WIP)](other/README.md) <!-- TODO when done remove "(WIP)" here -->
+- [Other](other/README.md)
