@@ -4,20 +4,20 @@ This is the gallery section of awesome-raylib list, Divided into various section
 
 ## List
 
-* [Achievements (WIP)](achievements/README.md)
-    - [Game Engine Ranking (WIP)](achievements/gameengineranking/README.md)
-    - [Github (WIP)](achievements/github/README.md)
-    - [Google (WIP)](achievements/google/README.md)
-    - [itch.io (WIP)](achievements/itch.io/README.md)
-    - [Social Platforms (WIP)](achievements/social/README.md)
-    - [Other (WIP)](achievements/other/README.md)
-- [Development-Related (WIP)](dev/README.md)
-- [Events (WIP)](events/README.md)
-- [Examples (WIP)](examples/README.md)
-- [Features (WIP)](features/README.md)
+* [Achievements (TODO)](achievements/README.md) <!-- TODO -->
+    - [Game Engine Ranking (TODO)](achievements/gameengineranking/README.md)
+    - [Github (TODO)](achievements/github/README.md)
+    - [Google (TODO)](achievements/google/README.md)
+    - [itch.io (TODO)](achievements/itch.io/README.md)
+    - [Social Platforms (TODO)](achievements/social/README.md)
+    - [Other (TODO)](achievements/other/README.md)
+- [Development-Related (TODO)](dev/README.md) <!-- TODO -->
+- [Events (WIP)](events/README.md) <!-- TODO when done remove "(WIP)" here -->
+- [Examples](examples/README.md)
+- [Features (WIP)](features/README.md) <!-- TODO when done remove "(WIP)" here -->
 - [Games](games/README.md)
 - [Official Logos](logos/README.md) <!-- should this even exist?? -->
 - [Memes](memes/README.md)
-- [Merchandise (WIP)](merch/README.md)
+- [Merchandise](merch/README.md)
 - [Versions/Releases](versions/README.md)
-- [Other (WIP)](other/README.md)
+- [Other (WIP)](other/README.md) <!-- TODO when done remove "(WIP)" here -->
