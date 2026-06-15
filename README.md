@@ -1,4 +1,4 @@
-# Awesome raylib
+# awesome-raylib
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -19,11 +19,13 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Templates](#templates)
 - [Articles](#articles)
 - [Videos](#videos)
+- [Gallery](img/README.md)
+- [Bindings & Projects Logos](#logos)
 - [What raylib uses?](https://github.com/raysan5/raylib/wiki/raylib-dependencies)
-- [Promo Images](#promo-images)
-- [Logos](#logos)
-- [Stickers](#stickers)
 - [Resources and Links](#resources-and-links)
+<!--- [Promo Images](#promo-images)-->
+
+<!--- [Stickers](#stickers)-->
 
 ### Gists
 
@@ -785,7 +787,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [The ultimate introduction to Raylib [ 2D & 3D game dev ]](https://www.youtube.com/watch?v=UoAsDlUwjy0)
 * By [Andrew Hamel Codes][andrew-hamel-codes-youtube]:
     - [raylib Demos](https://www.youtube.com/playlist?list=PLfL77ni3kqKa6a6R5DWqUERh-VLiOLdy7)
-    - [Other aylib Tutorials](https://www.youtube.com/playlist?list=PLfL77ni3kqKb4l83lUpWL_xQlhuDeuj_M)
+    - [Other raylib Tutorials](https://www.youtube.com/playlist?list=PLfL77ni3kqKb4l83lUpWL_xQlhuDeuj_M)
     - [raylib ASTEROIDS Tutorial](https://www.youtube.com/playlist?list=PLfL77ni3kqKYFcTLx8OXneGWQuKjJ6Qce)
     - [Workflow guiding tutorials](https://www.youtube.com/playlist?list=PLfL77ni3kqKYMtVAJ9jZ5g6M7cSBlE5D6)
     - [General Coding Tutorials](https://www.youtube.com/playlist?list=PLfL77ni3kqKYT8RDAjBmRFHMw13ygzfe5)
@@ -831,9 +833,11 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
     - [raylib game: RETRO MAZE 3D - running on GPi CASE (RPI Zero)](https://www.youtube.com/watch?v=M9FXXMHPSfw)
     - [raylib 2.5 - public presentation (June 2019)](https://www.youtube.com/watch?v=78aa2wuiGmI)
     - [raylib 1.6 - 3rd anniversary overview](https://www.youtube.com/watch?v=o8T9oNfsCOs)
+- [Improving Performance With Raylib](https://www.youtube.com/watch?v=aRTi7D4V0Yg)
 - [raylib author on library internals and C programming language!](https://www.youtube.com/watch?v=8F3jJdK4abw)
 - [RayLib Review / Open source free game library / Game Engine / Delphi, Pascal, Lazarus, C, C++, C#](https://www.youtube.com/watch?v=Z6Eg9UfC_6U)
 - [RayLib / Обзор игровой библиотеки / Pascal, Delphi, Lazarus, C++, C#, Java, JavaScript, Python, Perl](https://www.youtube.com/watch?v=GUDzyXlmpVk) (Русский)
+- [Should I have used Unity instead of Raylib for my Indie game?](https://www.youtube.com/watch?v=K5hssRlsudQ)
 - [Making a Game With Trash](https://www.youtube.com/watch?v=sKlcCplUODw)
 - [Best C++ Game Wins $1000 - Game Making Challenge](https://www.youtube.com/watch?v=_yyKYl1LAHM)
 - [path following raylib and ODE vehicles](https://www.youtube.com/watch?v=p7kU5SmBZ3M)
@@ -858,6 +862,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Odin-Raylib Game Programming #000: Windows Environment Setup](https://www.youtube.com/watch?v=CDlYQtxyhPs)
 - [Raylib works with Neatbeans and mac os x](https://www.youtube.com/watch?v=GFFgt1zxeck)
 - [EPIC raylib c++ rpg game dev](https://www.youtube.com/watch?v=VqQDkz0t7lE)
+- [Voxelcaster](https://www.youtube.com/watch?v=nsiYftKjFKw)
 - [Quick sort in raylib. Oh yeah.](https://www.youtube.com/watch?v=psede2nHvRE)
 - [Randomness RNG vs Perlin Noise with Raylib 3.0](https://www.youtube.com/watch?v=6NLolZ-aiVA)
 - [Raylib oLd SkOoL 2](https://www.youtube.com/watch?v=M2WYWYQNjYg)
@@ -958,6 +963,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 > Note that in case a video listed below the playlist link from the same channel, Then it means simply that the playlist for some reason did not include the video.
 
+<!--
 ### Promo Images
 
 - [Overview](https://github.com/raysan5/raylib)
@@ -1225,46 +1231,47 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Bag](https://x.com/raysan5/status/1121527359801262094)
 
 ![raylib bag sticker](promos/banner24.jpg)
+-->
 
 ### Logos
 
-[![raysan5/raylib](logos/raylib.png)][raysan5-raylib]
-[![SasLuca/rayfork](logos/rayfork.png)][SasLuca-rayfork]
-[![RobLoach/raylib-cpp](logos/raylib-cpp.png)][RobLoach-raylib-cpp]
-[![ChrisDill/Raylib-cs](logos/raylib-cs.png)][ChrisDill-Raylib-cs]
-[![gen2brain/raylib-go](logos/raylib-go.png)][gen2brain-raylib-go]
-[![Lachee/raylib-goplus](logos/raylib-go-plus.png)][Lachee-raylib-goplus]
-[![deltaphc/raylib-rs](logos/raylib-rust.png)][deltaphc-raylib-rs]
-[![raysan5/raylib-lua](logos/raylib-lua.png)][raysan5-raylib-lua]
-[![RobLoach/raylib-lua-sol](logos/raylib-lua-sol.png)][RobLoach-raylib-lua-sol]
-[![TSnake41/raylib-lua](logos/tsnake41-raylib-lua.png)][TSnake41-raylib-lua]
-[![HDPLocust/raylib-luamore](logos/raylib-luamore.png)][HDPLocust-raylib-luamore]
-[![Andre-LA/raylib-nelua](logos/raylib-nelua.png)][Andre-LA-raylib-nelua]
-[![AregevDev/raylib-cr](logos/raylib-cr.png)][AregevDev-raylib-cr]
-[![drezgames/raylib-pascal](logos/raylib-pascal.png)][drezgames-raylib-pascal]
-[![GuvaCode/Ray4Laz](logos/ray4laz.png)][GuvaCode-Ray4Laz]
-[![overdev/raylib-py](logos/raylib-py.png)][overdev-raylib-py]
-[![RobLoach/node-raylib](logos/node-raylib.png)][RobLoach-node-raylib]
-[![toffeeframe/raylib-v7](logos/raylib-v7.png)][toffeeframe-raylib-v7]
-[![RobLoach/raylib-chaiscript](logos/raylib-chaiscript.png)][RobLoach-raylib-chaiscript]
-[![ArnautDaniel/raylib-factor](logos/raylib-factor.png)][ArnautDaniel-raylib-factor]
-[![ArnautDaniel/gforth-raylib](logos/gforth-raylib.png)][ArnautDaniel-gforth-raylib]
-[![TSnake41/raylib-wren](logos/raylib-wren.png)][TSnake41-raylib-wren]
-[![Not-Nik/raylib-zig](logos/raylib-zig.png)][Not-Nik-raylib-zig]
-[![bmx-ng/ray.mod](logos/raylib-blitzmax.png)][bmx-ng-raylib-blitzmax]
-[![tjammer/raylib-ocaml](logos/raylib-ocaml.png)][tjammer-raylib-ocaml]
-[![D-a-n-i-l-o/raylib-purebasic](logos/raylib-purebasic.png)][D-a-n-i-l-o-raylib-purebasic]
-[![M0n7y5/raylib-beef](logos/raylib-beef.png)][M0n7y5-raylib-beef]
-[![RedCubeDev-ByteSpace/Relib](logos/relib.png)][RedCubeDev-ByteSpace-Relib]
-[![CreedVI/Raylib-J](logos/raylib-j.png)][CreedVI-Raylib-J]
-[![victorfisac/Physac](logos/physac.png)][victorfisac-Physac]
-[![raysan5/raygui](logos/raygui.png)][raysan5-raygui]
-[![raysan5/rpng](logos/rpng.png)][raysan5-rpng]
-[![raysan5/rres](logos/rres.png)][raysan5-rres]
-[![raysan5/rfxgen](logos/rfxgen.png)][raysan5-rfxgen]
-[![victorfisac/FNode](logos/fnode.png)][victorfisac-FNode]
-[![SliverLIVE/Raylib-for-GLBasic](logos/raylib-glbasic.png)][SliverLIVE-Raylib-for-GLBasic]
-[![ForeignSasquatch/hxRaylib](logos/hxraylib.png)][ForeignSasquatch-hxRaylib]
+[![raysan5/raylib](img/bindings_projects_logos/raylib.png)][raysan5-raylib]
+[![SasLuca/rayfork](img/bindings_projects_logos/rayfork.png)][SasLuca-rayfork]
+[![RobLoach/raylib-cpp](img/bindings_projects_logos/raylib-cpp.png)][RobLoach-raylib-cpp]
+[![ChrisDill/Raylib-cs](img/bindings_projects_logos/raylib-cs.png)][ChrisDill-Raylib-cs]
+[![gen2brain/raylib-go](img/bindings_projects_logos/raylib-go.png)][gen2brain-raylib-go]
+[![Lachee/raylib-goplus](img/bindings_projects_logos/raylib-go-plus.png)][Lachee-raylib-goplus]
+[![deltaphc/raylib-rs](img/bindings_projects_logos/raylib-rust.png)][deltaphc-raylib-rs]
+[![raysan5/raylib-lua](img/bindings_projects_logos/raylib-lua.png)][raysan5-raylib-lua]
+[![RobLoach/raylib-lua-sol](img/bindings_projects_logos/raylib-lua-sol.png)][RobLoach-raylib-lua-sol]
+[![TSnake41/raylib-lua](img/bindings_projects_logos/tsnake41-raylib-lua.png)][TSnake41-raylib-lua]
+[![HDPLocust/raylib-luamore](img/bindings_projects_logos/raylib-luamore.png)][HDPLocust-raylib-luamore]
+[![Andre-LA/raylib-nelua](img/bindings_projects_logos/raylib-nelua.png)][Andre-LA-raylib-nelua]
+[![AregevDev/raylib-cr](img/bindings_projects_logos/raylib-cr.png)][AregevDev-raylib-cr]
+[![drezgames/raylib-pascal](img/bindings_projects_logos/raylib-pascal.png)][drezgames-raylib-pascal]
+[![GuvaCode/Ray4Laz](img/bindings_projects_logos/ray4laz.png)][GuvaCode-Ray4Laz]
+[![overdev/raylib-py](img/bindings_projects_logos/raylib-py.png)][overdev-raylib-py]
+[![RobLoach/node-raylib](img/bindings_projects_logos/node-raylib.png)][RobLoach-node-raylib]
+[![toffeeframe/raylib-v7](img/bindings_projects_logos/raylib-v7.png)][toffeeframe-raylib-v7]
+[![RobLoach/raylib-chaiscript](img/bindings_projects_logos/raylib-chaiscript.png)][RobLoach-raylib-chaiscript]
+[![ArnautDaniel/raylib-factor](img/bindings_projects_logos/raylib-factor.png)][ArnautDaniel-raylib-factor]
+[![ArnautDaniel/gforth-raylib](img/bindings_projects_logos/gforth-raylib.png)][ArnautDaniel-gforth-raylib]
+[![TSnake41/raylib-wren](img/bindings_projects_logos/raylib-wren.png)][TSnake41-raylib-wren]
+[![Not-Nik/raylib-zig](img/bindings_projects_logos/raylib-zig.png)][Not-Nik-raylib-zig]
+[![bmx-ng/ray.mod](img/bindings_projects_logos/raylib-blitzmax.png)][bmx-ng-raylib-blitzmax]
+[![tjammer/raylib-ocaml](img/bindings_projects_logos/raylib-ocaml.png)][tjammer-raylib-ocaml]
+[![D-a-n-i-l-o/raylib-purebasic](img/bindings_projects_logos/raylib-purebasic.png)][D-a-n-i-l-o-raylib-purebasic]
+[![M0n7y5/raylib-beef](img/bindings_projects_logos/raylib-beef.png)][M0n7y5-raylib-beef]
+[![RedCubeDev-ByteSpace/Relib](img/bindings_projects_logos/relib.png)][RedCubeDev-ByteSpace-Relib]
+[![CreedVI/Raylib-J](img/bindings_projects_logos/raylib-j.png)][CreedVI-Raylib-J]
+[![victorfisac/Physac](img/bindings_projects_logos/physac.png)][victorfisac-Physac]
+[![raysan5/raygui](img/bindings_projects_logos/raygui.png)][raysan5-raygui]
+[![raysan5/rpng](img/bindings_projects_logos/rpng.png)][raysan5-rpng]
+[![raysan5/rres](img/bindings_projects_logos/rres.png)][raysan5-rres]
+[![raysan5/rfxgen](img/bindings_projects_logos/rfxgen.png)][raysan5-rfxgen]
+[![victorfisac/FNode](img/bindings_projects_logos/fnode.png)][victorfisac-FNode]
+[![SliverLIVE/Raylib-for-GLBasic](img/bindings_projects_logos/raylib-glbasic.png)][SliverLIVE-Raylib-for-GLBasic]
+[![ForeignSasquatch/hxRaylib](img/bindings_projects_logos/hxraylib.png)][ForeignSasquatch-hxRaylib]
 
 [raysan5-raylib]:                https://github.com/raysan5-raylib "raysan5/raylib"
 [SasLuca-rayfork]:               https://github.com/SasLuca/rayfork "SasLuca/rayfork"
