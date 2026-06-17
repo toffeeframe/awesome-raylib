@@ -4,13 +4,12 @@ This is the gallery section of awesome-raylib list, Divided into various section
 
 ## List
 
-* [Achievements (TODO)](achievements/README.md) <!-- TODO -->
-    - [Game Engine Ranking (TODO)](achievements/gameengineranking/README.md)
-    - [Github (TODO)](achievements/github/README.md)
-    - [Google (TODO)](achievements/google/README.md)
-    - [itch.io (TODO)](achievements/itch.io/README.md)
+* [Achievements (WIP)](achievements/README.md)
+    - [Github + OSSInsights (TODO)](achievements/github/README.md)
+    - [Google](achievements/google/README.md)
+    - [itch.io](achievements/itch.io/README.md)
     - [Social Platforms (TODO)](achievements/social/README.md)
-    - [Other (TODO)](achievements/other/README.md)
+    - [Other](achievements/other/README.md)
 - [Development-Related](dev/README.md)
 - [Events](events/README.md)
 - [Examples](examples/README.md)
