@@ -1,7 +1,5 @@
 # awesome-raylib - Development Gallery
 
-<!-- TODO add texts and remove dev folder from .gitignore -->
-
 - ["new raylib version is ready! keep it simple, student!"][x_raysan5_801916994434068480-src] (November 24, 2016)
 
 !["new raylib version is ready! keep it simple, student!"][x_raysan5_801916994434068480-img]
