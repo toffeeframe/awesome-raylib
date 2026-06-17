@@ -11,8 +11,8 @@ This is the gallery section of awesome-raylib list, Divided into various section
     - [itch.io (TODO)](achievements/itch.io/README.md)
     - [Social Platforms (TODO)](achievements/social/README.md)
     - [Other (TODO)](achievements/other/README.md)
-- [Development-Related (TODO)](dev/README.md) <!-- TODO -->
-- [Events (WIP)](events/README.md) <!-- TODO when done remove "(WIP)" here -->
+- [Development-Related](dev/README.md)
+- [Events](events/README.md)
 - [Examples](examples/README.md)
 - [Features](features/README.md)
 - [Games](games/README.md)
