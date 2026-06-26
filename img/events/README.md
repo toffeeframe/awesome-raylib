@@ -128,6 +128,33 @@
 
 ![Talk: "surviving as an open source developer"][x_raysan5_2043674684680438207-img]
 
+- [The "raylib 6.x Game Jam" **STARTING SOON!**][x_raysan5_2067931638848242088-src] (June 19, 2026)
+
+![The "raylib 6.x Game Jam" **STARTING SOON!**][x_raysan5_2067931638848242088-img]
+
+* [From: raylib 6.x Game Jam](https://itch.io/jam/raylib-6x-gamejam)
+    
+    - Promo Image
+    
+    ![Promo Image][itchio_raylib6xgamejam-img1-img]
+    
+    - Submission Constraints
+    
+    ![Submission Constraints][itchio_raylib6xgamejam-img2-img]
+    
+    - Submission Categories
+    
+    ![Submission Categories][itchio_raylib6xgamejam-img3-img]
+    
+    - Prizes
+    
+    ![Prizes][itchio_raylib6xgamejam-img4-img]
+    
+    - Prize for all participants: one itch.io key for a raylibtech tool
+    
+    ![Prize for all participants: one itch.io key for a raylibtech tool][itchio_raylib6xgamejam-img5-img]
+
+
 [x_raysan5_956681310239641602-src]: https://x.com/raysan5/status/956681310239641602
 [x_raysan5_956681310239641602-img]: x_raysan5_956681310239641602-2018_1_25.png "(By @raysan5 on Twitter/X): ready to code? ready to learn? ready to play? ready to enjoy? ready for GGJ18? raylib (http://raylib.com). ready for games"
 
@@ -223,3 +250,12 @@
 
 [x_raysan5_2043674684680438207-src]: https://x.com/raysan5/status/2043674684680438207
 [x_raysan5_2043674684680438207-img]: x_raysan5_2043674684680438207-2026_4_13.png "(By @raysan5 on Twitter/X): Some slides of my last talk about \"surviving as an open source developer\"! Questions?"
+
+[x_raysan5_2067931638848242088-src]: https://x.com/raysan5/status/2067931638848242088-2026_6_19.png
+[x_raysan5_2067931638848242088-img]: x_raysan5_2067931638848242088-2026_6_19.png "(By @raysan5 on Twitter/X): ARE YOU READY for raylib?"
+
+[itchio_raylib6xgamejam-img1-img]: itchio_raylib6xgamejam-img1.png "(Promo Image for raylib 6.x Game Jam)"
+[itchio_raylib6xgamejam-img2-img]: itchio_raylib6xgamejam-img2.png "Hard constraints (mandatory requirements): Game MUST be 720x720 pixels resolution!, Game MUST be run on Web with WebAssembly technology, Game MUST be under 64MB (full package: .wasm + .data)"
+[itchio_raylib6xgamejam-img3-img]: itchio_raylib6xgamejam-img3.png "Games will be rated with a 5-star system in three different categories: Theme: How well the theme is used?, Fun: Is the game enjoyable to play?, Polish: What is the overall quality of the game, and was the time well spent?"
+[itchio_raylib6xgamejam-img4-img]: itchio_raylib6xgamejam-img4.png "The experience itself is way more valuable than any other prize! Actually, finishing a game under the constraints of this gamejam is a BIG achievement on itself... but prizes are nice too! The prizes will be given to the 3 games. One entry can only win in one category, so there will be 3 winners. Additional prizes may be awarded for honorable mention based on the submissions. NOTE: Prizes are subject to availability on winners countries, some countries could not support Steam gift cards. "
+[itchio_raylib6xgamejam-img5-img]: itchio_raylib6xgamejam-img5.png "ADDITIONALLY, ALL THE PARTICIPANTS THAT END UP **SUBMITTING A GAME FOLLOWING CONSTRAINTS** WILL RECEIVE AN itch.io KEY FOR ONE TOOL FROM raylib technologies! Tools to choose from: rTexViewer, rTexPacker, rImageShield, rInstallFriendly. NOTE: After the gamejam and project submission, tool key can be requested to Ray directly on raylib Discord."

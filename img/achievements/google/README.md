@@ -26,6 +26,10 @@
 
     ![Data comparison with other frameworks][x_raysan5_1769322585714466832-img]
 
+- [Interest grow for raylib from today's fresh KPIs][x_raysan5_1843594668317233189-img3-src] (October 8, 2024)
+
+![Interest grow for raylib from today's fresh KPIs][x_raysan5_1843594668317233189-img3-img]
+
 [x_raysan5_1141348566167896065-src]: https://x.com/raysan5/status/1141348566167896065
 [x_raysan5_1141348566167896065-img]: x_raysan5_1141348566167896065-2019_6_19.png "(By @raysan5 on Twitter/X): It started mentioning the @GoogleOSS recognition I received a couple of months ago, a really nice susprise! Still quite shocked seeing my name and raylib project on that list, surrounded by amazing projects that drive the software world today! [2/10]"
 
@@ -43,3 +47,6 @@
 
 [x_raysan5_1769322585714466832-src]: https://x.com/raysan5/status/1769322585714466832
 [x_raysan5_1769322585714466832-img]: x_raysan5_1769322585714466832-2024_3_17.png "(By @raysan5 on Twitter/X): Data comparison with other similar frameworks: MonoGame, SFML, LÖVE."
+
+[x_raysan5_1843594668317233189-img3-src]: https://x.com/raysan5/status/1843594668317233189
+[x_raysan5_1843594668317233189-img3-img]: x_raysan5_1843594668317233189-2024_10_8-img3.png "(By @raysan5 on Twitter/X): Some fresh raylib KPIs from today! I'm really impressed and still wondering how raylib became so popular! Sources: https://ossinsight.io/collections/game-engine, https://trends.google.com/trends/explore?date=today%205-y&q=%2Fg%2F11h4ky37sm&hl=en, https://github.com/trending/c?since=monthly&spoken_language_code="
