@@ -134,6 +134,10 @@
 
 * [From: raylib 6.x Game Jam](https://itch.io/jam/raylib-6x-gamejam)
     
+    - Promo Image (Discord)
+    
+    ![Promo Image (Discord)][discord_raysan5_raylib6xgamejam-img1-img]
+    
     - Promo Image
     
     ![Promo Image][itchio_raylib6xgamejam-img1-img]
@@ -254,6 +258,7 @@
 [x_raysan5_2067931638848242088-src]: https://x.com/raysan5/status/2067931638848242088-2026_6_19.png
 [x_raysan5_2067931638848242088-img]: x_raysan5_2067931638848242088-2026_6_19.png "(By @raysan5 on Twitter/X): ARE YOU READY for raylib?"
 
+[discord_raysan5_raylib6xgamejam-img1-img]: discord_raysan5_raylib6xgamejam-img1.png
 [itchio_raylib6xgamejam-img1-img]: itchio_raylib6xgamejam-img1.png "(Promo Image for raylib 6.x Game Jam)"
 [itchio_raylib6xgamejam-img2-img]: itchio_raylib6xgamejam-img2.png "Hard constraints (mandatory requirements): Game MUST be 720x720 pixels resolution!, Game MUST be run on Web with WebAssembly technology, Game MUST be under 64MB (full package: .wasm + .data)"
 [itchio_raylib6xgamejam-img3-img]: itchio_raylib6xgamejam-img3.png "Games will be rated with a 5-star system in three different categories: Theme: How well the theme is used?, Fun: Is the game enjoyable to play?, Polish: What is the overall quality of the game, and was the time well spent?"
