@@ -9,7 +9,7 @@ This is the gallery section of awesome-raylib list, Divided into various section
         - [Repository Achievements](achievements/github/repo/README.md)
         - [OSSInsight (Game Engine Ranking)](achievements/github/ossinsight/README.md)
     - [Google](achievements/google/README.md)
-    - [itch.io](achievements/itch.io/README.md)
+    - [itch.io](achievements/itchio/README.md)
     - [Social Platforms](achievements/social/README.md)
     - [Other](achievements/other/README.md)
 - [Development-Related](dev/README.md)
