@@ -8,6 +8,6 @@ This is the achivements section of gallery section of awesome-raylib list, Divid
     - [Repository Achievements](github/repo/README.md)
     - [OSSInsight (Game Engine Ranking)](github/ossinsight/README.md)
 - [Google](google/README.md)
-- [itch.io](itch.io/README.md)
+- [itch.io](itchio/README.md)
 - [Social Platforms](social/README.md)
 - [Other](other/README.md)
