@@ -104,11 +104,12 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 ### Libraries and Frameworks
 
 | Name                                                     | Author                                      | Description                                                                                                                     |
-|--------------------------------------------------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | [rayfork][SasLuca-rayfork]                               | [SasLuca][SasLuca-github]                   | Single header and source, cross-platform, allocator-aware, C99 game libraries.                                                  |
 | [raygui][raysan5-raygui]                                 | [raysan5][raysan5-github]                   | Simple and easy-to-use immediate-mode GUI library.                                                                              |
+| [rayRmlUi][FrownTown-rayRmlUi]                           | [FrownTown][FrownTown-github]               | Bridge library that runs RmlUi using Raylib for rendering. Includes NanoSVG integration.                                        |
 | [Physac][victorfisac-Physac]                             | [victorfisac][victorfisac-github]           | 2D physics header-only library for videogames developed in C using raylib library.                                              |
-| [rpng][raysan5-rpng]                                     | [raysan5][raysan5-github]                   | Simple and easy-to-use library to manage png chunks.                                                                            | 
+| [rpng][raysan5-rpng]                                     | [raysan5][raysan5-github]                   | Simple and easy-to-use library to manage png chunks.                                                                            |
 | [rres][raysan5-rres]                                     | [raysan5][raysan5-github]                   | Simple and easy-to-use file-format to package resources.                                                                        |
 | [raudio][raysan5-raudio]                                 | [raysan5][raysan5-github]                   | Simple and easy-to-use audio library based on [miniaudio][miniaudio-site].                                                      |
 | [ECSlib][firststef-ECSlib]                               | [firststef][firststef-github]               | Library with ECS classes in C++ using raylib.                                                                                   |
@@ -167,6 +168,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 [SasLuca-rayfork]:                  https://github.com/SasLuca/rayfork
 [raysan5-raygui]:                   https://github.com/raysan5/raygui
+[FrownTown-rayRmlUi]:               https://github.com/FrownTown/rayRmlUi
 [victorfisac-Physac]:               https://github.com/victorfisac/Physac
 [raysan5-rpng]:                     https://github.com/raysan5/rpng
 [raysan5-rres]:                     https://github.com/raysan5/rres
@@ -228,7 +230,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 ### Softwares
 
 | Name                                                                       | Author                                                      | Description                                                                                                                                       |
-|--------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [gxarch][gtrxAC-gxarch]                                                    | [gtrxAC][gtrxAC-github]                                     | Simple fantasy computer architecture that uses raylib!                                                                                            |
 | [gxSE][gtrxAC-gxSE]                                                        | [gtrxAC][gtrxAC-github]                                     | Command-based sprite/image editor.                                                                                                                |
 | [3d-audio-producer][adct-the-experimenter-3d-audio-producer]               | [adct-the-experimenter][adct-the-experimenter-github]       | Fork of the [adct-the-experimenter/binaural-audio-editor][adct-the-experimenter-binaural-audio-editor] that uses replaced with raygui and raylib. |
@@ -392,7 +394,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 ### Deprecated/Removed/Unknown bindings
 
 | Name                                                 | Author                                | Language                          |
-|----------------------------------------------------|--------------------------------------|----------------------------------|
+|------------------------------------------------------|---------------------------------------|-----------------------------------|
 | [Raylib-J][CreedVI-Raylib-J]                         | [CreedVI][CreedVI-github]             | Java ([LWJGL3][lwjgl3-java-lang]) |
 | [rust_raylib_bindings][DevJac-rust_raylib_bindings]  | [DevJac][DevJac-github]               | Rust                              |
 | [raylib-rust][dtcristo-raylib-rust]                  | [dtcristo][dtcristo-github]           | Rust                              |
@@ -414,7 +416,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 ### Libraries bindings/ports
 
 | Name                                                      | Author                      | Description                                                                |
-|---------------------------------------------------------|----------------------------|--------------------------------------------------------------------------|
+|-----------------------------------------------------------|-----------------------------|----------------------------------------------------------------------------|
 | [rayfork-rs][Dacode45-rayfork-rs]                         | [Dacode45][Dacode45-github] | Port of rayfork to Rust.                                                   |
 | [Animator-For-Raylib-CS][EMoore13-Animator-For-Raylib-CS] | [EMoore13][EMoore13-github] | Modified version of AliElSaleh's Animator-For-Raylib that uses raylib-cs!  |
 
@@ -1341,6 +1343,7 @@ Developers can open an issue or pull request for a feature and/or improvement, E
 [Gota7-github]:                              https://github.com/Gota7
 [LucaSkyer-github]:                          https://github.com/lucaskyer
 [raysan5-github]:                            https://github.com/raysan5
+[FrownTown-github]:                          https://github.com/FrownTown
 [SasLuca-github]:                            https://github.com/SasLuca
 [victorfisac-github]:                        https://github.com/victorfisac
 [firststef-github]:                          https://github.com/firststef
