@@ -77,11 +77,26 @@ In order to add content as a contribution, Fork of the repository should be crea
         2. The format should use link reference definition in Markdown as `[UserID-Site]` where `UserID` is the username or ID of the user (If the site uses case-sensitive IDs then sensitivity must be kept) and `Site` is the site where videos are located formatted in lowercase.
         3. Make sure the starting of each link in each line is aligned with other ones on same column, Unless if not possible because of new added one is longer then the new indentation for all should be after 2 whitespaces of the colons (:) from the new added definition itself.
     
-    - Adding new promo images or stickers or logos modelled after the original raylib logo, In case of non-existence in the list to add it:
+    - Adding new section to the gallery, In case of non-existence to add new content:
+        
+        1. Inside `img` folder, Create a new folder with `README.md`.
+        2. In the `README.md` of the `img` folder itself, Add a new list item leading to the `README.md` of the new gallery section as like how the rest is written.
+        3. In the `README.md` of the new section folder, The first level header must be in the following format:
+        
+        ```md
+        # awesome-raylib - SectionName Gallery
+        ```
+        
+        Where `SectionName` is the only one to be modified and should be the name of the new gallery section.
+
+    - Adding new images to the gallery folders, In case of non-existence to add it in the `README.md` of the related section/category folder:
+        
+        1. Download the image (Recommended to be in PNG format) and save it to the suitable section folder as `Site_UserID_PostID-Year_Month_Day` regardless of the image
+           format, Where `Site` and `UserID` and `PostID` are the site of original image source with the IDs of the author and their post containing the image, And rest are
+           the date of posting the image in the site (With noting the separation of date from other details with a dash instead of underscore).
     
-        1. Download the image to add it in the repository (Images in the list must not be loaded from external URL).
-        2. Put the image in `logos` folder if it is a logo modelled after the original raylib logo, Or in `promos` folder if it is a promo image or sticker.
-        3. Rename image to `projectname` if it is a logo (Add developer username as prefix with dash if multiple names are same for different projects) or to `bannerN` otherwise (Promo Images and Stickers) where `N` is new number that gets incremented after latest image, Regardless of image file format.
+        > If there are multiple images sharing the same link to original source, They shall have a suffix after the image date in format of `-imgNumber` where `Number` starting from 1
+          to indicate first image and for next images the `Number` in the suffix gets incremented (Note again the separation from date part in the image name with a dash).
     
 6. Putting it all, After adding required definitions is done:
 
@@ -170,25 +185,38 @@ In order to add content as a contribution, Fork of the repository should be crea
             > Note that if the playlist does not include a specific video that contains or references raylib then the video should be added separately in another link.
             > If the video is considered a tutorial then it goes into "Tutorials" section instead.
     
-    - For both the "Stickers" and "Promo Images" section:
-    
-        1. Add another list element as inline markdown link with a title that is suitable to the image, With source which is the URL leading to the original source that contains the image.
-        2. Add image element below with alternative text that can match the title added from previous step, With link to the image that is downloaded to the suitable folder in the repository to be loaded locally.
+    - For any image not belonging to "Logos" but to any gallery section:
         
-        > For images that don't have original source link (eg. If from Discord) then basically the added element/item is just title with no linking.
-
-    - For the "Logos" section:
+        1. In the `README.md` of the gallery section folder, Add the image in the following format:
+        
+        ```md
+        - [Title][Site_UserID_PostID-src] (Month Day, Year)
+        
+        ![Title][Site_UserID_PostID-img]
+        
+        [Site_UserID_PostID-src]: PostURL
+        [Site_UserID_PostID-img]: ImgSrc "(By UserID on Site): PostContent"
+        ```
+        
+        Where `Title` is short brief from `PostContent` which contains post text, And `Site_UserID_PostID` are the site with IDs of both user and their post which
+        can be accessed with `PostURL`, And date is put inside round brackets in format `Month Day, Year`, `ImgSrc` is basically of the image to be loaded.
+        
+        > If more than one image leading to same link, Suffixes mentioned before would be used after `Site_UserID_PostID` in addition to nested lists.
     
-        1. Add link reference definition to the repository that contains the logo below the inline images in the list of definitions that can be seen after them, Following same rules of "Adding link to the repository" from previous steps but with addition of title alternative text in format of `"Developer/RepositoryName"` as well.
+    - For the "Logos":
+        
+        1. Make sure that image is saved in `img/bindings_projects_logos` folder.
+        
+        2. Add link reference definition to the repository that contains the logo below the inline images in the list of definitions that can be seen after them, Following same rules of "Adding link to the repository" from previous steps but with addition of title alternative text in format of `"Developer/RepositoryName"` as well.
 
-        2. Add inline image with link for the repository in the format described below, With source which is the URL leading to the original source that contains the image.
+        3. Add inline image with link for the repository in the format described below, With source which is the URL leading to the original source that contains the image.
             ```md
             [![Developer/RepositoryName](ImageSourceURL)][Developer-RepositoryName]
             ```
             
             > Note that the format for the alternative text in the image uses slash instead of dash.
         
-        3. Make sure to keep the starting of links aligned on each row/line in the same column, Which should be made sure of after adding a link to a repository from previous steps.
+        4. Make sure to keep the starting of links aligned on each row/line in the same column, Which should be made sure of after adding a link to a repository from previous steps.
     
 7. `git push` with adding title and description on details of changes.
 8. Create a pull request to merge, Note that the pull request will be rejected and not merged if there is a mistake in following the guide.
