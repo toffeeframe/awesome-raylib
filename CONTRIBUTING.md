@@ -202,6 +202,8 @@ In order to add content as a contribution, Fork of the repository should be crea
         can be accessed with `PostURL`, And date is put inside round brackets in format `Month Day, Year`, `ImgSrc` is basically of the image to be loaded.
         
         > If more than one image leading to same link, Suffixes mentioned before would be used after `Site_UserID_PostID` in addition to nested lists.
+        > It is recommended that post text that will be put in place `PostContent` does not contain emojis or any characters that may make editing more difficult across
+          text encodings (If it's possible to remove without affecting context).
     
     - For the "Logos":
         
