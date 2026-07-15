@@ -167,3 +167,17 @@
 
 [x_raysan5_2059523623388405869-src]: https://x.com/raysan5/status/2059523623388405869
 [x_raysan5_2059523623388405869-img]: x_raysan5_2059523623388405869-2026_5_26.png "(By @raysan5 on Twitter/X): All my software @raylibtech always starts (and continues along development) on pen and paper"
+
+- [raylib ported to playdate!][x_raysan5_2073452197346500866-src] (July 4, 2026)
+
+![raylib ported to playdate!][x_raysan5_2073452197346500866-img]
+
+[x_raysan5_2073452197346500866-src]: https://x.com/raysan5/status/2073452197346500866
+[x_raysan5_2073452197346500866-img]: x_raysan5_2073452197346500866-2026_7_4.png "(By @raysan5 on Twitter/X): A raylib user ported raylib to @playdate! Port just adds a new rcore_playdate.c and 3 new functions for the crank, it was possible thanks to the new raylib software renderer; definitely, it keeps delivering, best new feature ever! Source code: https://github.com/plaidate/raylib-pd/tree/playdate"
+
+- [raylib's ROSecurity audit final report made public][x_raysan5_2076271600651956523-src] (July 12, 2026)
+
+![raylib's ROSecurity audit final report made public][x_raysan5_2076271600651956523-img]
+
+[x_raysan5_2076271600651956523-src]: https://x.com/raysan5/status/2076271600651956523
+[x_raysan5_2076271600651956523-img]: x_raysan5_2076271600651956523-2026_7_12.png "(By @raysan5 on Twitter/X): Recently #raylib went through a professional security audit by @ROSecurity. I decided to make public the final report along all the actions taken and recommendations to address all the reported security concerns. Thanks ROS! GitHub Discussion: https://github.com/raysan5/raylib/discussions/5972"

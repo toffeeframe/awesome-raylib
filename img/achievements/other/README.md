@@ -41,3 +41,10 @@
 
 [x_raysan5_1996851241738215623-src]: https://x.com/raysan5/status/1996851241738215623
 [x_raysan5_1996851241738215623-img]: x_raysan5_1996851241738215623-2025_12_4.png "(By @raysan5 on Twitter/X): Hey! raylib has a new platinum sponsor: @comma_ai comma just released comma four, the new active driver assistance for your car! comma is powered by the open source software openpilot and introduces an entirely new user interface, using raylib!"
+
+- [raylib platinum sponsor: Circuit Artist][x_raysan5_2072272935163679102-src] (July 1, 2026)
+
+![raylib platinum sponsor: Circuit Artist][x_raysan5_2072272935163679102-img]
+
+[x_raysan5_2072272935163679102-src]: https://x.com/raysan5/status/2072272935163679102
+[x_raysan5_2072272935163679102-img]: x_raysan5_2072272935163679102-2026_7_1.png "(By @raysan5 on Twitter/X): Hey! raylib got a new platinum sponsor: Circuit Artist by @lets_all_be_sf! The first game sponsoring raylib at that level! Circuit Artist is unique! Take a look: https://store.steampowered.com/app/3139580/Circuit_Artist , Source code available!: https://gitlab.com/lets_all_be_stupid_forever/circuit-artist"

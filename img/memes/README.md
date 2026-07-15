@@ -49,3 +49,17 @@
 
 [x_raysan5_2018343471367557528-src]: https://x.com/raysan5/status/2018343471367557528
 [x_raysan5_2018343471367557528-img]: x_raysan5_2018343471367557528-2026_2_2.png "(By @raysan5 on Twitter/X): Hey! My raylib talk at FOSDEM 2026 is already available online! It's been my biggest talk to date and the one that took me more work, with +5000 locs of hand-coded C, Hope you enjoy it!"
+
+- [Creating a course to learn raylib in 2 days (Drake jacket meme)][x_raysan5_2077480060148232284-src] (July 15, 2026)
+
+![Creating a course to learn raylib in 2 days (Drake jacket meme)][x_raysan5_2077480060148232284-img]
+
+[x_raysan5_2077480060148232284-src]: https://x.com/raysan5/status/2077480060148232284
+[x_raysan5_2077480060148232284-img]: x_raysan5_2077480060148232284-2026_7_15.png
+
+- ["DROP the PREFIX. It's CLEANER." (Justin Timberlake meme)][x_raysan5_2073153712646664268-src] (July 3, 2026)
+
+!["DROP the PREFIX. It's CLEANER." (Justin Timberlake meme)][x_raysan5_2073153712646664268-img]
+
+[x_raysan5_2073153712646664268-src]: https://x.com/raysan5/status/2073153712646664268
+[x_raysan5_2073153712646664268-img]: x_raysan5_2073153712646664268-2026_7_3.png

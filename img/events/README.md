@@ -228,10 +228,10 @@
 
 ![The "raylib 6.x Game Jam" **STARTING SOON!**][x_raysan5_2067931638848242088-img]
 
-[x_raysan5_2067931638848242088-src]: https://x.com/raysan5/status/2067931638848242088-2026_6_19.png
+[x_raysan5_2067931638848242088-src]: https://x.com/raysan5/status/2067931638848242088
 [x_raysan5_2067931638848242088-img]: x_raysan5_2067931638848242088-2026_6_19.png "(By @raysan5 on Twitter/X): ARE YOU READY for raylib?"
 
-* [From: raylib 6.x Game Jam](https://itch.io/jam/raylib-6x-gamejam)
+* [From: raylib 6.x Game Jam (itch)](https://itch.io/jam/raylib-6x-gamejam)
     
     - Promo Image (Discord)
     
@@ -263,3 +263,24 @@
     [itchio_raylib6xgamejam-img3-img]: itchio_raylib6xgamejam-img3.png "Games will be rated with a 5-star system in three different categories: Theme: How well the theme is used?, Fun: Is the game enjoyable to play?, Polish: What is the overall quality of the game, and was the time well spent?"
     [itchio_raylib6xgamejam-img4-img]: itchio_raylib6xgamejam-img4.png "The experience itself is way more valuable than any other prize! Actually, finishing a game under the constraints of this gamejam is a BIG achievement on itself... but prizes are nice too! The prizes will be given to the 3 games. One entry can only win in one category, so there will be 3 winners. Additional prizes may be awarded for honorable mention based on the submissions. NOTE: Prizes are subject to availability on winners countries, some countries could not support Steam gift cards. "
     [itchio_raylib6xgamejam-img5-img]: itchio_raylib6xgamejam-img5.png "ADDITIONALLY, ALL THE PARTICIPANTS THAT END UP **SUBMITTING A GAME FOLLOWING CONSTRAINTS** WILL RECEIVE AN itch.io KEY FOR ONE TOOL FROM raylib technologies! Tools to choose from: rTexViewer, rTexPacker, rImageShield, rInstallFriendly. NOTE: After the gamejam and project submission, tool key can be requested to Ray directly on raylib Discord."
+
+- [+250 developers already joined "raylib 6.x Game Jam"][x_raysan5_2071900179398078707-src] (June 30, 2026)
+
+![+250 developers already joined "raylib 6.x Game Jam"][x_raysan5_2071900179398078707-img]
+
+[x_raysan5_2071900179398078707-src]: https://x.com/raysan5/status/2071900179398078707
+[x_raysan5_2071900179398078707-img]: x_raysan5_2071900179398078707-2026_6_30.png "(By @raysan5 on Twitter/X): Wow! More than 250 developers already joined the raylib 6.x gamejam! The biggest raylib gamejam ever! Starting in 6 days! Are you ready??? Join now: https://itch.io/jam/raylib-6x-gamejam"
+
+- [**600** developers joined "raylib 6.x Game Jam"][x_raysan5_2074581923435855910-src]
+
+![**600** developers joined "raylib 6.x Game Jam"][x_raysan5_2074581923435855910-img]
+
+[x_raysan5_2074581923435855910-src]: https://x.com/raysan5/status/2074581923435855910
+[x_raysan5_2074581923435855910-img]: x_raysan5_2074581923435855910-2026_7_7.png "(By @raysan5 on Twitter/X): **600** developers joined the raylib 6.x gamejam! It almost triplicates last year gamejam devs count. Quite astonished to see that many users interested in a low-level C library like raylib... definitely, it is getting out of my hands... I need more resources..."
+
+- ["raylib 6.x Game Jam" finished with +150 submissions][x_raysan5_2076731233195745767-src] (July 13, 2026)
+
+!["raylib 6.x Game Jam" finished with +150 submissions][x_raysan5_2076731233195745767-img]
+
+[x_raysan5_2076731233195745767-src]: https://x.com/raysan5/status/2076731233195745767
+[x_raysan5_2076731233195745767-img]: x_raysan5_2076731233195745767-2026_7_13.png "(By @raysan5 on Twitter/X): raylib 6.x gamejam just finished and +150 games have been submitted! AMAZING! You can play (and rate) all games on Web! Check them out: https://itch.io/jam/raylib-6x-gamejam/entries"
