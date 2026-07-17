@@ -391,3 +391,11 @@
 
 [x_raysan5_2048707287624135000-src]: https://x.com/raysan5/status/2048707287624135000
 [x_raysan5_2048707287624135000-img]: x_raysan5_2048707287624135000-2026_4_27.png "(By @raysan5 on Twitter/X): raylib got into the Top 20 most starred C repos on GitHub! Thanks to all the people that has starred raylib along the years! Repo: https://github.com/raysan5/raylib"
+
+- [raylib surpassed 10K commits and reached 900 contributors][x_raysan5_2077718299358453890-src] (July 16, 2026)
+
+![raylib surpassed 10K commits and reached 900 contributors][x_raysan5_2077718299358453890-img]
+
+[x_raysan5_2077718299358453890-src]: https://x.com/raysan5/status/2077718299358453890
+[x_raysan5_2077718299358453890-img]: x_raysan5_2077718299358453890-2026_7_16.png "(By @raysan5 on Twitter/X): New milestones reached! raylib just surpassed the 10K commits and reached 900 contributors!"
+
