@@ -162,6 +162,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [raylib-assert][RobLoach-raylib-assert]                  | [RobLoach][RobLoach-github]                 | Runtime assertion library for raylib                                                                                            |
 | [dk_console][dkvilo-dk_console]                          | [dkvilo][dkvilo-github]                     | Drop in dev console for your raylib game/engine                                                                                 |
 | [raylib-video][RicoP-raylib-video]                       | [RicoP][RicoP-github]                       | A multi-threaded realtime single header library to stream MPEG1 videos to textures                                              |
+| [raylib-debug-kit][binRick-raylib-debug-kit]             | [binRick][binRick-github]                   | Single-header event log, on-demand screenshots, seeded repeatable runs and debug overlay for raylib games.                      |
+| [raylib-touch-kit][binRick-raylib-touch-kit]             | [binRick][binRick-github]                   | Single-header on-screen analog stick and buttons for raylib games on phones and tablets, multi-touch, no assets.                |
+| [raylib-canvas-kit][binRick-raylib-canvas-kit]           | [binRick][binRick-github]                   | Single-header fixed-resolution rendering at any window size: letterbox, pixel-perfect, fill or stretch, with input mapped back. |
+| [raylib-dev-kit][binRick-raylib-dev-kit]                 | [binRick][binRick-github]                   | Single-header developer modes for raylib games: sound board, asset gallery and custom sandboxes.                                |
 
 [SasLuca-rayfork]:                  https://github.com/SasLuca/rayfork
 [raysan5-raygui]:                   https://github.com/raysan5/raygui
@@ -223,6 +227,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [RobLoach-raylib-assert]:           https://github.com/RobLoach/raylib-assert
 [dkvilo-dk_console]:                https://github.com/dkvilo/dk_console
 [RicoP-raylib-video]:               https://github.com/RicoP/raylib-video
+[binRick-raylib-debug-kit]:         https://github.com/binRick/raylib-debug-kit
+[binRick-raylib-touch-kit]:         https://github.com/binRick/raylib-touch-kit
+[binRick-raylib-canvas-kit]:        https://github.com/binRick/raylib-canvas-kit
+[binRick-raylib-dev-kit]:           https://github.com/binRick/raylib-dev-kit
 
 ### Softwares
 
@@ -684,6 +692,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [raylib-scaffold][waruqi-raylib-scaffold]                                  | [waruqi][waruqi-github]                        | Minimal raylib project template that uses XMake.                                                                               |
 | [RayTemplateC][GoldenbergDaniel-RayTemplateC]                              | [GoldenbergDaniel][GoldenbergDaniel-github]    | Template for the raylib library in C.                                                                                          |
 | [Raylib Screensaver][RicoP-raylib-screensaver]                             | [RicoP][RicoP-github]                          | Template for windows 3D screensavers made in raylib.                                                                           |
+| [raylib-ship-kit][binRick-raylib-ship-kit]                                 | [binRick][binRick-github]                      | Template to ship a raylib C game to macOS, Windows, Linux, web, iPhone and iPad with one command each.                         |
 
 [tducasse-raylib_starter]:                    https://github.com/tducasse/raylib_starter
 [daandruff-rbpi400raylib]:                    https://github.com/daandruff/rbpi400raylib
@@ -726,6 +735,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [waruqi-raylib-scaffold]:                     https://github.com/waruqi/raylib-scaffold
 [GoldenbergDaniel-RayTemplateC]:              https://github.com/GoldenbergDaniel/RayTemplateC
 [RicoP-raylib-screensaver]:                   https://github.com/RicoP/raylib-screensaver
+[binRick-raylib-ship-kit]:                    https://github.com/binRick/raylib-ship-kit
 
 ### Articles
 
@@ -1114,6 +1124,7 @@ Developers can open an issue or pull request for a feature and/or improvement, E
 [Samerion-git]:                              https://git.samerion.com/Samerion
 [dkvilo-github]:                             https://github.com/dkvilo
 [RicoP-github]:                              https://github.com/RicoP
+[binRick-github]:                            https://github.com/binRick
 [gtrxAC-github]:                             https://github.com/gtrxAC
 [adct-the-experimenter-github]:              https://github.com/adct-the-experimenter
 [Lockna-github]:                             https://github.com/Lockna
